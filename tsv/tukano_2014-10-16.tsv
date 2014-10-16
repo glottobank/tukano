@@ -1,0 +1,1403 @@
+ID	DOCULECT	CONCEPT	COUNTERPART	IPA	PROTO	COGID	GLOSA 1 PORT	GLOSA 2 PORT	GLOSA 2 ENGL	GLOSA 3 PORT	GLOSS 3 ENGL	PWT	PET
+1	SIO	feminine	go, ʔkho	go	*-kʔo	1	-	-	-	-	-	-	-
+2	SEK	feminine	o	o	*-kʔo	1	-	-	-	-	-	-	-
+3	KOR	feminine	o	o	*-kʔo	1	-	-	-	-	-	-	-
+4	MAL	feminine	o	o	*-kʔo	1	-	-	-	-	-	-	-
+5	KUB	feminine	ko	ko	*-kʔo	1	-	-	-	-	-	-	-
+6	DES	feminine	go	go	*-kʔo	1	-	-	-	-	-	-	-
+7	BAS	feminine	go	go	*-kʔo	1	-	-	-	-	-	-	-
+8	TUK	feminine	go	go	*-kʔo	1	-	-	-	-	-	-	-
+9	KAR	feminine	o	o	*-kʔo	1	-	-	-	-	-	-	-
+10	WAN	feminine	-ko	ko	*-kʔo	1	-	-	-	-	-	-	-
+11	PLR	feminine	-ko	ko	*-kʔo	1	-	-	-	-	-	-	-
+12	SIO	non.3rd.animate.person	~wɨ	~wɨ	*-pʔɨ	2	-	-	-	-	-	-	-
+13	SEK	non.3rd.animate.person	wɨ	wɨ	*-pʔɨ	2	-	-	-	-	-	-	-
+14	KUB	non.3rd.animate.person	wɨ	wɨ	*-pʔɨ	2	-	-	-	-	-	-	-
+15	DES	non.3rd.animate.person	bɨ	bɨ	*-pʔɨ	2	-	-	-	-	-	-	-
+16	BAS	non.3rd.animate.person	bɨ	bɨ	*-pʔɨ	2	-	-	-	-	-	-	-
+17	TUK	non.3rd.animate.person	-pɨ	pɨ	*-pʔɨ	2	-	-	-	-	-	-	-
+18	SEK	3rd.person.masculine	pi, hi	pi	*-pi	3	3a ps masc I	-	-	-	-	-	-
+19	KUB	3rd.person.masculine	bi	bi	*-pi	3	3a ps masc I	-	-	-	-	-	-
+20	DES	3rd.person.masculine	~bi	~bi	*-pi	3	3a ps masc I	-	-	-	-	-	-
+21	BAS	3rd.person.masculine	~bi	~bi	*-pi	3	3a ps masc I	-	-	-	-	-	-
+22	TUK	3rd.person.masculine	-~bi	~bi	*-pi	3	3a ps masc I	-	-	-	-	-	-
+23	SIO	Case: non-nominatvie	re,  ʔthe	re	*-tʔe	4	Caso: Não-nominativo	-	-	-	-	-	-
+24	SEK	Case: non-nominatvie	re, te	re	*-tʔe	4	Caso: Não-nominativo	-	-	-	-	-	-
+25	KOR	Case: non-nominatvie	re, ʔthe	re	*-tʔe	4	Caso: Não-nominativo	-	-	-	-	-	-
+26	MAL	Case: non-nominatvie	de	de	*-tʔe	4	Caso: Não-nominativo	-	-	-	-	-	-
+27	TAN	Case: non-nominatvie	re	re	*-tʔe	4	Caso: Não-nominativo	-	-	-	-	-	-
+28	KUB	Case: non-nominatvie	de	de	*-tʔe	4	Caso: Não-nominativo	-	-	-	-	-	-
+29	DES	Case: non-nominatvie	de	de	*-tʔe	4	Caso: Não-nominativo	-	-	-	-	-	-
+30	BAS	Case: non-nominatvie	re	re	*-tʔe	4	Caso: Não-nominativo	-	-	-	-	-	-
+31	TUK	Case: non-nominatvie	-re	re	*-tʔe	4	Caso: Não-nominativo	-	-	-	-	-	-
+32	KAR	Case: non-nominatvie	-re	re	*-tʔe	4	Caso: Não-nominativo	-	-	-	-	-	-
+33	WAN	Case: non-nominatvie	-re	re	*-tʔe	4	Caso: Não-nominativo	-	-	-	-	-	-
+34	PLR	Case: non-nominatvie	-re	re	*-tʔe	4	Caso: Não-nominativo	-	-	-	-	-	-
+35	SIO	locative	ro, ʔtho	ro	*-tʔo	5	locativo	parto-of-a-whole	-	-	-	-	-
+36	SEK	locative	ro, to	ro	*-tʔo	5	locativo	parto-of-a-whole	-	-	-	-	-
+37	MAL	locative	do	do	*-tʔo	5	locativo	parto-of-a-whole	-	-	-	-	-
+38	KUB	locative	~do	~do	*-tʔo	5	locativo	parto-of-a-whole	-	-	-	-	-
+39	DES	locative	do	do	*-tʔo	5	locativo	parto-of-a-whole	-	-	-	-	-
+40	BAS	locative	do	do	*-tʔo	5	locativo	parto-of-a-whole	-	-	-	-	-
+41	TUK	locative	-do	do	*-tʔo	5	locativo	parto-of-a-whole	-	-	-	-	-
+42	KAR	locative	-do	do	*-tʔo	5	locativo	parto-of-a-whole	-	-	-	-	-
+43	WAN	locative	-do	do	*-tʔo	5	locativo	parto-of-a-whole	-	-	-	-	-
+44	PLR	locative	-do	do	*-tʔo	5	locativo	parto-of-a-whole	-	-	-	-	-
+45	SIO	snake	ãjã	ãjã	*ãja	6	cobra	-	-	-	-	-	-
+46	SEK	snake	ãjã	ãjã	*ãja	6	cobra	-	-	-	-	-	-
+47	KOR	snake	ãjã	ãjã	*ãja	6	cobra	-	-	-	-	-	-
+48	MAL	snake	ãjã	ãjã	*ãja	6	cobra	-	-	-	-	-	-
+49	KUE	snake	haja	haja	*ãja	6	cobra	-	-	-	-	-	-
+50	TAN	snake	~aja	~aja	*ãja	6	cobra	-	-	-	-	-	-
+51	KUB	snake	~aja	~aja	*ãja	6	cobra	-	-	-	-	-	-
+52	DES	snake	~aja	~aja	*ãja	6	cobra	-	-	-	-	-	-
+53	BAS	snake	~aja	~aja	*ãja	6	cobra	-	-	-	-	-	-
+54	TUK	snake	~aja	~aja	*ãja	6	cobra	-	-	-	-	-	-
+55	KAR	snake	~aja	~aja	*ãja	6	cobra	-	-	-	-	-	-
+56	TUY	snake	~aja	~aja	*ãja	6	cobra	-	-	-	-	-	-
+57	WAN	snake	~aja	~aja	*ãja	6	cobra	-	-	-	-	-	-
+58	PLR	snake	~aja	~aja	*ãja	6	cobra	-	-	-	-	-	-
+59	SIO	hot	haʔsu	haʔsu	*atjɨ	7	quente	heat	-	-	-	-	-
+60	KOR	hot	asu	asu	*atjɨ	7	quente	heat	-	-	-	-	-
+61	MAL	hot	at∫u	at∫u	*atjɨ	7	quente	heat	-	-	-	-	-
+62	KUE	hot	&#10;hatɨ	&#10	*atjɨ	7	quente	heat	-	-	-	-	-
+63	DES	hot	asi	asi	*atjɨ	7	quente	heat	-	-	-	-	-
+64	YUP	hot	ahtsiama	ahtsiama	*atjɨ	7	quente	heat	-	-	-	-	-
+65	BAS	hot	aci	aci	*atjɨ	7	quente	heat	-	-	-	-	-
+66	TUK	hot	asi	asi	*atjɨ	7	quente	heat	-	-	-	-	-
+67	KAR	hot	asi	asi	*atjɨ	7	quente	heat	-	-	-	-	-
+68	TUY	hot	asi	asi	*atjɨ	7	quente	heat	-	-	-	-	-
+69	WAN	hot	si	si	*atjɨ	7	quente	heat	-	-	-	-	-
+70	SIO	nose	ũkue	ũkue	*ɨ̃kwʔe	8	nariz	-	-	-	-	-	-
+71	SEK	nose	õkwe	õkwe	*ɨ̃kwʔe	8	nariz	-	-	-	-	-	-
+72	KOR	nose	ɨ̃khe	ɨ̃khe	*ɨ̃kwʔe	8	nariz	-	-	-	-	-	-
+73	MAL	nose	ũkue	ũkue	*ɨ̃kwʔe	8	nariz	-	-	-	-	-	-
+74	KUE	nose	kome	kome	*ɨ̃kwʔe	8	nariz	-	-	-	-	-	-
+75	TAN	nose	~obe	~obe	*ɨ̃kwʔe	8	nariz	-	-	-	-	-	-
+76	KUB	nose	ũeka	ũeka	*ɨ̃kwʔe	8	nariz	-	-	-	-	-	-
+77	DES	nose	~iʔgi	~iʔgi	*ɨ̃kwʔe	8	nariz	-	-	-	-	-	-
+78	YUP	nose	ɨgɨ	ɨgɨ	*ɨ̃kwʔe	8	nariz	-	-	-	-	-	-
+79	BAS	nose	~ige	~ige	*ɨ̃kwʔe	8	nariz	-	-	-	-	-	-
+80	TUK	nose	~eʔke	~eʔke	*ɨ̃kwʔe	8	nariz	-	-	-	-	-	-
+81	KAR	nose	~ɨke	~ɨke	*ɨ̃kwʔe	8	nariz	-	-	-	-	-	-
+82	TUY	nose	~ekea	~ekea	*ɨ̃kwʔe	8	nariz	-	-	-	-	-	-
+83	WAN	nose	~ke	~ke	*ɨ̃kwʔe	8	nariz	-	-	-	-	-	-
+84	SIO	man	ɨmɨ	ɨmɨ	*ɨmɨ	9	homem	-	-	-	-	-	-
+85	SEK	man	ɨ̃mɨ̃	ɨ̃mɨ̃	*ɨmɨ	9	homem	-	-	-	-	-	-
+86	KOR	man	ɨmɨ	ɨmɨ	*ɨmɨ	9	homem	-	-	-	-	-	-
+87	MAL	man	ɨmɨ	ɨmɨ	*ɨmɨ	9	homem	-	-	-	-	-	-
+88	TAN	man	~ɨbɨ	~ɨbɨ	*ɨmɨ	9	homem	-	-	-	-	-	-
+89	KUB	man	~ɨbɨ	~ɨbɨ	*ɨmɨ	9	homem	-	-	-	-	-	-
+90	DES	man	~ɨbɨ	~ɨbɨ	*ɨmɨ	9	homem	-	-	-	-	-	-
+91	BAS	man	~ɨbɨ	~ɨbɨ	*ɨmɨ	9	homem	-	-	-	-	-	-
+92	TUK	man	~ɨbɨ	~ɨbɨ	*ɨmɨ	9	homem	-	-	-	-	-	-
+93	KAR	man	~bɨ	~bɨ	*ɨmɨ	9	homem	-	-	-	-	-	-
+94	TUY	man	~ɨbɨ	~ɨbɨ	*ɨmɨ	9	homem	-	-	-	-	-	-
+95	WAN	man	~ɨbɨ	~ɨbɨ	*ɨmɨ	9	homem	-	-	-	-	-	-
+96	SIO	pupunha	ɨne	ɨne	*ɨne	10	pupunha	-	-	-	-	-	-
+97	KOR	pupunha	ɨne	ɨne	*ɨne	10	pupunha	-	-	-	-	-	-
+98	KUE	pupunha	ɨʔne	ɨʔne	*ɨne	10	pupunha	-	-	-	-	-	-
+99	TAN	pupunha	~ire	~ire	*ɨne	10	pupunha	-	-	-	-	-	-
+100	KUB	pupunha	~ɨde	~ɨde	*ɨne	10	pupunha	-	-	-	-	-	-
+101	DES	pupunha	~ɨdi	~ɨdi	*ɨne	10	pupunha	-	-	-	-	-	-
+102	BAS	pupunha	~ɨde	~ɨde	*ɨne	10	pupunha	-	-	-	-	-	-
+103	TUK	pupunha	~ɨde	~ɨde	*ɨne	10	pupunha	-	-	-	-	-	-
+104	KAR	pupunha	~ɨde	~ɨde	*ɨne	10	pupunha	-	-	-	-	-	-
+105	WAN	pupunha	~ɨde	~ɨde	*ɨne	10	pupunha	-	-	-	-	-	-
+106	PLR	pupunha	~ɨde	~ɨde	*ɨne	10	pupunha	-	-	-	-	-	-
+107	KUE	three	itia	itia	*ɨtʔia	11	três	-	-	-	-	-	*ɨtʔia
+108	DES	three	ɨʔde	ɨʔde	*ɨtʔia	11	três	-	-	-	-	-	*ɨtʔia
+109	BAS	three	idia	idia	*ɨtʔia	11	três	-	-	-	-	-	*ɨtʔia
+110	TUK	three	iʔtia	iʔtia	*ɨtʔia	11	três	-	-	-	-	-	*ɨtʔia
+111	TUY	three	itia	itia	*ɨtʔia	11	três	-	-	-	-	-	*ɨtʔia
+112	WAN	three	tia	tia	*ɨtʔia	11	três	-	-	-	-	-	*ɨtʔia
+113	SIO	grape	ɨje	ɨje	*ɨʔje	12	cucura	-	-	-	-	-	-
+114	KOR	grape	ɨje	ɨje	*ɨʔje	12	cucura	-	-	-	-	-	-
+115	MAL	grape	ede	ede	*ɨʔje	12	cucura	-	-	-	-	-	-
+116	KUB	grape	ɨ́jai	ɨ́jai	*ɨʔje	12	cucura	-	-	-	-	-	-
+117	DES	grape	igi	igi	*ɨʔje	12	cucura	-	-	-	-	-	-
+118	BAS	grape	ɨje	ɨje	*ɨʔje	12	cucura	-	-	-	-	-	-
+119	TUK	grape	ɨʔse	ɨʔse	*ɨʔje	12	cucura	-	-	-	-	-	-
+120	KAR	grape	ɨse	ɨse	*ɨʔje	12	cucura	-	-	-	-	-	-
+121	TUY	grape	ɨse	ɨse	*ɨʔje	12	cucura	-	-	-	-	-	-
+122	WAN	grape	se	se	*ɨʔje	12	cucura	-	-	-	-	-	-
+123	SEK	heron	jai	jai	*jahi	13	garça	-	-	-	-	-	-
+124	MAL	heron	jai	jai	*jahi	13	garça	-	-	-	-	-	-
+125	KUB	heron	jai	jai	*jahi	13	garça	-	-	-	-	-	-
+126	DES	heron	jahi	jahi	*jahi	13	garça	-	-	-	-	-	-
+127	BAS	heron	jehe	jehe	*jahi	13	garça	-	-	-	-	-	-
+128	TUK	heron	jahe	jahe	*jahi	13	garça	-	-	-	-	-	-
+129	KAR	heron	jee	jee	*jahi	13	garça	-	-	-	-	-	-
+130	TUY	heron	yee	yee	*jahi	13	garça	-	-	-	-	-	-
+131	WAN	heron	jaha	jaha	*jahi	13	garça	-	-	-	-	-	-
+132	SIO	jaguar	jai	jai	*jai	14	onça	-	-	-	-	-	-
+133	SEK	jaguar	jai	jai	*jai	14	onça	-	-	-	-	-	-
+134	KOR	jaguar	jai	jai	*jai	14	onça	-	-	-	-	-	-
+135	MAL	jaguar	jai	jai	*jai	14	onça	-	-	-	-	-	-
+136	KUE	jaguar	hijai	hijai	*jai	14	onça	-	-	-	-	-	-
+137	TAN	jaguar	jaia	jaia	*jai	14	onça	-	-	-	-	-	-
+138	KUB	jaguar	jawi	jawi	*jai	14	onça	-	-	-	-	-	-
+139	DES	jaguar	jee	jee	*jai	14	onça	-	-	-	-	-	-
+140	BAS	jaguar	jai	jai	*jai	14	onça	-	-	-	-	-	-
+141	TUK	jaguar	jai	jai	*jai	14	onça	-	-	-	-	-	-
+142	KAR	jaguar	jai	jai	*jai	14	onça	-	-	-	-	-	-
+143	WAN	jaguar	jai	jai	*jai	14	onça	-	-	-	-	-	-
+144	KUB	centipede	ãi	ãi	*jãkʔi	15	centopéia	jibóia (kub)	boa (kub)	-	-	-	*jãkʔi
+145	DES	centipede	~aʔgi	~aʔgi	*jãkʔi	15	centopéia	jibóia (kub)	boa (kub)	-	-	-	*jãkʔi
+146	TUK	centipede	~aʔki	~aʔki	*jãkʔi	15	centopéia	jibóia (kub)	boa (kub)	-	-	-	*jãkʔi
+147	TUY	centipede	~budi	~budi	*jãkʔi	15	centopéia	jibóia (kub)	boa (kub)	-	-	-	*jãkʔi
+148	WAN	centipede	~jaʔki	~jaʔki	*jãkʔi	15	centopéia	jibóia (kub)	boa (kub)	-	-	-	*jãkʔi
+149	SIO	deer	jãma	jãma	*jama	16	veado	-	-	-	-	-	-
+150	SEK	deer	jãma	jãma	*jama	16	veado	-	-	-	-	-	-
+151	KOR	deer	jãma	jãma	*jama	16	veado	-	-	-	-	-	-
+152	KUE	deer	jãma	jãma	*jama	16	veado	-	-	-	-	-	-
+153	TAN	deer	~jaba	~jaba	*jama	16	veado	-	-	-	-	-	-
+154	KUB	deer	~jaba	~jaba	*jama	16	veado	-	-	-	-	-	-
+155	DES	deer	~jaba	~jaba	*jama	16	veado	-	-	-	-	-	-
+156	BAS	deer	~jaba	~jaba	*jama	16	veado	-	-	-	-	-	-
+157	TUK	deer	~jaba	~jaba	*jama	16	veado	-	-	-	-	-	-
+158	KAR	deer	~jaba	~jaba	*jama	16	veado	-	-	-	-	-	-
+159	TUY	deer	~jaba	~jaba	*jama	16	veado	-	-	-	-	-	-
+160	WAN	deer	~jaba	~jaba	*jama	16	veado	-	-	-	-	-	-
+161	SIO	yam	jãho	jãho	*jãpʔo	17	nhame	-	-	-	-	-	-
+162	KOR	yam	jãho	jãho	*jãpʔo	17	nhame	-	-	-	-	-	-
+163	MAL	yam	jãho	jãho	*jãpʔo	17	nhame	-	-	-	-	-	-
+164	KUE	yam	jau	jau	*jãpʔo	17	nhame	-	-	-	-	-	-
+165	TAN	yam	~jaʔbu	~jaʔbu	*jãpʔo	17	nhame	-	-	-	-	-	-
+166	KUB	yam	~jabu	~jabu	*jãpʔo	17	nhame	-	-	-	-	-	-
+167	DES	yam	~jaʔbo	~jaʔbo	*jãpʔo	17	nhame	-	-	-	-	-	-
+168	BAS	yam	~jabo	~jabo	*jãpʔo	17	nhame	-	-	-	-	-	-
+169	TUK	yam	~jaʔbu	~jaʔbu	*jãpʔo	17	nhame	-	-	-	-	-	-
+170	KAR	yam	~jabo	~jabo	*jãpʔo	17	nhame	-	-	-	-	-	-
+171	TUY	yam	~jabu	~jabu	*jãpʔo	17	nhame	-	-	-	-	-	-
+172	WAN	yam	~jaʔbu	~jaʔbu	*jãpʔo	17	nhame	-	-	-	-	-	-
+173	SEK	cará(Dioscorea alata)	jahi	jahi	*japi	18	Cará	-	-	-	-	-	-
+174	KOR	cará(Dioscorea alata)	jahi	jahi	*japi	18	Cará	-	-	-	-	-	-
+175	KUE	cará(Dioscorea alata)	jahiri	jahiri	*japi	18	Cará	-	-	-	-	-	-
+176	TAN	cará(Dioscorea alata)	~jaʔpi	~jaʔpi	*japi	18	Cará	-	-	-	-	-	-
+177	KUB	cará(Dioscorea alata)	~japi	~japi	*japi	18	Cará	-	-	-	-	-	-
+178	DES	cará(Dioscorea alata)	~japi	~japi	*japi	18	Cará	-	-	-	-	-	-
+179	BAS	cará(Dioscorea alata)	~jahi	~jahi	*japi	18	Cará	-	-	-	-	-	-
+180	TUK	cará(Dioscorea alata)	~japi	~japi	*japi	18	Cará	-	-	-	-	-	-
+181	KAR	cará(Dioscorea alata)	~japi	~japi	*japi	18	Cará	-	-	-	-	-	-
+182	WAN	cará(Dioscorea alata)	~japi	~japi	*japi	18	Cará	-	-	-	-	-	-
+183	KOR	grand-father	jẽkuɨ	jẽkuɨ	*jẽkku-	19	avô	-	-	-	-	-	-
+184	MAL	grand-father	jẽkɨ	jẽkɨ	*jẽkku-	19	avô	-	-	-	-	-	-
+185	KUB	grand-father	~jekũjo	~jekũjo	*jẽkku-	19	avô	-	-	-	-	-	-
+186	DES	grand-father	~jekɨ	~jekɨ	*jẽkku-	19	avô	-	-	-	-	-	-
+187	BAS	grand-father	~jikɨ	~jikɨ	*jẽkku-	19	avô	-	-	-	-	-	-
+188	TUK	grand-father	~jekɨ	~jekɨ	*jẽkku-	19	avô	-	-	-	-	-	-
+189	KAR	grand-father	~jikɨ	~jikɨ	*jẽkku-	19	avô	-	-	-	-	-	-
+190	TUY	grand-father	~jekɨ	~jekɨ	*jẽkku-	19	avô	-	-	-	-	-	-
+191	WAN	grand-father	~jɨt∫ɨ	~jɨt∫ɨ	*jẽkku-	19	avô	-	-	-	-	-	-
+192	SIO	land	jiha	jiha	*jepʔa	20	terra	-	-	baixo (kubo)	low (kub)	-	-
+193	SEK	land	jeha	jeha	*jepʔa	20	terra	-	-	baixo (kubo)	low (kub)	-	-
+194	KOR	land	jeha	jeha	*jepʔa	20	terra	-	-	baixo (kubo)	low (kub)	-	-
+195	MAL	land	jiha	jiha	*jepʔa	20	terra	-	-	baixo (kubo)	low (kub)	-	-
+196	KUB	land	jiba	jiba	*jepʔa	20	terra	-	-	baixo (kubo)	low (kub)	-	-
+197	DES	land	jeeba	jeeba	*jepʔa	20	terra	-	-	baixo (kubo)	low (kub)	-	-
+198	BAS	land	jeba	jeba	*jepʔa	20	terra	-	-	baixo (kubo)	low (kub)	-	-
+199	TUK	land	jeʔpa	jeʔpa	*jepʔa	20	terra	-	-	baixo (kubo)	low (kub)	-	-
+200	KAR	land	jepa	jepa	*jepʔa	20	terra	-	-	baixo (kubo)	low (kub)	-	-
+201	WAN	land	jaʔpa	jaʔpa	*jepʔa	20	terra	-	-	baixo (kubo)	low (kub)	-	-
+202	SIO	mouth2	jiʔobo	jiʔobo	*jɨ-ʔo	21	boca2	-	-	-	-	*jɨ-ʔo	-
+203	SEK	mouth2	jɨʔo	jɨʔo	*jɨ-ʔo	21	boca2	-	-	-	-	*jɨ-ʔo	-
+204	KOR	mouth2	jiʔobo	jiʔobo	*jɨ-ʔo	21	boca2	-	-	-	-	*jɨ-ʔo	-
+205	MAL	mouth2	jo	jo	*jɨ-ʔo	21	boca2	-	-	-	-	*jɨ-ʔo	-
+206	SIO	kapok	jɨi	jɨi	*jɨi	22	algodão do mato	-	-	-	-	-	-
+207	SEK	kapok	jɨi	jɨi	*jɨi	22	algodão do mato	-	-	-	-	-	-
+208	KOR	kapok	oja	oja	*jɨi	22	algodão do mato	-	-	-	-	-	-
+209	KUE	kapok	iʔotahe	iʔotahe	*jɨi	22	algodão do mato	-	-	-	-	-	-
+210	TAN	kapok	juʔta	juʔta	*jɨi	22	algodão do mato	-	-	-	-	-	-
+211	KUB	kapok	jɨi	jɨi	*jɨi	22	algodão do mato	-	-	-	-	-	-
+212	DES	kapok	juda	juda	*jɨi	22	algodão do mato	-	-	-	-	-	-
+213	BAS	kapok	jɨta	jɨta	*jɨi	22	algodão do mato	-	-	-	-	-	-
+214	TUK	kapok	juta	juta	*jɨi	22	algodão do mato	-	-	-	-	-	-
+215	KAR	kapok	jita	jita	*jɨi	22	algodão do mato	-	-	-	-	-	-
+216	WAN	kapok	juta	juta	*jɨi	22	algodão do mato	-	-	-	-	-	-
+217	SEK	leg	dɨ̃ka	dɨ̃ka	*jɨ̃ka	23	perna	quadril (kub)	hips (kube)	joelho (kor)	knee (kor)	-	-
+218	KOR	leg	jũka	jũka	*jɨ̃ka	23	perna	quadril (kub)	hips (kube)	joelho (kor)	knee (kor)	-	-
+219	TAN	leg	~jika	~jika	*jɨ̃ka	23	perna	quadril (kub)	hips (kube)	joelho (kor)	knee (kor)	-	-
+220	KUB	leg	~jɨa	~jɨa	*jɨ̃ka	23	perna	quadril (kub)	hips (kube)	joelho (kor)	knee (kor)	-	-
+221	DES	leg	~jiga	~jiga	*jɨ̃ka	23	perna	quadril (kub)	hips (kube)	joelho (kor)	knee (kor)	-	-
+222	BAS	leg	~jika	~jika	*jɨ̃ka	23	perna	quadril (kub)	hips (kube)	joelho (kor)	knee (kor)	-	-
+223	TUK	leg	~jeka	~jeka	*jɨ̃ka	23	perna	quadril (kub)	hips (kube)	joelho (kor)	knee (kor)	-	-
+224	KAR	leg	~jika	~jika	*jɨ̃ka	23	perna	quadril (kub)	hips (kube)	joelho (kor)	knee (kor)	-	-
+225	TUY	leg	~jika	~jika	*jɨ̃ka	23	perna	quadril (kub)	hips (kube)	joelho (kor)	knee (kor)	-	-
+226	WAN	leg	~jɨt∫ɨ	~jɨt∫ɨ	*jɨ̃ka	23	perna	quadril (kub)	hips (kube)	joelho (kor)	knee (kor)	-	-
+227	SIO	I	jɨɨ	jɨɨ	*jɨʔɨ	24	Eu	-	-	-	-	-	-
+228	SEK	I	jɨʔɨ	jɨʔɨ	*jɨʔɨ	24	Eu	-	-	-	-	-	-
+229	KOR	I	jɨʔɨ	jɨʔɨ	*jɨʔɨ	24	Eu	-	-	-	-	-	-
+230	MAL	I	ji	ji	*jɨʔɨ	24	Eu	-	-	-	-	-	-
+231	KUE	I	jehɨ	jehɨ	*jɨʔɨ	24	Eu	-	-	-	-	-	-
+232	TAN	I	jiʔi	jiʔi	*jɨʔɨ	24	Eu	-	-	-	-	-	-
+233	KUB	I	jɨ	jɨ	*jɨʔɨ	24	Eu	-	-	-	-	-	-
+234	DES	I	jɨʔɨ	jɨʔɨ	*jɨʔɨ	24	Eu	-	-	-	-	-	-
+235	BAS	I	jɨɨ	jɨɨ	*jɨʔɨ	24	Eu	-	-	-	-	-	-
+236	TUK	I	jɨʔɨ	jɨʔɨ	*jɨʔɨ	24	Eu	-	-	-	-	-	-
+237	KAR	I	jɨɨ	jɨɨ	*jɨʔɨ	24	Eu	-	-	-	-	-	-
+238	TUY	I	jɨɨ	jɨɨ	*jɨʔɨ	24	Eu	-	-	-	-	-	-
+239	WAN	I	jɨʔɨ	jɨʔɨ	*jɨʔɨ	24	Eu	-	-	-	-	-	-
+240	SIO	ear	kʔãho	kʔãho	*kʔãpʔo	25	orelha	-	-	-	-	-	-
+241	SEK	ear	kãho	kãho	*kʔãpʔo	25	orelha	-	-	-	-	-	-
+242	KOR	ear	kãho	kãho	*kʔãpʔo	25	orelha	-	-	-	-	-	-
+243	MAL	ear	gãho	gãho	*kʔãpʔo	25	orelha	-	-	-	-	-	-
+244	KUE	ear	~kiau	~kiau	*kʔãpʔo	25	orelha	-	-	-	-	-	-
+245	TAN	ear	~abu	~abu	*kʔãpʔo	25	orelha	-	-	-	-	-	-
+246	KUB	ear	~kamu	~kamu	*kʔãpʔo	25	orelha	-	-	-	-	-	-
+247	DES	ear	~gabi	~gabi	*kʔãpʔo	25	orelha	-	-	-	-	-	-
+248	BAS	ear	~gabo	~gabo	*kʔãpʔo	25	orelha	-	-	-	-	-	-
+249	TUK	ear	~oʔbe	~oʔbe	*kʔãpʔo	25	orelha	-	-	-	-	-	-
+250	KAR	ear	~abo	~abo	*kʔãpʔo	25	orelha	-	-	-	-	-	-
+251	TUY	ear	~kabo	~kabo	*kʔãpʔo	25	orelha	-	-	-	-	-	-
+252	WAN	ear	~kaʔbo	~kaʔbo	*kʔãpʔo	25	orelha	-	-	-	-	-	-
+253	SIO	foot	~kʔɨo	~kʔɨo	*kʔɨpʔo	26	pé	-	-	-	-	-	-
+254	SEK	foot	~kɨo	~kɨo	*kʔɨpʔo	26	pé	-	-	-	-	-	-
+255	KOR	foot	~kuʔa	~kuʔa	*kʔɨpʔo	26	pé	-	-	-	-	-	-
+256	MAL	foot	~gɨo	~gɨo	*kʔɨpʔo	26	pé	-	-	-	-	-	-
+257	KUE	foot	kohu	kohu	*kʔɨpʔo	26	pé	-	-	-	-	-	-
+258	TAN	foot	~uʔpu	~uʔpu	*kʔɨpʔo	26	pé	-	-	-	-	-	-
+259	KUB	foot	kɨbo	kɨbo	*kʔɨpʔo	26	pé	-	-	-	-	-	-
+260	DES	foot	guʔbu	guʔbu	*kʔɨpʔo	26	pé	-	-	-	-	-	-
+261	BAS	foot	gɨbo	gɨbo	*kʔɨpʔo	26	pé	-	-	-	-	-	-
+262	TUK	foot	dɨʔpo	dɨʔpo	*kʔɨpʔo	26	pé	-	-	-	-	-	-
+263	KAR	foot	rɨpo	rɨpo	*kʔɨpʔo	26	pé	-	-	-	-	-	-
+264	TUY	foot	dɨpo	dɨpo	*kʔɨpʔo	26	pé	-	-	-	-	-	-
+265	WAN	foot	daʔpo	daʔpo	*kʔɨpʔo	26	pé	-	-	-	-	-	-
+266	SIO	excrement	kʔɨta	kʔɨta	*kʔɨtʔa	27	fezes	-	-	-	-	-	-
+267	SEK	excrement	ɨ̃ta	ɨ̃ta	*kʔɨtʔa	27	fezes	-	-	-	-	-	-
+268	KOR	excrement	kɨta	kɨta	*kʔɨtʔa	27	fezes	-	-	-	-	-	-
+269	MAL	excrement	ɨ̃ta	ɨ̃ta	*kʔɨtʔa	27	fezes	-	-	-	-	-	-
+270	KUE	excrement	ɨta	ɨta	*kʔɨtʔa	27	fezes	-	-	-	-	-	-
+271	TAN	excrement	ita	ita	*kʔɨtʔa	27	fezes	-	-	-	-	-	-
+272	KUB	excrement	kɨda	kɨda	*kʔɨtʔa	27	fezes	-	-	-	-	-	-
+273	DES	excrement	gɨda	gɨda	*kʔɨtʔa	27	fezes	-	-	-	-	-	-
+274	BAS	excrement	gɨda	gɨda	*kʔɨtʔa	27	fezes	-	-	-	-	-	-
+275	TUK	excrement	ɨʔta	ɨʔta	*kʔɨtʔa	27	fezes	-	-	-	-	-	-
+276	KAR	excrement	gɨta	gɨta	*kʔɨtʔa	27	fezes	-	-	-	-	-	-
+277	TUY	excrement	~kɨda	~kɨda	*kʔɨtʔa	27	fezes	-	-	-	-	-	-
+278	WAN	excrement	~ta	~ta	*kʔɨtʔa	27	fezes	-	-	-	-	-	-
+279	PLR	excrement	kɨʔta	kɨʔta	*kʔɨtʔa	27	fezes	-	-	-	-	-	-
+280	SIO	tortoise	kʔoɨ	kʔoɨ	*kʔoɨ	28	jabuti	tartaruga (tan)	turtle (tan)	-	-	-	-
+281	SEK	tortoise	kou	kou	*kʔoɨ	28	jabuti	tartaruga (tan)	turtle (tan)	-	-	-	-
+282	KOR	tortoise	koɨ	koɨ	*kʔoɨ	28	jabuti	tartaruga (tan)	turtle (tan)	-	-	-	-
+283	KUE	tortoise	kaɨ	kaɨ	*kʔoɨ	28	jabuti	tartaruga (tan)	turtle (tan)	-	-	-	-
+284	TAN	tortoise	oʔi	oʔi	*kʔoɨ	28	jabuti	tartaruga (tan)	turtle (tan)	-	-	-	-
+285	KUB	tortoise	~kuɨ	~kuɨ	*kʔoɨ	28	jabuti	tartaruga (tan)	turtle (tan)	-	-	-	-
+286	DES	tortoise	gui	gui	*kʔoɨ	28	jabuti	tartaruga (tan)	turtle (tan)	-	-	-	-
+287	BAS	tortoise	guu	guu	*kʔoɨ	28	jabuti	tartaruga (tan)	turtle (tan)	-	-	-	-
+288	TUK	tortoise	uhudi	uhudi	*kʔoɨ	28	jabuti	tartaruga (tan)	turtle (tan)	-	-	-	-
+289	KAR	tortoise	uu	uu	*kʔoɨ	28	jabuti	tartaruga (tan)	turtle (tan)	-	-	-	-
+290	TUY	tortoise	kuu	kuu	*kʔoɨ	28	jabuti	tartaruga (tan)	turtle (tan)	-	-	-	-
+291	WAN	tortoise	ku	ku	*kʔoɨ	28	jabuti	tartaruga (tan)	turtle (tan)	-	-	-	-
+292	SIO	urinate	kʔõne	kʔõne	*kʔone	29	urinar	-	-	-	-	-	-
+293	SEK	urinate	kõne	kõne	*kʔone	29	urinar	-	-	-	-	-	-
+294	KOR	urinate	õne	õne	*kʔone	29	urinar	-	-	-	-	-	-
+295	MAL	urinate	gone	gone	*kʔone	29	urinar	-	-	-	-	-	-
+296	KUB	urinate	~kode	~kode	*kʔone	29	urinar	-	-	-	-	-	-
+297	DES	urinate	~gode	~gode	*kʔone	29	urinar	-	-	-	-	-	-
+298	BAS	urinate	~gode	~gode	*kʔone	29	urinar	-	-	-	-	-	-
+299	TUK	urinate	~oʔde	~oʔde	*kʔone	29	urinar	-	-	-	-	-	-
+300	KAR	urinate	~ode	~ode	*kʔone	29	urinar	-	-	-	-	-	-
+301	TUY	urinate	~kode	~kode	*kʔone	29	urinar	-	-	-	-	-	-
+302	WAN	urinate	~khudu	~khudu	*kʔone	29	urinar	-	-	-	-	-	-
+303	SIO	hole	kʔohe	kʔohe	*kʔope	30	buraco	-	-	-	-	-	-
+304	SEK	hole	kohe	kohe	*kʔope	30	buraco	-	-	-	-	-	-
+305	KOR	hole	kohe	kohe	*kʔope	30	buraco	-	-	-	-	-	-
+306	MAL	hole	gohe	gohe	*kʔope	30	buraco	-	-	-	-	-	-
+307	KUE	hole	gohe	gohe	*kʔope	30	buraco	-	-	-	-	-	-
+308	TAN	hole	kope	kope	*kʔope	30	buraco	-	-	-	-	-	-
+309	KUB	hole	kobe	kobe	*kʔope	30	buraco	-	-	-	-	-	-
+310	DES	hole	gobe	gobe	*kʔope	30	buraco	-	-	-	-	-	-
+311	BAS	hole	gohe	gohe	*kʔope	30	buraco	-	-	-	-	-	-
+312	TUK	hole	kope	kope	*kʔope	30	buraco	-	-	-	-	-	-
+313	KAR	hole	ope	ope	*kʔope	30	buraco	-	-	-	-	-	-
+314	TUY	hole	kope	kope	*kʔope	30	buraco	-	-	-	-	-	-
+315	WAN	hole	kope	kope	*kʔope	30	buraco	-	-	-	-	-	-
+316	SIO	tooth	~kʔuhi	~kʔuhi	*kʔõpi	31	dente	-	-	-	-	-	-
+317	SEK	tooth	~koʔhi	~koʔhi	*kʔõpi	31	dente	-	-	-	-	-	-
+318	KOR	tooth	~khohi	~khohi	*kʔõpi	31	dente	-	-	-	-	-	-
+319	MAL	tooth	gũhi	gũhi	*kʔõpi	31	dente	-	-	-	-	-	-
+320	KUE	tooth	kohi	kohi	*kʔõpi	31	dente	-	-	-	-	-	-
+321	TAN	tooth	opi	opi	*kʔõpi	31	dente	-	-	-	-	-	-
+322	KUB	tooth	~kopi	~kopi	*kʔõpi	31	dente	-	-	-	-	-	-
+323	BAS	tooth	guhi	guhi	*kʔõpi	31	dente	-	-	-	-	-	-
+324	TUK	tooth	upi	upi	*kʔõpi	31	dente	-	-	-	-	-	-
+325	KAR	tooth	opi	opi	*kʔõpi	31	dente	-	-	-	-	-	-
+326	TUY	tooth	upi	upi	*kʔõpi	31	dente	-	-	-	-	-	-
+327	WAN	tooth	pidiaka	pidiaka	*kʔõpi	31	dente	-	-	-	-	-	-
+328	SIO	bone	kʔõʔa	kʔõʔa	*kʔoʔa	32	osso	-	-	-	-	-	-
+329	KUE	bone	koa	koa	*kʔoʔa	32	osso	-	-	-	-	-	-
+330	TAN	bone	~uʔa	~uʔa	*kʔoʔa	32	osso	-	-	-	-	-	-
+331	KUB	bone	~kua	~kua	*kʔoʔa	32	osso	-	-	-	-	-	-
+332	DES	bone	~goa	~goa	*kʔoʔa	32	osso	-	-	-	-	-	-
+333	BAS	bone	~goa	~goa	*kʔoʔa	32	osso	-	-	-	-	-	-
+334	TUK	bone	~oʔa	~oʔa	*kʔoʔa	32	osso	-	-	-	-	-	-
+335	KAR	bone	~oʔa	~oʔa	*kʔoʔa	32	osso	-	-	-	-	-	-
+336	TUY	bone	~koa	~koa	*kʔoʔa	32	osso	-	-	-	-	-	-
+337	WAN	bone	~khoʔa	~khoʔa	*kʔoʔa	32	osso	-	-	-	-	-	-
+338	SIO	flower	kodo	kodo	*kʔoʔo	33	flor	-	-	-	-	-	-
+339	SEK	flower	hodo	hodo	*kʔoʔo	33	flor	-	-	-	-	-	-
+340	KOR	flower	koro-	koro	*kʔoʔo	33	flor	-	-	-	-	-	-
+341	KUE	flower	teko	teko	*kʔoʔo	33	flor	-	-	-	-	-	-
+342	TAN	flower	~oʔo	~oʔo	*kʔoʔo	33	flor	-	-	-	-	-	-
+343	KUB	flower	kowɨ	kowɨ	*kʔoʔo	33	flor	-	-	-	-	-	-
+344	DES	flower	go	go	*kʔoʔo	33	flor	-	-	-	-	-	-
+345	BAS	flower	godo	godo	*kʔoʔo	33	flor	-	-	-	-	-	-
+346	TUK	flower	oʔo	oʔo	*kʔoʔo	33	flor	-	-	-	-	-	-
+347	TUY	flower	koo	koo	*kʔoʔo	33	flor	-	-	-	-	-	-
+348	WAN	flower	koʔo	koʔo	*kʔoʔo	33	flor	-	-	-	-	-	-
+349	SIO	sleep	kã-i	kã+i	*kã-	34	dormir	-	-	-	-	-	-
+350	SEK	sleep	kã-i	kã+i	*kã-	34	dormir	-	-	-	-	-	-
+351	KOR	sleep	kã-i	kã+i	*kã-	34	dormir	-	-	-	-	-	-
+352	MAL	sleep	kã-i	kã+i	*kã-	34	dormir	-	-	-	-	-	-
+353	TAN	sleep	~kari	~kari	*kã-	34	dormir	-	-	-	-	-	-
+354	KUB	sleep	kã	kã	*kã-	34	dormir	-	-	-	-	-	-
+355	DES	sleep	~kadi	~kadi	*kã-	34	dormir	-	-	-	-	-	-
+356	BAS	sleep	~kadi	~kadi	*kã-	34	dormir	-	-	-	-	-	-
+357	TUK	sleep	~kadi	~kadi	*kã-	34	dormir	-	-	-	-	-	-
+358	KAR	sleep	~kadi	~kadi	*kã-	34	dormir	-	-	-	-	-	-
+359	TUY	sleep	~kadi	~kadi	*kã-	34	dormir	-	-	-	-	-	-
+360	WAN	sleep	~khadi	~khadi	*kã-	34	dormir	-	-	-	-	-	-
+361	KOR	elevated structure (shelves roof etc.)	khaja	khaja	*kaja	35	jirau	-	-	-	-	-	-
+362	KUB	elevated structure (shelves roof etc.)	kaja	kaja	*kaja	35	jirau	-	-	-	-	-	-
+363	DES	elevated structure (shelves roof etc.)	kaja	kaja	*kaja	35	jirau	-	-	-	-	-	-
+364	BAS	elevated structure (shelves roof etc.)	kaca	kaca	*kaja	35	jirau	-	-	-	-	-	-
+365	TUK	elevated structure (shelves roof etc.)	kasa	kasa	*kaja	35	jirau	-	-	-	-	-	-
+366	KAR	elevated structure (shelves roof etc.)	kaja	kaja	*kaja	35	jirau	-	-	-	-	-	-
+367	WAN	elevated structure (shelves roof etc.)	kasa	kasa	*kaja	35	jirau	-	-	-	-	-	-
+368	SIO	manioc	kɨi	kɨi	*kɨi	36	mandioca	-	-	-	-	-	-
+369	KOR	manioc	khɨi	khɨi	*kɨi	36	mandioca	-	-	-	-	-	-
+370	MAL	manioc	kɨi	kɨi	*kɨi	36	mandioca	-	-	-	-	-	-
+371	KUE	manioc	kɨ	kɨ	*kɨi	36	mandioca	-	-	-	-	-	-
+372	TAN	manioc	ki	ki	*kɨi	36	mandioca	-	-	-	-	-	-
+373	KUB	manioc	kɨi	kɨi	*kɨi	36	mandioca	-	-	-	-	-	-
+374	DES	manioc	kĩĩ	kĩĩ	*kɨi	36	mandioca	-	-	-	-	-	-
+375	BAS	manioc	kĩ	kĩ	*kɨi	36	mandioca	-	-	-	-	-	-
+376	TUK	manioc	kii	kii	*kɨi	36	mandioca	-	-	-	-	-	-
+377	KAR	manioc	kii	kii	*kɨi	36	mandioca	-	-	-	-	-	-
+378	WAN	manioc	khɨɨ	khɨɨ	*kɨi	36	mandioca	-	-	-	-	-	-
+379	SIO	woodpecker	kone	kone	*kone	37	pica-pau	-	-	-	-	-	-
+380	SEK	woodpecker	kõne	kõne	*kone	37	pica-pau	-	-	-	-	-	-
+381	KOR	woodpecker	khõne	khõne	*kone	37	pica-pau	-	-	-	-	-	-
+382	MAL	woodpecker	kone	kone	*kone	37	pica-pau	-	-	-	-	-	-
+383	KUB	woodpecker	~kode	~kode	*kone	37	pica-pau	-	-	-	-	-	-
+384	DES	woodpecker	~kode	~kode	*kone	37	pica-pau	-	-	-	-	-	-
+385	BAS	woodpecker	~kode	~kode	*kone	37	pica-pau	-	-	-	-	-	-
+386	TUK	woodpecker	~kode	~kode	*kone	37	pica-pau	-	-	-	-	-	-
+387	KAR	woodpecker	~kode	~kode	*kone	37	pica-pau	-	-	-	-	-	-
+388	WAN	woodpecker	~khode	~khode	*kone	37	pica-pau	-	-	-	-	-	-
+389	SIO	to bite	kũʔi	kũʔi	*kũ	38	morder	-	-	-	-	-	-
+390	SEK	to bite	kõkɨ	kõkɨ	*kũ	38	morder	-	-	-	-	-	-
+391	KOR	to bite	khũʔi	khũʔi	*kũ	38	morder	-	-	-	-	-	-
+392	MAL	to bite	kũi	kũi	*kũ	38	morder	-	-	-	-	-	-
+393	TAN	to bite	kuʔku	kuʔku	*kũ	38	morder	-	-	-	-	-	-
+394	KUB	to bite	~ku	~ku	*kũ	38	morder	-	-	-	-	-	-
+395	DES	to bite	~kudi	~kudi	*kũ	38	morder	-	-	-	-	-	-
+396	YUP	to bite	~kuri	~kuri	*kũ	38	morder	-	-	-	-	-	-
+397	BAS	to bite	~kuni	~kuni	*kũ	38	morder	-	-	-	-	-	-
+398	TUK	to bite	~kuʔdi	~kuʔdi	*kũ	38	morder	-	-	-	-	-	-
+399	TUY	to bite	baka	baka	*kũ	38	morder	-	-	-	-	-	-
+400	SIO	capybara	kʔueso	kʔueso	*kwetju	39	Capivara	-	-	-	-	-	-
+401	SEK	capybara	kueso	kueso	*kwetju	39	Capivara	-	-	-	-	-	-
+402	KOR	capybara	kuẽso	kuẽso	*kwetju	39	Capivara	-	-	-	-	-	-
+403	KUE	capybara	ketu	ketu	*kwetju	39	Capivara	-	-	-	-	-	-
+404	TAN	capybara	keehu	keehu	*kwetju	39	Capivara	-	-	-	-	-	-
+405	SEK	wait	ute	ute	*kwɨtʔe	40	esperar	-	-	-	-	-	-
+406	MAL	wait	ɨ̃te	ɨ̃te	*kwɨtʔe	40	esperar	-	-	-	-	-	-
+407	KUE	wait	hote	hote	*kwɨtʔe	40	esperar	-	-	-	-	-	-
+408	KUB	wait	kode	kode	*kwɨtʔe	40	esperar	-	-	-	-	-	-
+409	DES	wait	kode	kode	*kwɨtʔe	40	esperar	-	-	-	-	-	-
+410	YUP	wait	kore	kore	*kwɨtʔe	40	esperar	-	-	-	-	-	-
+411	BAS	wait	kode	kode	*kwɨtʔe	40	esperar	-	-	-	-	-	-
+412	TUK	wait	koʔte	koʔte	*kwɨtʔe	40	esperar	-	-	-	-	-	-
+413	WAN	wait	koʔta	koʔta	*kwɨtʔe	40	esperar	-	-	-	-	-	-
+414	SIO	macaw	ma	ma	*maha	41	arara	-	-	-	-	-	-
+415	SEK	macaw	toa-ma	toa+ma	*maha	41	arara	-	-	-	-	-	-
+416	KOR	macaw	maa	maa	*maha	41	arara	-	-	-	-	-	-
+417	MAL	macaw	ma	ma	*maha	41	arara	-	-	-	-	-	-
+418	KUB	macaw	~ma	~ma	*maha	41	arara	-	-	-	-	-	-
+419	DES	macaw	~baha	~baha	*maha	41	arara	-	-	-	-	-	-
+420	BAS	macaw	~baha	~baha	*maha	41	arara	-	-	-	-	-	-
+421	TUK	macaw	~baha	~baha	*maha	41	arara	-	-	-	-	-	-
+422	KAR	macaw	~baa	~baa	*maha	41	arara	-	-	-	-	-	-
+423	WAN	macaw	~baha	~baha	*maha	41	arara	-	-	-	-	-	-
+424	SIO	know	maʔsi	maʔsi	*masi	42	saber	-	-	-	-	-	-
+425	KOR	know	masi	masi	*masi	42	saber	-	-	-	-	-	-
+426	KUE	know	masi	masi	*masi	42	saber	-	-	-	-	-	-
+427	KUB	know	mahi	mahi	*masi	42	saber	-	-	-	-	-	-
+428	DES	know	~basi	~basi	*masi	42	saber	-	-	-	-	-	-
+429	BAS	know	~baci	~baci	*masi	42	saber	-	-	-	-	-	-
+430	TUK	know	~basi	~basi	*masi	42	saber	-	-	-	-	-	-
+431	TUY	know	~basi	~basi	*masi	42	saber	-	-	-	-	-	-
+432	WAN	know	~basi	~basi	*masi	42	saber	-	-	-	-	-	-
+433	SIO	path	maʔa	maʔa	*maʔa	43	caminho	-	-	-	-	-	-
+434	SEK	path	maʔa	maʔa	*maʔa	43	caminho	-	-	-	-	-	-
+435	KOR	path	maʔa	maʔa	*maʔa	43	caminho	-	-	-	-	-	-
+436	MAL	path	ma	ma	*maʔa	43	caminho	-	-	-	-	-	-
+437	KUE	path	maa	maa	*maʔa	43	caminho	-	-	-	-	-	-
+438	TAN	path	~baʔa	~baʔa	*maʔa	43	caminho	-	-	-	-	-	-
+439	KUB	path	~ba	~ba	*maʔa	43	caminho	-	-	-	-	-	-
+440	DES	path	~baʔa	~baʔa	*maʔa	43	caminho	-	-	-	-	-	-
+441	BAS	path	~baa	~baa	*maʔa	43	caminho	-	-	-	-	-	-
+442	TUK	path	~ba	~ba	*maʔa	43	caminho	-	-	-	-	-	-
+443	KAR	path	~baʔa	~baʔa	*maʔa	43	caminho	-	-	-	-	-	-
+444	TUY	path	~baa	~baa	*maʔa	43	caminho	-	-	-	-	-	-
+445	WAN	path	~baʔa	~baʔa	*maʔa	43	caminho	-	-	-	-	-	-
+446	SIO	ant sp.	mea	mea	*meka	44	formiga sp.	-	-	-	-	-	-
+447	KOR	ant sp.	mekha	mekha	*meka	44	formiga sp.	-	-	-	-	-	-
+448	MAL	ant sp.	meka	meka	*meka	44	formiga sp.	-	-	-	-	-	-
+449	KUE	ant sp.	mekia	mekia	*meka	44	formiga sp.	-	-	-	-	-	-
+450	TAN	ant sp.	~beka	~beka	*meka	44	formiga sp.	-	-	-	-	-	-
+451	KUB	ant sp.	~bea	~bea	*meka	44	formiga sp.	-	-	-	-	-	-
+452	DES	ant sp.	~bega	~bega	*meka	44	formiga sp.	-	-	-	-	-	-
+453	BAS	ant sp.	~beka	~beka	*meka	44	formiga sp.	-	-	-	-	-	-
+454	TUK	ant sp.	~beka	~beka	*meka	44	formiga sp.	-	-	-	-	-	-
+455	KAR	ant sp.	~beka	~beka	*meka	44	formiga sp.	-	-	-	-	-	-
+456	WAN	ant sp.	~bat∫ɨ	~bat∫ɨ	*meka	44	formiga sp.	-	-	-	-	-	-
+457	SIO	hummingbird	mimi	mimi	*mimi	45	beija-flor	-	-	-	-	-	-
+458	SEK	hummingbird	mimi	mimi	*mimi	45	beija-flor	-	-	-	-	-	-
+459	KOR	hummingbird	mimi	mimi	*mimi	45	beija-flor	-	-	-	-	-	-
+460	MAL	hummingbird	mimi	mimi	*mimi	45	beija-flor	-	-	-	-	-	-
+461	KUE	hummingbird	mimi	mimi	*mimi	45	beija-flor	-	-	-	-	-	-
+462	KUB	hummingbird	~bibi	~bibi	*mimi	45	beija-flor	-	-	-	-	-	-
+463	DES	hummingbird	~bibi	~bibi	*mimi	45	beija-flor	-	-	-	-	-	-
+464	BAS	hummingbird	~bibi	~bibi	*mimi	45	beija-flor	-	-	-	-	-	-
+465	TUK	hummingbird	~bibi	~bibi	*mimi	45	beija-flor	-	-	-	-	-	-
+466	KAR	hummingbird	~bibi	~bibi	*mimi	45	beija-flor	-	-	-	-	-	-
+467	WAN	hummingbird	~wiʔbi	~wiʔbi	*mimi	45	beija-flor	-	-	-	-	-	-
+468	SIO	you all	mɨsakwa	mɨsakwa	*mɨ-tja	46	vocês	-	-	-	-	-	-
+469	SEK	you all	mɨsaru	mɨsaru	*mɨ-tja	46	vocês	-	-	-	-	-	-
+470	KOR	you all	mɨsanɨkhona	mɨsanɨkhona	*mɨ-tja	46	vocês	-	-	-	-	-	-
+471	MAL	you all	mɨsa	mɨsa	*mɨ-tja	46	vocês	-	-	-	-	-	-
+472	KUE	you all	mɨta	mɨta	*mɨ-tja	46	vocês	-	-	-	-	-	-
+473	TAN	you all	~biha	~biha	*mɨ-tja	46	vocês	-	-	-	-	-	-
+474	KUB	you all	~bɨha	~bɨha	*mɨ-tja	46	vocês	-	-	-	-	-	-
+475	DES	you all	~bɨa	~bɨa	*mɨ-tja	46	vocês	-	-	-	-	-	-
+476	BAS	you all	~bɨa	~bɨa	*mɨ-tja	46	vocês	-	-	-	-	-	-
+477	TUK	you all	~bɨsa	~bɨsa	*mɨ-tja	46	vocês	-	-	-	-	-	-
+478	KAR	you all	~bɨsa	~bɨsa	*mɨ-tja	46	vocês	-	-	-	-	-	-
+479	TUY	you all	~bɨa	~bɨa	*mɨ-tja	46	vocês	-	-	-	-	-	-
+480	WAN	you all	~bɨha	~bɨha	*mɨ-tja	46	vocês	-	-	-	-	-	-
+481	SIO	tobacco	muto	muto	*mɨtʔo	47	tabaco	-	-	-	-	-	-
+482	SEK	tobacco	mɨto	mɨto	*mɨtʔo	47	tabaco	-	-	-	-	-	-
+483	KOR	tobacco	mɨto	mɨto	*mɨtʔo	47	tabaco	-	-	-	-	-	-
+484	MAL	tobacco	mɨto	mɨto	*mɨtʔo	47	tabaco	-	-	-	-	-	-
+485	KUE	tobacco	mɨno	mɨno	*mɨtʔo	47	tabaco	-	-	-	-	-	-
+486	TAN	tobacco	~biʔro	~biʔro	*mɨtʔo	47	tabaco	-	-	-	-	-	-
+487	DES	tobacco	~budu	~budu	*mɨtʔo	47	tabaco	-	-	-	-	-	-
+488	BAS	tobacco	~bɨʔdo	~bɨʔdo	*mɨtʔo	47	tabaco	-	-	-	-	-	-
+489	TUK	tobacco	~bɨʔdo	~bɨʔdo	*mɨtʔo	47	tabaco	-	-	-	-	-	-
+490	KAR	tobacco	~bɨdo	~bɨdo	*mɨtʔo	47	tabaco	-	-	-	-	-	-
+491	TUY	tobacco	~bɨdo	~bɨdo	*mɨtʔo	47	tabaco	-	-	-	-	-	-
+492	WAN	tobacco	~bɨʔto	~bɨʔto	*mɨtʔo	47	tabaco	-	-	-	-	-	-
+493	SIO	mosquito	mɨte	mɨte	*mɨte	48	caba	-	-	-	-	-	-
+494	SEK	mosquito	muʔte	muʔte	*mɨte	48	caba	-	-	-	-	-	-
+495	KOR	mosquito	mɨthe	mɨthe	*mɨte	48	caba	-	-	-	-	-	-
+496	MAL	mosquito	mɨte	mɨte	*mɨte	48	caba	-	-	-	-	-	-
+497	KUE	mosquito	mɨne	mɨne	*mɨte	48	caba	-	-	-	-	-	-
+498	TAN	mosquito	~biri	~biri	*mɨte	48	caba	-	-	-	-	-	-
+499	KUB	mosquito	~bɨte	~bɨte	*mɨte	48	caba	-	-	-	-	-	-
+500	DES	mosquito	~bɨde	~bɨde	*mɨte	48	caba	-	-	-	-	-	-
+501	BAS	mosquito	~bɨte	~bɨte	*mɨte	48	caba	-	-	-	-	-	-
+502	TUK	mosquito	~bɨte	~bɨte	*mɨte	48	caba	-	-	-	-	-	-
+503	KAR	mosquito	~bɨte	~bɨte	*mɨte	48	caba	-	-	-	-	-	-
+504	TUY	mosquito	~bɨte	~bɨte	*mɨte	48	caba	-	-	-	-	-	-
+505	WAN	mosquito	~bɨte	~bɨte	*mɨte	48	caba	-	-	-	-	-	-
+506	SIO	charcoal (2)	neo	neo	*neo	49	carvão	gordura (kub)	grease (kub)	-	-	-	-
+507	SEK	charcoal (2)	~deo	~deo	*neo	49	carvão	gordura (kub)	grease (kub)	-	-	-	-
+508	KOR	charcoal (2)	neo	neo	*neo	49	carvão	gordura (kub)	grease (kub)	-	-	-	-
+509	MAL	charcoal (2)	neo	neo	*neo	49	carvão	gordura (kub)	grease (kub)	-	-	-	-
+510	KUB	charcoal (2)	~deo	~deo	*neo	49	carvão	gordura (kub)	grease (kub)	-	-	-	-
+511	SIO	buriti palm	neʔe	neʔe	*neʔe	50	buriti	-	-	-	-	-	-
+512	SEK	buriti palm	~deʔe	~deʔe	*neʔe	50	buriti	-	-	-	-	-	-
+513	KOR	buriti palm	neʔe	neʔe	*neʔe	50	buriti	-	-	-	-	-	-
+514	KUB	buriti palm	~dei	~dei	*neʔe	50	buriti	-	-	-	-	-	-
+515	DES	buriti palm	~deʔe	~deʔe	*neʔe	50	buriti	-	-	-	-	-	-
+516	BAS	buriti palm	~ree	~ree	*neʔe	50	buriti	-	-	-	-	-	-
+517	TUK	buriti palm	~deʔe	~deʔe	*neʔe	50	buriti	-	-	-	-	-	-
+518	KAR	buriti palm	~dee	~dee	*neʔe	50	buriti	-	-	-	-	-	-
+519	WAN	buriti palm	~daʔa	~daʔa	*neʔe	50	buriti	-	-	-	-	-	-
+520	TAN	charcoal (1)	~diti	~diti	*nitti	51	carvão	-	-	-	-	-	-
+521	DES	charcoal (1)	~diti	~diti	*nitti	51	carvão	-	-	-	-	-	-
+522	BAS	charcoal (1)	~riti	~riti	*nitti	51	carvão	-	-	-	-	-	-
+523	TUK	charcoal (1)	~diti	~diti	*nitti	51	carvão	-	-	-	-	-	-
+524	KAR	charcoal (1)	~diti	~diti	*nitti	51	carvão	-	-	-	-	-	-
+525	TUY	charcoal (1)	~diti	~diti	*nitti	51	carvão	-	-	-	-	-	-
+526	WAN	charcoal (1)	~diti	~diti	*nitti	51	carvão	-	-	-	-	-	-
+527	SIO	stop	nɨka	nɨka	*nɨkʔ-	52	parar	-	-	-	-	-	-
+528	SEK	stop	dɨ̃ka	dɨ̃ka	*nɨkʔ-	52	parar	-	-	-	-	-	-
+529	KOR	stop	nɨkha	nɨkha	*nɨkʔ-	52	parar	-	-	-	-	-	-
+530	MAL	stop	nɨka	nɨka	*nɨkʔ-	52	parar	-	-	-	-	-	-
+531	KUB	stop	~dú	~dú	*nɨkʔ-	52	parar	-	-	-	-	-	-
+532	DES	stop	~dugu	~dugu	*nɨkʔ-	52	parar	-	-	-	-	-	-
+533	BAS	stop	~rɨgo	~rɨgo	*nɨkʔ-	52	parar	-	-	-	-	-	-
+534	TUK	stop	~dɨʔka	~dɨʔka	*nɨkʔ-	52	parar	-	-	-	-	-	-
+535	KAR	stop	~dɨka	~dɨka	*nɨkʔ-	52	parar	-	-	-	-	-	-
+536	TUY	stop	~duku	~duku	*nɨkʔ-	52	parar	-	-	-	-	-	-
+537	MAL	penis	noa	noa	*no-	53	pênis	-	-	-	-	-	-
+538	KUE	penis	noni	noni	*no-	53	pênis	-	-	-	-	-	-
+539	TAN	penis	rũri	rũri	*no-	53	pênis	-	-	-	-	-	-
+540	KUB	penis	~doe	~doe	*no-	53	pênis	-	-	-	-	-	-
+541	TUK	penis	~dudi	~dudi	*no-	53	pênis	-	-	-	-	-	-
+542	KAR	penis	~dudi	~dudi	*no-	53	pênis	-	-	-	-	-	-
+543	TUY	penis	sejua	sejua	*no-	53	pênis	-	-	-	-	-	-
+544	WAN	penis	~dudɨ	~dudɨ	*no-	53	pênis	-	-	-	-	-	-
+545	SIO	to cry	oi	oi	*o-	54	chorar	-	-	-	-	-	-
+546	SEK	to cry	oi	oi	*o-	54	chorar	-	-	-	-	-	-
+547	KOR	to cry	oi	oi	*o-	54	chorar	-	-	-	-	-	-
+548	MAL	to cry	oi	oi	*o-	54	chorar	-	-	-	-	-	-
+549	KUE	to cry	?	?	*o-	54	chorar	-	-	-	-	-	-
+550	KUB	to cry	o	o	*o-	54	chorar	-	-	-	-	-	-
+551	DES	to cry	oti	oti	*o-	54	chorar	-	-	-	-	-	-
+552	YUP	to cry	oti	oti	*o-	54	chorar	-	-	-	-	-	-
+553	BAS	to cry	oti	oti	*o-	54	chorar	-	-	-	-	-	-
+554	KAR	to cry	oti	oti	*o-	54	chorar	-	-	-	-	-	-
+555	TUY	to cry	uti	uti	*o-	54	chorar	-	-	-	-	-	-
+556	WAN	to cry	ti	ti	*o-	54	chorar	-	-	-	-	-	-
+557	SIO	bat	ojo	ojo	*ojo	55	morcego	-	-	-	-	-	-
+558	SEK	bat	ojo	ojo	*ojo	55	morcego	-	-	-	-	-	-
+559	KOR	bat	ojo	ojo	*ojo	55	morcego	-	-	-	-	-	-
+560	MAL	bat	ojo	ojo	*ojo	55	morcego	-	-	-	-	-	-
+561	KUE	bat	hoijo	hoijo	*ojo	55	morcego	-	-	-	-	-	-
+562	TAN	bat	ojo	ojo	*ojo	55	morcego	-	-	-	-	-	-
+563	KUB	bat	ojo	ojo	*ojo	55	morcego	-	-	-	-	-	-
+564	DES	bat	ojo	ojo	*ojo	55	morcego	-	-	-	-	-	-
+565	BAS	bat	oco	oco	*ojo	55	morcego	-	-	-	-	-	-
+566	TUK	bat	oso	oso	*ojo	55	morcego	-	-	-	-	-	-
+567	KAR	bat	oso	oso	*ojo	55	morcego	-	-	-	-	-	-
+568	TUY	bat	oso	oso	*ojo	55	morcego	-	-	-	-	-	-
+569	PLR	bat	oso	oso	*ojo	55	morcego	-	-	-	-	-	-
+570	SIO	water	oko	oko	*okko	56	água	-	-	-	-	-	-
+571	SEK	water	oko	oko	*okko	56	água	-	-	-	-	-	-
+572	KOR	water	okho	okho	*okko	56	água	-	-	-	-	-	-
+573	MAL	water	oko	oko	*okko	56	água	-	-	-	-	-	-
+574	KUE	water	kotapu	kotapu	*okko	56	água	-	-	-	-	-	-
+575	TAN	water	oko	oko	*okko	56	água	-	-	-	-	-	-
+576	KUB	water	oko	oko	*okko	56	água	-	-	-	-	-	-
+577	DES	water	deko	deko	*okko	56	água	-	-	-	-	-	-
+578	BAS	water	oko	oko	*okko	56	água	-	-	-	-	-	-
+579	TUK	water	oko	oko	*okko	56	água	-	-	-	-	-	-
+580	KAR	water	oko	oko	*okko	56	água	-	-	-	-	-	-
+581	TUY	water	oko	oko	*okko	56	água	-	-	-	-	-	-
+582	WAN	water	ko	ko	*okko	56	água	-	-	-	-	-	-
+583	SIO	plant	ote	ote	*otte	57	planta	-	-	-	-	-	-
+584	SEK	plant	ote	ote	*otte	57	planta	-	-	-	-	-	-
+585	KOR	plant	othe	othe	*otte	57	planta	-	-	-	-	-	-
+586	MAL	plant	ote	ote	*otte	57	planta	-	-	-	-	-	-
+587	TAN	plant	hoto	hoto	*otte	57	planta	-	-	-	-	-	-
+588	KUB	plant	ote	ote	*otte	57	planta	-	-	-	-	-	-
+589	DES	plant	ote	ote	*otte	57	planta	-	-	-	-	-	-
+590	BAS	plant	ote	ote	*otte	57	planta	-	-	-	-	-	-
+591	TUK	plant	ote	ote	*otte	57	planta	-	-	-	-	-	-
+592	KAR	plant	ote	ote	*otte	57	planta	-	-	-	-	-	-
+593	TUY	plant	ote	ote	*otte	57	planta	-	-	-	-	-	-
+594	WAN	plant	toa	toa	*otte	57	planta	-	-	-	-	-	-
+595	SIO	larva	pʔeko	pʔeko	*pʔekko	58	larva	-	-	-	-	-	-
+596	SEK	larva	peko	peko	*pʔekko	58	larva	-	-	-	-	-	-
+597	KOR	larva	pekho	pekho	*pʔekko	58	larva	-	-	-	-	-	-
+598	MAL	larva	beku	beku	*pʔekko	58	larva	-	-	-	-	-	-
+599	DES	larva	beka	beka	*pʔekko	58	larva	-	-	-	-	-	-
+600	BAS	larva	beko	beko	*pʔekko	58	larva	-	-	-	-	-	-
+601	TUK	larva	beko	beko	*pʔekko	58	larva	-	-	-	-	-	-
+602	KAR	larva	beko	beko	*pʔekko	58	larva	-	-	-	-	-	-
+603	SIO	spider	~hɨhɨ	~hɨhɨ	*pʔɨpɨ	59	aranha	-	-	-	-	-	-
+604	KOR	spider	~hɨhɨ	~hɨhɨ	*pʔɨpɨ	59	aranha	-	-	-	-	-	-
+605	MAL	spider	~hɨhɨ	~hɨhɨ	*pʔɨpɨ	59	aranha	-	-	-	-	-	-
+606	KUE	spider	hehe	hehe	*pʔɨpɨ	59	aranha	-	-	-	-	-	-
+607	KUB	spider	~pɨpɨ	~pɨpɨ	*pʔɨpɨ	59	aranha	-	-	-	-	-	-
+608	DES	spider	bɨpɨ	bɨpɨ	*pʔɨpɨ	59	aranha	-	-	-	-	-	-
+609	YUP	spider	bɨbɨ	bɨbɨ	*pʔɨpɨ	59	aranha	-	-	-	-	-	-
+610	BAS	spider	bɨhɨ	bɨhɨ	*pʔɨpɨ	59	aranha	-	-	-	-	-	-
+611	TUK	spider	bɨpɨ	bɨpɨ	*pʔɨpɨ	59	aranha	-	-	-	-	-	-
+612	KAR	spider	bɨpɨ	bɨpɨ	*pʔɨpɨ	59	aranha	-	-	-	-	-	-
+613	TUY	spider	bɨpɨ	bɨpɨ	*pʔɨpɨ	59	aranha	-	-	-	-	-	-
+614	WAN	spider	wɨpɨ	wɨpɨ	*pʔɨpɨ	59	aranha	-	-	-	-	-	-
+615	KUE	termite	poru	poru	*pʔutu	60	cupim	-	-	-	-	-	*pʔutu
+616	TAN	termite	butu	butu	*pʔutu	60	cupim	-	-	-	-	-	*pʔutu
+617	DES	termite	budu	budu	*pʔutu	60	cupim	-	-	-	-	-	*pʔutu
+618	BAS	termite	butu	butu	*pʔutu	60	cupim	-	-	-	-	-	*pʔutu
+619	TUK	termite	butu	butu	*pʔutu	60	cupim	-	-	-	-	-	*pʔutu
+620	KAR	termite	butu	butu	*pʔutu	60	cupim	-	-	-	-	-	*pʔutu
+621	WAN	termite	butu	butu	*pʔutu	60	cupim	-	-	-	-	-	*pʔutu
+622	SIO	people	pʔã-i	pʔã+i	*pʔã-tjã	61	pessoa(s)	nós inclusivo (kub)	we inclusive (kub)	-	-	-	-
+623	SEK	people	pã-i	pã+i	*pʔã-tjã	61	pessoa(s)	nós inclusivo (kub)	we inclusive (kub)	-	-	-	-
+624	KOR	people	pã-i	pã+i	*pʔã-tjã	61	pessoa(s)	nós inclusivo (kub)	we inclusive (kub)	-	-	-	-
+625	MAL	people	~ba-i	~ba+i	*pʔã-tjã	61	pessoa(s)	nós inclusivo (kub)	we inclusive (kub)	-	-	-	-
+626	KUE	people	matarɨ	matarɨ	*pʔã-tjã	61	pessoa(s)	nós inclusivo (kub)	we inclusive (kub)	-	-	-	-
+627	TAN	people	~baha	~baha	*pʔã-tjã	61	pessoa(s)	nós inclusivo (kub)	we inclusive (kub)	-	-	-	-
+628	KUB	people	~baha	~baha	*pʔã-tjã	61	pessoa(s)	nós inclusivo (kub)	we inclusive (kub)	-	-	-	-
+629	YUP	people	~batsa	~batsa	*pʔã-tjã	61	pessoa(s)	nós inclusivo (kub)	we inclusive (kub)	-	-	-	-
+630	BAS	people	~baca	~baca	*pʔã-tjã	61	pessoa(s)	nós inclusivo (kub)	we inclusive (kub)	-	-	-	-
+631	TUK	people	~basa	~basa	*pʔã-tjã	61	pessoa(s)	nós inclusivo (kub)	we inclusive (kub)	-	-	-	-
+632	KAR	people	~basa	~basa	*pʔã-tjã	61	pessoa(s)	nós inclusivo (kub)	we inclusive (kub)	-	-	-	-
+633	TUY	people	baso	baso	*pʔã-tjã	61	pessoa(s)	nós inclusivo (kub)	we inclusive (kub)	-	-	-	-
+634	WAN	people	~baha	~baha	*pʔã-tjã	61	pessoa(s)	nós inclusivo (kub)	we inclusive (kub)	-	-	-	-
+635	MAL	dance	tɨte	tɨte	*pʔaja	62	dançar	ritualized songs (kub)	-	-	-	-	-
+636	TAN	dance	baja	baja	*pʔaja	62	dançar	ritualized songs (kub)	-	-	-	-	-
+637	KUB	dance	baja	baja	*pʔaja	62	dançar	ritualized songs (kub)	-	-	-	-	-
+638	DES	dance	baja	baja	*pʔaja	62	dançar	ritualized songs (kub)	-	-	-	-	-
+639	BAS	dance	baca	baca	*pʔaja	62	dançar	ritualized songs (kub)	-	-	-	-	-
+640	TUK	dance	basa	basa	*pʔaja	62	dançar	ritualized songs (kub)	-	-	-	-	-
+641	KAR	dance	basa	basa	*pʔaja	62	dançar	ritualized songs (kub)	-	-	-	-	-
+642	TUY	dance	basa	basa	*pʔaja	62	dançar	ritualized songs (kub)	-	-	-	-	-
+643	WAN	dance	basa	basa	*pʔaja	62	dançar	ritualized songs (kub)	-	-	-	-	-
+644	KUB	fishing net	pápi	pápi	*pʔapi	63	rede de pesca	-	-	-	-	-	*pʔapi
+645	BAS	fishing net	bahi	bahi	*pʔapi	63	rede de pesca	-	-	-	-	-	*pʔapi
+646	KAR	fishing net	bapi	bapi	*pʔapi	63	rede de pesca	-	-	-	-	-	*pʔapi
+647	TUY	fishing net	bapi	bapi	*pʔapi	63	rede de pesca	-	-	-	-	-	*pʔapi
+648	SIO	inga (fruit sp.)	pʔene	pʔene	*pʔene	64	ingá	-	-	-	-	-	-
+649	SEK	inga (fruit sp.)	pedẽ	pedẽ	*pʔene	64	ingá	-	-	-	-	-	-
+650	KOR	inga (fruit sp.)	pene	pene	*pʔene	64	ingá	-	-	-	-	-	-
+651	MAL	inga (fruit sp.)	mene	mene	*pʔene	64	ingá	-	-	-	-	-	-
+652	KUE	inga (fruit sp.)	meʔne	meʔne	*pʔene	64	ingá	-	-	-	-	-	-
+653	KUB	inga (fruit sp.)	~bede	~bede	*pʔene	64	ingá	-	-	-	-	-	-
+654	DES	inga (fruit sp.)	~behe	~behe	*pʔene	64	ingá	-	-	-	-	-	-
+655	BAS	inga (fruit sp.)	~bede	~bede	*pʔene	64	ingá	-	-	-	-	-	-
+656	TUK	inga (fruit sp.)	~bede	~bede	*pʔene	64	ingá	-	-	-	-	-	-
+657	KAR	inga (fruit sp.)	~bede	~bede	*pʔene	64	ingá	-	-	-	-	-	-
+658	WAN	inga (fruit sp.)	~bede	~bede	*pʔene	64	ingá	-	-	-	-	-	-
+659	SIO	duck	pʔete	pʔete	*pʔete	65	pato	-	-	-	-	-	-
+660	SEK	duck	pete	pete	*pʔete	65	pato	-	-	-	-	-	-
+661	KOR	duck	pete	pete	*pʔete	65	pato	-	-	-	-	-	-
+662	KUB	duck	bede	bede	*pʔete	65	pato	-	-	-	-	-	-
+663	SIO	chili	pʔia	pʔia	*pʔia	66	pimenta	-	-	-	-	-	-
+664	SEK	chili	pia	pia	*pʔia	66	pimenta	-	-	-	-	-	-
+665	KOR	chili	pia	pia	*pʔia	66	pimenta	-	-	-	-	-	-
+666	MAL	chili	bia	bia	*pʔia	66	pimenta	-	-	-	-	-	-
+667	KUE	chili	bia	bia	*pʔia	66	pimenta	-	-	-	-	-	-
+668	TAN	chili	bia	bia	*pʔia	66	pimenta	-	-	-	-	-	-
+669	KUB	chili	bia	bia	*pʔia	66	pimenta	-	-	-	-	-	-
+670	DES	chili	bia	bia	*pʔia	66	pimenta	-	-	-	-	-	-
+671	BAS	chili	bia	bia	*pʔia	66	pimenta	-	-	-	-	-	-
+672	TUK	chili	bia	bia	*pʔia	66	pimenta	-	-	-	-	-	-
+673	KAR	chili	bia	bia	*pʔia	66	pimenta	-	-	-	-	-	-
+674	TUY	chili	bia	bia	*pʔia	66	pimenta	-	-	-	-	-	-
+675	WAN	chili	bia	bia	*pʔia	66	pimenta	-	-	-	-	-	-
+676	PLR	chili	bia	bia	*pʔia	66	pimenta	-	-	-	-	-	-
+677	KUB	squeeze	pipo	pipo	*pʔipo	67	espremer	-	-	-	-	-	*pʔipo
+678	DES	squeeze	bipi	bipi	*pʔipo	67	espremer	-	-	-	-	-	*pʔipo
+679	BAS	squeeze	buhe	buhe	*pʔipo	67	espremer	-	-	-	-	-	*pʔipo
+680	TUK	squeeze	bipe	bipe	*pʔipo	67	espremer	-	-	-	-	-	*pʔipo
+681	TUY	squeeze	~wayia	~wayia	*pʔipo	67	espremer	-	-	-	-	-	*pʔipo
+682	WAN	squeeze	wipe	wipe	*pʔipo	67	espremer	-	-	-	-	-	*pʔipo
+683	KUE	elder	bɨikɨ	bɨikɨ	*pʔɨkɨ	68	velho	-	-	-	-	-	-
+684	KUB	elder	bɨkɨ	bɨkɨ	*pʔɨkɨ	68	velho	-	-	-	-	-	-
+685	DES	elder	bɨgɨ	bɨgɨ	*pʔɨkɨ	68	velho	-	-	-	-	-	-
+686	BAS	elder	bɨkɨ	bɨkɨ	*pʔɨkɨ	68	velho	-	-	-	-	-	-
+687	TUK	elder	bɨkɨ	bɨkɨ	*pʔɨkɨ	68	velho	-	-	-	-	-	-
+688	KAR	elder	bɨkɨ	bɨkɨ	*pʔɨkɨ	68	velho	-	-	-	-	-	-
+689	TUY	elder	bɨkɨ	bɨkɨ	*pʔɨkɨ	68	velho	-	-	-	-	-	-
+690	WAN	elder	bɨkɨ	bɨkɨ	*pʔɨkɨ	68	velho	-	-	-	-	-	-
+691	SIO	white	pʔo	pʔo	*pʔo-	69	branco	whitewash (wan)	-	-	-	-	-
+692	SEK	white	po	po	*pʔo-	69	branco	whitewash (wan)	-	-	-	-	-
+693	KOR	white	po	po	*pʔo-	69	branco	whitewash (wan)	-	-	-	-	-
+694	MAL	white	bo	bo	*pʔo-	69	branco	whitewash (wan)	-	-	-	-	-
+695	KUE	white	po(le)	po	*pʔo-	69	branco	whitewash (wan)	-	-	-	-	-
+696	TAN	white	boi	boi	*pʔo-	69	branco	whitewash (wan)	-	-	-	-	-
+697	KUB	white	bo	bo	*pʔo-	69	branco	whitewash (wan)	-	-	-	-	-
+698	DES	white	bode	bode	*pʔo-	69	branco	whitewash (wan)	-	-	-	-	-
+699	BAS	white	boti	boti	*pʔo-	69	branco	whitewash (wan)	-	-	-	-	-
+700	TUK	white	buti	buti	*pʔo-	69	branco	whitewash (wan)	-	-	-	-	-
+701	KAR	white	boti	boti	*pʔo-	69	branco	whitewash (wan)	-	-	-	-	-
+702	TUY	white	buti	buti	*pʔo-	69	branco	whitewash (wan)	-	-	-	-	-
+703	WAN	white	boʔta	boʔta	*pʔo-	69	branco	whitewash (wan)	-	-	-	-	-
+704	SEK	toad sp.	hoho	hoho	*pʔopa	70	sapo	-	-	-	-	-	-
+705	KOR	toad sp.	hoho	hoho	*pʔopa	70	sapo	-	-	-	-	-	-
+706	KUB	toad sp.	popo	popo	*pʔopa	70	sapo	-	-	-	-	-	-
+707	DES	toad sp.	moma	moma	*pʔopa	70	sapo	-	-	-	-	-	-
+708	BAS	toad sp.	momo	momo	*pʔopa	70	sapo	-	-	-	-	-	-
+709	TUK	toad sp.	moʔmo	moʔmo	*pʔopa	70	sapo	-	-	-	-	-	-
+710	WAN	toad sp.	waʔmu	waʔmu	*pʔopa	70	sapo	-	-	-	-	-	-
+711	SEK	break	hoʔa	hoʔa	*pʔope	71	quebrar	-	-	-	-	-	-
+712	KOR	break	hũhe	hũhe	*pʔope	71	quebrar	-	-	-	-	-	-
+713	MAL	break	hoa	hoa	*pʔope	71	quebrar	-	-	-	-	-	-
+714	KUB	break	pope	pope	*pʔope	71	quebrar	-	-	-	-	-	-
+715	DES	break	bohe	bohe	*pʔope	71	quebrar	-	-	-	-	-	-
+716	BAS	break	bohe	bohe	*pʔope	71	quebrar	-	-	-	-	-	-
+717	TUK	break	bope	bope	*pʔope	71	quebrar	-	-	-	-	-	-
+718	TUY	break	paa	paa	*pʔope	71	quebrar	-	-	-	-	-	-
+719	WAN	break	poʔa	poʔa	*pʔope	71	quebrar	-	-	-	-	-	-
+720	SIO	urucum (achiote)	pʔõsa	pʔõsa	*pʔõsa	72	urucm	-	-	-	-	-	-
+721	SEK	urucum (achiote)	pʔõsa	pʔõsa	*pʔõsa	72	urucm	-	-	-	-	-	-
+722	KOR	urucum (achiote)	pũsa	pũsa	*pʔõsa	72	urucm	-	-	-	-	-	-
+723	MAL	urucum (achiote)	bosa	bosa	*pʔõsa	72	urucm	-	-	-	-	-	-
+724	KUE	urucum (achiote)	muhia	muhia	*pʔõsa	72	urucm	-	-	-	-	-	-
+725	TAN	urucum (achiote)	~buha	~buha	*pʔõsa	72	urucm	-	-	-	-	-	-
+726	KUB	urucum (achiote)	~buha	~buha	*pʔõsa	72	urucm	-	-	-	-	-	-
+727	DES	urucum (achiote)	~busa	~busa	*pʔõsa	72	urucm	-	-	-	-	-	-
+728	BAS	urucum (achiote)	~buca	~buca	*pʔõsa	72	urucm	-	-	-	-	-	-
+729	TUK	urucum (achiote)	~bosa	~bosa	*pʔõsa	72	urucm	-	-	-	-	-	-
+730	KAR	urucum (achiote)	~busa	~busa	*pʔõsa	72	urucm	-	-	-	-	-	-
+731	WAN	urucum (achiote)	~basi sõa	~basi_sõa	*pʔõsa	72	urucm	-	-	-	-	-	-
+732	KUE	aracu fish	polekia	polekia	*pʔotʔika	73	aracu fish	-	-	-	-	-	*pʔotʔika
+733	TAN	aracu fish	botaka	botaka	*pʔotʔika	73	aracu fish	-	-	-	-	-	*pʔotʔika
+734	KUB	aracu fish	bodika	bodika	*pʔotʔika	73	aracu fish	-	-	-	-	-	*pʔotʔika
+735	DES	aracu fish	bodeka	bodeka	*pʔotʔika	73	aracu fish	-	-	-	-	-	*pʔotʔika
+736	BAS	aracu fish	bodeka	bodeka	*pʔotʔika	73	aracu fish	-	-	-	-	-	*pʔotʔika
+737	TUK	aracu fish	boʔtea	boʔtea	*pʔotʔika	73	aracu fish	-	-	-	-	-	*pʔotʔika
+738	KAR	aracu fish	boteka	boteka	*pʔotʔika	73	aracu fish	-	-	-	-	-	*pʔotʔika
+739	WAN	aracu fish	boʔtea	boʔtea	*pʔotʔika	73	aracu fish	-	-	-	-	-	*pʔotʔika
+740	SIO	swell	huhu	huhu	*pʔupi	74	inchação	-	-	-	-	-	-
+741	MAL	swell	huhu	huhu	*pʔupi	74	inchação	-	-	-	-	-	-
+742	TAN	swell	pĩpi	pĩpi	*pʔupi	74	inchação	-	-	-	-	-	-
+743	DES	swell	bihi	bihi	*pʔupi	74	inchação	-	-	-	-	-	-
+744	BAS	swell	~bihi	~bihi	*pʔupi	74	inchação	-	-	-	-	-	-
+745	TUK	swell	bipi	bipi	*pʔupi	74	inchação	-	-	-	-	-	-
+746	TUY	swell	bipi	bipi	*pʔupi	74	inchação	-	-	-	-	-	-
+747	WAN	swell	wipi	wipi	*pʔupi	74	inchação	-	-	-	-	-	-
+748	SIO	father	hakɨ	hakɨ	*pa-kɨ	75	pai	-	-	-	-	-	-
+749	SEK	father	hakɨ	hakɨ	*pa-kɨ	75	pai	-	-	-	-	-	-
+750	KOR	father	hakhɨ	hakhɨ	*pa-kɨ	75	pai	-	-	-	-	-	-
+751	MAL	father	hakɨ	hakɨ	*pa-kɨ	75	pai	-	-	-	-	-	-
+752	KUE	father	hakɨ	hakɨ	*pa-kɨ	75	pai	-	-	-	-	-	-
+753	TAN	father	paki	paki	*pa-kɨ	75	pai	-	-	-	-	-	-
+754	KUB	father	pakɨ	pakɨ	*pa-kɨ	75	pai	-	-	-	-	-	-
+755	DES	father	pagɨ	pagɨ	*pa-kɨ	75	pai	-	-	-	-	-	-
+756	BAS	father	hakɨ	hakɨ	*pa-kɨ	75	pai	-	-	-	-	-	-
+757	TUK	father	pakɨ	pakɨ	*pa-kɨ	75	pai	-	-	-	-	-	-
+758	KAR	father	pakɨ	pakɨ	*pa-kɨ	75	pai	-	-	-	-	-	-
+759	TUY	father	pakɨ	pakɨ	*pa-kɨ	75	pai	-	-	-	-	-	-
+760	WAN	father	phɨkɨ	phɨkɨ	*pa-kɨ	75	pai	-	-	-	-	-	-
+761	SIO	big	hai	hai	*pahi	76	grande	-	-	-	-	-	-
+762	SEK	big	hai	hai	*pahi	76	grande	-	-	-	-	-	-
+763	MAL	big	hai	hai	*pahi	76	grande	-	-	-	-	-	-
+764	BAS	big	hai	hai	*pahi	76	grande	-	-	-	-	-	-
+765	TUK	big	pahi	pahi	*pahi	76	grande	-	-	-	-	-	-
+766	KAR	big	pai	pai	*pahi	76	grande	-	-	-	-	-	-
+767	TUY	big	pai	pai	*pahi	76	grande	-	-	-	-	-	-
+768	PLR	big	pahi	pahi	*pahi	76	grande	-	-	-	-	-	-
+769	SIO	armadillo	hãmu	hãmu	*pãmu	77	tatu	-	-	-	-	-	-
+770	SEK	armadillo	hãmo	hãmo	*pãmu	77	tatu	-	-	-	-	-	-
+771	KOR	armadillo	hamu	hamu	*pãmu	77	tatu	-	-	-	-	-	-
+772	KUE	armadillo	hamu	hamu	*pãmu	77	tatu	-	-	-	-	-	-
+773	TAN	armadillo	~pabu	~pabu	*pãmu	77	tatu	-	-	-	-	-	-
+774	KUB	armadillo	~pabu	~pabu	*pãmu	77	tatu	-	-	-	-	-	-
+775	DES	armadillo	~pabo	~pabo	*pãmu	77	tatu	-	-	-	-	-	-
+776	BAS	armadillo	~habo	~habo	*pãmu	77	tatu	-	-	-	-	-	-
+777	TUK	armadillo	~pabo	~pabo	*pãmu	77	tatu	-	-	-	-	-	-
+778	KAR	armadillo	~pabo	~pabo	*pãmu	77	tatu	-	-	-	-	-	-
+779	WAN	armadillo	~pabo	~pabo	*pãmu	77	tatu	-	-	-	-	-	-
+780	PLR	armadillo	~pabo	~pabo	*pãmu	77	tatu	-	-	-	-	-	-
+781	DES	float	pája	pája	*paʔja	78	flutuar	-	-	-	-	-	-
+782	BAS	float	haja	haja	*paʔja	78	flutuar	-	-	-	-	-	-
+783	TUK	float	paʔsa	paʔsa	*paʔja	78	flutuar	-	-	-	-	-	-
+784	KAR	float	pasa	pasa	*paʔja	78	flutuar	-	-	-	-	-	-
+785	TUY	float	pasa	pasa	*paʔja	78	flutuar	-	-	-	-	-	-
+786	WAN	float	paʔsa	paʔsa	*paʔja	78	flutuar	-	-	-	-	-	-
+787	SIO	fire	hẽka	hẽka	*peka	79	fogo	lenha	firewood	-	-	-	-
+788	SEK	fire	heka	heka	*peka	79	fogo	lenha	firewood	-	-	-	-
+789	KOR	fire	hẽkha	hẽkha	*peka	79	fogo	lenha	firewood	-	-	-	-
+790	MAL	fire	heka	heka	*peka	79	fogo	lenha	firewood	-	-	-	-
+791	KUE	fire	hekia	hekia	*peka	79	fogo	lenha	firewood	-	-	-	-
+792	TAN	fire	peka	peka	*peka	79	fogo	lenha	firewood	-	-	-	-
+793	KUB	fire	peka	peka	*peka	79	fogo	lenha	firewood	-	-	-	-
+794	DES	fire	pea	pea	*peka	79	fogo	lenha	firewood	-	-	-	-
+795	BAS	fire	hea	hea	*peka	79	fogo	lenha	firewood	-	-	-	-
+796	TUK	fire	peka	peka	*peka	79	fogo	lenha	firewood	-	-	-	-
+797	KAR	fire	pee	pee	*peka	79	fogo	lenha	firewood	-	-	-	-
+798	TUY	fire	peka	peka	*peka	79	fogo	lenha	firewood	-	-	-	-
+799	WAN	fire	phit∫a	phit∫a	*peka	79	fogo	lenha	firewood	-	-	-	-
+800	KUE	end	peti	peti	*petʔi	80	terminar	-	-	-	-	-	-
+801	DES	end	peʔdea	peʔdea	*petʔi	80	terminar	-	-	-	-	-	-
+802	BAS	end	hedi	hedi	*petʔi	80	terminar	-	-	-	-	-	-
+803	TUK	end	peʔti	peʔti	*petʔi	80	terminar	-	-	-	-	-	-
+804	WAN	end	piʔti	piʔti	*petʔi	80	terminar	-	-	-	-	-	-
+805	KUE	tocandira ant	hata	hata	*piata	81	tocandira	-	-	-	-	-	-
+806	TAN	tocandira ant	patajah	patajah	*piata	81	tocandira	-	-	-	-	-	-
+807	KUB	tocandira ant	piada	piada	*piata	81	tocandira	-	-	-	-	-	-
+808	DES	tocandira ant	peda	peda	*piata	81	tocandira	-	-	-	-	-	-
+809	BAS	tocandira ant	heta	heta	*piata	81	tocandira	-	-	-	-	-	-
+810	TUK	tocandira ant	peta	peta	*piata	81	tocandira	-	-	-	-	-	-
+811	KAR	tocandira ant	peta	peta	*piata	81	tocandira	-	-	-	-	-	-
+812	WAN	tocandira ant	phita	phita	*piata	81	tocandira	-	-	-	-	-	-
+813	SIO	palm-weevil	hĩko	hĩko	*pĩko	82	muxiva	-	-	-	-	-	-
+814	SEK	palm-weevil	hĩko	hĩko	*pĩko	82	muxiva	-	-	-	-	-	-
+815	KOR	palm-weevil	hĩʔkho	hĩʔkho	*pĩko	82	muxiva	-	-	-	-	-	-
+816	MAL	palm-weevil	hɨ̃ko	hɨ̃ko	*pĩko	82	muxiva	-	-	-	-	-	-
+817	TAN	palm-weevil	~piko	~piko	*pĩko	82	muxiva	-	-	-	-	-	-
+818	KUB	palm-weevil	~piko	~piko	*pĩko	82	muxiva	-	-	-	-	-	-
+819	DES	palm-weevil	~pigu	~pigu	*pĩko	82	muxiva	-	-	-	-	-	-
+820	BAS	palm-weevil	~hiko	~hiko	*pĩko	82	muxiva	-	-	-	-	-	-
+821	TUK	palm-weevil	~piko	~piko	*pĩko	82	muxiva	-	-	-	-	-	-
+822	WAN	palm-weevil	~ phit∫o	~_phit∫o	*pĩko	82	muxiva	-	-	-	-	-	-
+823	SIO	handpalm	ɨ̃tɨ	ɨ̃tɨ	*pɨtɨ	83	palma da mão	-	-	-	-	-	-
+824	SEK	handpalm	hɨ̃tɨ	hɨ̃tɨ	*pɨtɨ	83	palma da mão	-	-	-	-	-	-
+825	KOR	handpalm	hɨ̃thɨ	hɨ̃thɨ	*pɨtɨ	83	palma da mão	-	-	-	-	-	-
+826	MAL	handpalm	hɨ̃tɨ	hɨ̃tɨ	*pɨtɨ	83	palma da mão	-	-	-	-	-	-
+827	TAN	handpalm	pita	pita	*pɨtɨ	83	palma da mão	-	-	-	-	-	-
+828	KUB	handpalm	pɨdɨ	pɨdɨ	*pɨtɨ	83	palma da mão	-	-	-	-	-	-
+829	TAN	thorn	ɸota	ɸota	*pota	84	espinho	anzol (tan)	fishhook (tan)	-	-	-	*pota
+830	DES	thorn	poda	poda	*pota	84	espinho	anzol (tan)	fishhook (tan)	-	-	-	*pota
+831	BAS	thorn	hota	hota	*pota	84	espinho	anzol (tan)	fishhook (tan)	-	-	-	*pota
+832	TUK	thorn	pota	pota	*pota	84	espinho	anzol (tan)	fishhook (tan)	-	-	-	*pota
+833	KAR	thorn	pota	pota	*pota	84	espinho	anzol (tan)	fishhook (tan)	-	-	-	*pota
+834	WAN	thorn	phota	phota	*pota	84	espinho	anzol (tan)	fishhook (tan)	-	-	-	*pota
+835	SIO	blow	hu-i	hu+i	*pu-	85	assoprar	-	-	-	-	-	-
+836	SEK	blow	hu	hu	*pu-	85	assoprar	-	-	-	-	-	-
+837	KOR	blow	hu-i	hu+i	*pu-	85	assoprar	-	-	-	-	-	-
+838	MAL	blow	hú-i	hú+i	*pu-	85	assoprar	-	-	-	-	-	-
+839	KUB	blow	pu	pu	*pu-	85	assoprar	-	-	-	-	-	-
+840	DES	blow	pudi	pudi	*pu-	85	assoprar	-	-	-	-	-	-
+841	YUP	blow	puri	puri	*pu-	85	assoprar	-	-	-	-	-	-
+842	BAS	blow	huti	huti	*pu-	85	assoprar	-	-	-	-	-	-
+843	TUK	blow	puti	puti	*pu-	85	assoprar	-	-	-	-	-	-
+844	KAR	blow	puti	puti	*pu-	85	assoprar	-	-	-	-	-	-
+845	WAN	blow	puti	puti	*pu-	85	assoprar	-	-	-	-	-	-
+846	SIO	paca	seme	seme	*seme	86	paca	-	-	-	-	-	-
+847	SEK	paca	seme	seme	*seme	86	paca	-	-	-	-	-	-
+848	KOR	paca	seme	seme	*seme	86	paca	-	-	-	-	-	-
+849	MAL	paca	seme	seme	*seme	86	paca	-	-	-	-	-	-
+850	TAN	paca	~hebe	~hebe	*seme	86	paca	-	-	-	-	-	-
+851	KUB	paca	~hebe	~hebe	*seme	86	paca	-	-	-	-	-	-
+852	DES	paca	~sebe	~sebe	*seme	86	paca	-	-	-	-	-	-
+853	BAS	paca	~cebe	~cebe	*seme	86	paca	-	-	-	-	-	-
+854	TUK	paca	~sebe	~sebe	*seme	86	paca	-	-	-	-	-	-
+855	KAR	paca	~hebe	~hebe	*seme	86	paca	-	-	-	-	-	-
+856	WAN	paca	~saba	~saba	*seme	86	paca	-	-	-	-	-	-
+857	KUB	rub	hĩhũ	hĩhũ	*sĩkʔe	87	esfregar	-	-	-	-	-	*sĩkʔe
+858	BAS	rub	~cige	~cige	*sĩkʔe	87	esfregar	-	-	-	-	-	*sĩkʔe
+859	TUK	rub	~saʔke	~saʔke	*sĩkʔe	87	esfregar	-	-	-	-	-	*sĩkʔe
+860	KAR	rub	~hike	~hike	*sĩkʔe	87	esfregar	-	-	-	-	-	*sĩkʔe
+861	TUY	rub	tuu ~sake	tuu_~sake	*sĩkʔe	87	esfregar	-	-	-	-	-	*sĩkʔe
+862	WAN	rub	thu saʔka	thu_saʔka	*sĩkʔe	87	esfregar	-	-	-	-	-	*sĩkʔe
+863	SIO	monkey sp.	sisi	sisi	*sisi	88	macaco	coati (mai)	coati (mai)	-	-	-	-
+864	KOR	monkey sp.	sisikoʔroro	sisikoʔroro	*sisi	88	macaco	coati (mai)	coati (mai)	-	-	-	-
+865	MAL	monkey sp.	t∫it∫i	t∫it∫i	*sisi	88	macaco	coati (mai)	coati (mai)	-	-	-	-
+866	KUB	monkey sp.	hihijo	hihijo	*sisi	88	macaco	coati (mai)	coati (mai)	-	-	-	-
+867	BAS	monkey sp.	icikamu	icikamu	*sisi	88	macaco	coati (mai)	coati (mai)	-	-	-	-
+868	KAR	monkey sp.	~sii	~sii	*sisi	88	macaco	coati (mai)	coati (mai)	-	-	-	-
+869	WAN	monkey sp.	~bede- ~iʔsi	~bede+_~iʔsi	*sisi	88	macaco	coati (mai)	coati (mai)	-	-	-	-
+870	SIO	to smoke meat	sẽjo	sẽjo	*sɨʔjo	89	moquear	fazer fogo	to set a fire	-	-	-	-
+871	SEK	to smoke meat	sɨjo	sɨjo	*sɨʔjo	89	moquear	fazer fogo	to set a fire	-	-	-	-
+872	KOR	to smoke meat	sɨjo	sɨjo	*sɨʔjo	89	moquear	fazer fogo	to set a fire	-	-	-	-
+873	MAL	to smoke meat	sɨjo	sɨjo	*sɨʔjo	89	moquear	fazer fogo	to set a fire	-	-	-	-
+874	KUE	to smoke meat	ãsɨ	ãsɨ	*sɨʔjo	89	moquear	fazer fogo	to set a fire	-	-	-	-
+875	KUB	to smoke meat	hɨjowa	hɨjowa	*sɨʔjo	89	moquear	fazer fogo	to set a fire	-	-	-	-
+876	DES	to smoke meat	siju	siju	*sɨʔjo	89	moquear	fazer fogo	to set a fire	-	-	-	-
+877	YUP	to smoke meat	siju	siju	*sɨʔjo	89	moquear	fazer fogo	to set a fire	-	-	-	-
+878	BAS	to smoke meat	ceco	ceco	*sɨʔjo	89	moquear	fazer fogo	to set a fire	-	-	-	-
+879	TUK	to smoke meat	sɨʔso	sɨʔso	*sɨʔjo	89	moquear	fazer fogo	to set a fire	-	-	-	-
+880	KAR	to smoke meat	siso	siso	*sɨʔjo	89	moquear	fazer fogo	to set a fire	-	-	-	-
+881	WAN	to smoke meat	sɨso	sɨso	*sɨʔjo	89	moquear	fazer fogo	to set a fire	-	-	-	-
+882	KOR	back	sõkhɨ	sõkhɨ	*sõkɨ	90	costas	-	-	-	-	-	-
+883	DES	back	~sugu	~sugu	*sõkɨ	90	costas	-	-	-	-	-	-
+884	TUK	back	~suku	~suku	*sõkɨ	90	costas	-	-	-	-	-	-
+885	KAR	back	~hokɨ	~hokɨ	*sõkɨ	90	costas	-	-	-	-	-	-
+886	TUY	back	suku	suku	*sõkɨ	90	costas	-	-	-	-	-	-
+887	WAN	back	~suku	~suku	*sõkɨ	90	costas	-	-	-	-	-	-
+888	SIO	pot	soto	soto	*sot-	91	pote	barro	clay	cerâmica	clay	-	-
+889	SEK	pot	soto	soto	*sot-	91	pote	barro	clay	cerâmica	clay	-	-
+890	KOR	pot	thotho	thotho	*sot-	91	pote	barro	clay	cerâmica	clay	-	-
+891	MAL	pot	toto	toto	*sot-	91	pote	barro	clay	cerâmica	clay	-	-
+892	TAN	pot	hoto	hoto	*sot-	91	pote	barro	clay	cerâmica	clay	-	-
+893	KUB	pot	hodo	hodo	*sot-	91	pote	barro	clay	cerâmica	clay	-	-
+894	DES	pot	sodo	sodo	*sot-	91	pote	barro	clay	cerâmica	clay	-	-
+895	BAS	pot	cotɨ	cotɨ	*sot-	91	pote	barro	clay	cerâmica	clay	-	-
+896	TUK	pot	sɨtɨ	sɨtɨ	*sot-	91	pote	barro	clay	cerâmica	clay	-	-
+897	KAR	pot	hotɨ	hotɨ	*sot-	91	pote	barro	clay	cerâmica	clay	-	-
+898	TUY	pot	sotɨ	sotɨ	*sot-	91	pote	barro	clay	cerâmica	clay	-	-
+899	WAN	pot	situ	situ	*sot-	91	pote	barro	clay	cerâmica	clay	-	-
+900	TAN	red	~hua	~hua	*sõʔa	92	vermelho	-	-	-	-	-	*sõʔa
+901	KUB	red	~hua	~hua	*sõʔa	92	vermelho	-	-	-	-	-	*sõʔa
+902	BAS	red	~cua	~cua	*sõʔa	92	vermelho	-	-	-	-	-	*sõʔa
+903	TUK	red	~soʔa	~soʔa	*sõʔa	92	vermelho	-	-	-	-	-	*sõʔa
+904	KAR	red	hõa	hõa	*sõʔa	92	vermelho	-	-	-	-	-	*sõʔa
+905	TUY	red	~soa	~soa	*sõʔa	92	vermelho	-	-	-	-	-	*sõʔa
+906	WAN	red	~soʔa	~soʔa	*sõʔa	92	vermelho	-	-	-	-	-	*sõʔa
+907	TAN	root	~riko	~riko	*tʔɨ̃kʔo	93	raiz	-	-	-	-	-	*tʔɨ̃kʔo
+908	KUB	root	~dɨo	~dɨo	*tʔɨ̃kʔo	93	raiz	-	-	-	-	-	*tʔɨ̃kʔo
+909	DES	root	~dugu	~dugu	*tʔɨ̃kʔo	93	raiz	-	-	-	-	-	*tʔɨ̃kʔo
+910	TUK	root	~dɨʔko	~dɨʔko	*tʔɨ̃kʔo	93	raiz	-	-	-	-	-	*tʔɨ̃kʔo
+911	KAR	root	~dɨʔko	~dɨʔko	*tʔɨ̃kʔo	93	raiz	-	-	-	-	-	*tʔɨ̃kʔo
+912	TUY	root	~dɨko	~dɨko	*tʔɨ̃kʔo	93	raiz	-	-	-	-	-	*tʔɨ̃kʔo
+913	WAN	root	~dɨʔko	~dɨʔko	*tʔɨ̃kʔo	93	raiz	-	-	-	-	-	*tʔɨ̃kʔo
+914	SIO	heavy	dɨkɨ	dɨkɨ	*tʔɨkkɨ	94	pesado	-	-	-	-	-	-
+915	SEK	heavy	dɨkɨ	dɨkɨ	*tʔɨkkɨ	94	pesado	-	-	-	-	-	-
+916	KOR	heavy	rɨkhɨ	rɨkhɨ	*tʔɨkkɨ	94	pesado	-	-	-	-	-	-
+917	MAL	heavy	dɨkɨ	dɨkɨ	*tʔɨkkɨ	94	pesado	-	-	-	-	-	-
+918	TAN	heavy	~riki	~riki	*tʔɨkkɨ	94	pesado	-	-	-	-	-	-
+919	KUB	heavy	dɨkɨ	dɨkɨ	*tʔɨkkɨ	94	pesado	-	-	-	-	-	-
+920	DES	heavy	~nɨkɨ	~nɨkɨ	*tʔɨkkɨ	94	pesado	-	-	-	-	-	-
+921	BAS	heavy	~rɨkɨ	~rɨkɨ	*tʔɨkkɨ	94	pesado	-	-	-	-	-	-
+922	TUK	heavy	~dɨkɨ	~dɨkɨ	*tʔɨkkɨ	94	pesado	-	-	-	-	-	-
+923	KAR	heavy	~dɨkɨ	~dɨkɨ	*tʔɨkkɨ	94	pesado	-	-	-	-	-	-
+924	TUY	heavy	~dɨkɨ	~dɨkɨ	*tʔɨkkɨ	94	pesado	-	-	-	-	-	-
+925	WAN	heavy	~dɨkɨ	~dɨkɨ	*tʔɨkkɨ	94	pesado	-	-	-	-	-	-
+926	SIO	wife	dɨ̃ho	dɨ̃ho	*tʔɨ̃po	95	esposa	-	-	-	-	-	-
+927	SEK	wife	dɨho	dɨho	*tʔɨ̃po	95	esposa	-	-	-	-	-	-
+928	KOR	wife	rɨho	rɨho	*tʔɨ̃po	95	esposa	-	-	-	-	-	-
+929	MAL	wife	nɨho	nɨho	*tʔɨ̃po	95	esposa	-	-	-	-	-	-
+930	TAN	wife	~rubu	~rubu	*tʔɨ̃po	95	esposa	-	-	-	-	-	-
+931	TUK	wife	~dɨbo	~dɨbo	*tʔɨ̃po	95	esposa	-	-	-	-	-	-
+932	KAR	wife	~dɨbo	~dɨbo	*tʔɨ̃po	95	esposa	-	-	-	-	-	-
+933	TUY	wife	~dɨbo	~dɨbo	*tʔɨ̃po	95	esposa	-	-	-	-	-	-
+934	WAN	wife	~dabo	~dabo	*tʔɨ̃po	95	esposa	-	-	-	-	-	-
+935	SIO	cut	tɨ̃te	tɨ̃te	*tʔɨtte	96	cortar	-	-	-	-	-	-
+936	KOR	cut	ruʔthe	ruʔthe	*tʔɨtte	96	cortar	-	-	-	-	-	-
+937	MAL	cut	jɨi	jɨi	*tʔɨtte	96	cortar	-	-	-	-	-	-
+938	BAS	cut	rute	rute	*tʔɨtte	96	cortar	-	-	-	-	-	-
+939	TUK	cut	dɨte	dɨte	*tʔɨtte	96	cortar	-	-	-	-	-	-
+940	WAN	cut	dɨte	dɨte	*tʔɨtte	96	cortar	-	-	-	-	-	-
+941	SEK	traira fish	doje	doje	*tʔoje	97	traíra	-	-	-	-	-	-
+942	KOR	traira fish	roje	roje	*tʔoje	97	traíra	-	-	-	-	-	-
+943	TAN	traira fish	roje	roje	*tʔoje	97	traíra	-	-	-	-	-	-
+944	KUB	traira fish	doje	doje	*tʔoje	97	traíra	-	-	-	-	-	-
+945	DES	traira fish	doe	doe	*tʔoje	97	traíra	-	-	-	-	-	-
+946	BAS	traira fish	roe	roe	*tʔoje	97	traíra	-	-	-	-	-	-
+947	TUK	traira fish	doe	doe	*tʔoje	97	traíra	-	-	-	-	-	-
+948	KAR	traira fish	rose	rose	*tʔoje	97	traíra	-	-	-	-	-	-
+949	SIO	woman	domi	domi	*tʔõmi-	98	mulher	-	-	-	-	-	-
+950	SEK	woman	dõmio	dõmio	*tʔõmi-	98	mulher	-	-	-	-	-	-
+951	KOR	woman	romio	romio	*tʔõmi-	98	mulher	-	-	-	-	-	-
+952	MAL	woman	nomio	nomio	*tʔõmi-	98	mulher	-	-	-	-	-	-
+953	TAN	woman	~robo	~robo	*tʔõmi-	98	mulher	-	-	-	-	-	-
+954	KUB	woman	~dobi	~dobi	*tʔõmi-	98	mulher	-	-	-	-	-	-
+955	DES	woman	~dobeo	~dobeo	*tʔõmi-	98	mulher	-	-	-	-	-	-
+956	BAS	woman	~robio	~robio	*tʔõmi-	98	mulher	-	-	-	-	-	-
+957	TUK	woman	~dubio	~dubio	*tʔõmi-	98	mulher	-	-	-	-	-	-
+958	KAR	woman	~robio	~robio	*tʔõmi-	98	mulher	-	-	-	-	-	-
+959	TUY	woman	~dubio	~dubio	*tʔõmi-	98	mulher	-	-	-	-	-	-
+960	WAN	woman	~dubido	~dubido	*tʔõmi-	98	mulher	-	-	-	-	-	-
+961	SIO	dove	t∫iʔwi	t∫iʔwi	*t∫̃ɨ-	99	pomba	-	-	-	-	-	-
+962	SEK	dove	sɨra	sɨra	*t∫̃ɨ-	99	pomba	-	-	-	-	-	-
+963	KOR	dove	siʔwi	siʔwi	*t∫̃ɨ-	99	pomba	-	-	-	-	-	-
+964	MAL	dove	sɨni	sɨni	*t∫̃ɨ-	99	pomba	-	-	-	-	-	-
+965	KUB	dove	hude	hude	*t∫̃ɨ-	99	pomba	-	-	-	-	-	-
+966	BAS	dove	cioro	cioro	*t∫̃ɨ-	99	pomba	-	-	-	-	-	-
+967	TUK	dove	siri	siri	*t∫̃ɨ-	99	pomba	-	-	-	-	-	-
+968	WAN	dove	siripi	siripi	*t∫̃ɨ-	99	pomba	-	-	-	-	-	-
+969	SIO	gather	t∫ia	t∫ia	*t∫ɨ-a	100	juntar	coletar	collect	-	-	-	-
+970	SEK	gather	sia	sia	*t∫ɨ-a	100	juntar	coletar	collect	-	-	-	-
+971	KOR	gather	sia	sia	*t∫ɨ-a	100	juntar	coletar	collect	-	-	-	-
+972	MAL	gather	t∫ia	t∫ia	*t∫ɨ-a	100	juntar	coletar	collect	-	-	-	-
+973	KUB	gather	hewa	hewa	*t∫ɨ-a	100	juntar	coletar	collect	-	-	-	-
+974	BAS	gather	cãa	cãa	*t∫ɨ-a	100	juntar	coletar	collect	-	-	-	-
+975	TUK	gather	sua	sua	*t∫ɨ-a	100	juntar	coletar	collect	-	-	-	-
+976	KAR	gather	hee	hee	*t∫ɨ-a	100	juntar	coletar	collect	-	-	-	-
+977	WAN	gather	saa	saa	*t∫ɨ-a	100	juntar	coletar	collect	-	-	-	-
+978	SIO	navel	t∫õhõ	t∫õhõ	*t∫õpʔɨ	101	umbigo	-	-	-	-	-	-
+979	SEK	navel	sõhõ	sõhõ	*t∫õpʔɨ	101	umbigo	-	-	-	-	-	-
+980	KOR	navel	sũhũ	sũhũ	*t∫õpʔɨ	101	umbigo	-	-	-	-	-	-
+981	MAL	navel	sõhõ	sõhõ	*t∫õpʔɨ	101	umbigo	-	-	-	-	-	-
+982	KUE	navel	tou	tou	*t∫õpʔɨ	101	umbigo	-	-	-	-	-	-
+983	TAN	navel	~hubu	~hubu	*t∫õpʔɨ	101	umbigo	-	-	-	-	-	-
+984	KUB	navel	~hobɨ	~hobɨ	*t∫õpʔɨ	101	umbigo	-	-	-	-	-	-
+985	DES	navel	~subu	~subu	*t∫õpʔɨ	101	umbigo	-	-	-	-	-	-
+986	YUP	navel	~t∫ubu	~t∫ubu	*t∫õpʔɨ	101	umbigo	-	-	-	-	-	-
+987	BAS	navel	~cobɨ	~cobɨ	*t∫õpʔɨ	101	umbigo	-	-	-	-	-	-
+988	TUK	navel	~subu	~subu	*t∫õpʔɨ	101	umbigo	-	-	-	-	-	-
+989	KAR	navel	~hobɨ	~hobɨ	*t∫õpʔɨ	101	umbigo	-	-	-	-	-	-
+990	TUY	navel	~subua	~subua	*t∫õpʔɨ	101	umbigo	-	-	-	-	-	-
+991	WAN	navel	~sɨbɨka	~sɨbɨka	*t∫õpʔɨ	101	umbigo	-	-	-	-	-	-
+992	SIO	grass	taja	taja	*taja	102	capim	-	-	-	-	-	-
+993	SEK	grass	taja	taja	*taja	102	capim	-	-	-	-	-	-
+994	KOR	grass	thaja	thaja	*taja	102	capim	-	-	-	-	-	-
+995	MAL	grass	taja	taja	*taja	102	capim	-	-	-	-	-	-
+996	KUE	grass	taja	taja	*taja	102	capim	-	-	-	-	-	-
+997	TAN	grass	taja	taja	*taja	102	capim	-	-	-	-	-	-
+998	KUB	grass	dá	dá	*taja	102	capim	-	-	-	-	-	-
+999	DES	grass	taa	taa	*taja	102	capim	-	-	-	-	-	-
+1000	BAS	grass	taa	taa	*taja	102	capim	-	-	-	-	-	-
+1001	TUK	grass	taa	taa	*taja	102	capim	-	-	-	-	-	-
+1002	KAR	grass	taa	taa	*taja	102	capim	-	-	-	-	-	-
+1003	TUY	grass	taa	taa	*taja	102	capim	-	-	-	-	-	-
+1004	WAN	grass	thaa	thaa	*taja	102	capim	-	-	-	-	-	-
+1005	SIO	monkey	tãke	tãke	*takke	103	macaco	-	-	-	-	-	-
+1006	SEK	monkey	tãke	tãke	*takke	103	macaco	-	-	-	-	-	-
+1007	KOR	monkey	tãkhe	tãkhe	*takke	103	macaco	-	-	-	-	-	-
+1008	MAL	monkey	tãke	tãke	*takke	103	macaco	-	-	-	-	-	-
+1009	TAN	monkey	take	take	*takke	103	macaco	-	-	-	-	-	-
+1010	KUB	monkey	take	take	*takke	103	macaco	-	-	-	-	-	-
+1011	DES	monkey	gaki	gaki	*takke	103	macaco	-	-	-	-	-	-
+1012	BAS	monkey	gake	gake	*takke	103	macaco	-	-	-	-	-	-
+1013	TUK	monkey	ake	ake	*takke	103	macaco	-	-	-	-	-	-
+1014	KAR	monkey	ake	ake	*takke	103	macaco	-	-	-	-	-	-
+1015	TUY	monkey	ake	ake	*takke	103	macaco	-	-	-	-	-	-
+1016	WAN	monkey	ka	ka	*takke	103	macaco	-	-	-	-	-	-
+1017	SEK	chew	sʔãki	sʔãki	*tjʔãkʔɨ	104	mastigar	-	-	-	-	-	-
+1018	KOR	chew	jaki	jaki	*tjʔãkʔɨ	104	mastigar	-	-	-	-	-	-
+1019	MAL	chew	naki	naki	*tjʔãkʔɨ	104	mastigar	-	-	-	-	-	-
+1020	KUB	chew	~hahɨ	~hahɨ	*tjʔãkʔɨ	104	mastigar	-	-	-	-	-	-
+1021	TUK	chew	jaʔge	jaʔge	*tjʔãkʔɨ	104	mastigar	-	-	-	-	-	-
+1022	TUY	chew	yage	yage	*tjʔãkʔɨ	104	mastigar	-	-	-	-	-	-
+1023	WAN	chew	jaʔka	jaʔka	*tjʔãkʔɨ	104	mastigar	-	-	-	-	-	-
+1024	SIO	toucan	jãse	jãse	*tjʔase(?)	105	tucano	-	-	-	-	-	-
+1025	SEK	toucan	jãse	jãse	*tjʔase(?)	105	tucano	-	-	-	-	-	-
+1026	KOR	toucan	jãse	jãse	*tjʔase(?)	105	tucano	-	-	-	-	-	-
+1027	KUE	toucan	rase	rase	*tjʔase(?)	105	tucano	-	-	-	-	-	-
+1028	TAN	toucan	~dahe	~dahe	*tjʔase(?)	105	tucano	-	-	-	-	-	-
+1029	KUB	toucan	hoewe	hoewe	*tjʔase(?)	105	tucano	-	-	-	-	-	-
+1030	DES	toucan	~dasi	~dasi	*tjʔase(?)	105	tucano	-	-	-	-	-	-
+1031	TUK	toucan	race	race	*tjʔase(?)	105	tucano	-	-	-	-	-	-
+1032	KAR	toucan	dasa	dasa	*tjʔase(?)	105	tucano	-	-	-	-	-	-
+1033	WAN	toucan	dase	dase	*tjʔase(?)	105	tucano	-	-	-	-	-	-
+1034	SIO	tongue	sʔeme	sʔeme	*tjʔeme	106	língua	fígado	liver	-	-	-	-
+1035	SEK	tongue	sʔeme	sʔeme	*tjʔeme	106	língua	fígado	liver	-	-	-	-
+1036	KOR	tongue	jeme	jeme	*tjʔeme	106	língua	fígado	liver	-	-	-	-
+1037	MAL	tongue	neme	neme	*tjʔeme	106	língua	fígado	liver	-	-	-	-
+1038	KUE	tongue	jame	jame	*tjʔeme	106	língua	fígado	liver	-	-	-	-
+1039	KUB	tongue	~hebe	~hebe	*tjʔeme	106	língua	fígado	liver	-	-	-	-
+1040	BAS	tongue	~jebe	~jebe	*tjʔeme	106	língua	fígado	liver	-	-	-	-
+1041	TUK	tongue	~jebe	~jebe	*tjʔeme	106	língua	fígado	liver	-	-	-	-
+1042	KAR	tongue	~jebe	~jebe	*tjʔeme	106	língua	fígado	liver	-	-	-	-
+1043	TUY	tongue	~jebe	~jebe	*tjʔeme	106	língua	fígado	liver	-	-	-	-
+1044	WAN	tongue	~jaba	~jaba	*tjʔeme	106	língua	fígado	liver	-	-	-	-
+1045	SIO	black	sʔi	sʔi	*tjʔĩ	107	preto	-	-	-	-	-	-
+1046	KOR	black	ji	ji	*tjʔĩ	107	preto	-	-	-	-	-	-
+1047	MAL	black	kũi	kũi	*tjʔĩ	107	preto	-	-	-	-	-	-
+1048	TAN	black	~deʔi	~deʔi	*tjʔĩ	107	preto	-	-	-	-	-	-
+1049	KUB	black	~jebi	~jebi	*tjʔĩ	107	preto	-	-	-	-	-	-
+1050	DES	black	~jii	~jii	*tjʔĩ	107	preto	-	-	-	-	-	-
+1051	BAS	black	~jii	~jii	*tjʔĩ	107	preto	-	-	-	-	-	-
+1052	TUK	black	~jii	~jii	*tjʔĩ	107	preto	-	-	-	-	-	-
+1053	KAR	black	~jii	~jii	*tjʔĩ	107	preto	-	-	-	-	-	-
+1054	TUY	black	~jii	~jii	*tjʔĩ	107	preto	-	-	-	-	-	-
+1055	WAN	black	~jii	~jii	*tjʔĩ	107	preto	-	-	-	-	-	-
+1056	SIO	egg	sʔia	sʔia	*tjʔia	108	ovo	-	-	-	-	-	-
+1057	SEK	egg	sʔia	sʔia	*tjʔia	108	ovo	-	-	-	-	-	-
+1058	KOR	egg	jia	jia	*tjʔia	108	ovo	-	-	-	-	-	-
+1059	MAL	egg	jia	jia	*tjʔia	108	ovo	-	-	-	-	-	-
+1060	TAN	egg	ria	ria	*tjʔia	108	ovo	-	-	-	-	-	-
+1061	KUB	egg	hĩdɨ	hĩdɨ	*tjʔia	108	ovo	-	-	-	-	-	-
+1062	BAS	egg	ria	ria	*tjʔia	108	ovo	-	-	-	-	-	-
+1063	TUK	egg	die	die	*tjʔia	108	ovo	-	-	-	-	-	-
+1064	KAR	egg	ria	ria	*tjʔia	108	ovo	-	-	-	-	-	-
+1065	TUY	egg	diye	diye	*tjʔia	108	ovo	-	-	-	-	-	-
+1066	WAN	egg	die	die	*tjʔia	108	ovo	-	-	-	-	-	-
+1067	SEK	face	sʔia	sʔia	*tjʔia	109	face	-	-	-	-	-	-
+1068	KOR	face	jia	jia	*tjʔia	109	face	-	-	-	-	-	-
+1069	MAL	face	jia	jia	*tjʔia	109	face	-	-	-	-	-	-
+1070	KUB	face	hiwa	hiwa	*tjʔia	109	face	-	-	-	-	-	-
+1071	DES	face	dia	dia	*tjʔia	109	face	-	-	-	-	-	-
+1072	BAS	face	ria	ria	*tjʔia	109	face	-	-	-	-	-	-
+1073	TUK	face	dia	dia	*tjʔia	109	face	-	-	-	-	-	-
+1074	KAR	face	ria	ria	*tjʔia	109	face	-	-	-	-	-	-
+1075	TUY	face	dia poa	dia_poa	*tjʔia	109	face	-	-	-	-	-	-
+1076	SIO	river	sʔia	sʔia	*tjʔia	110	rio	-	-	-	-	-	-
+1077	SEK	river	sʔia	sʔia	*tjʔia	110	rio	-	-	-	-	-	-
+1078	KOR	river	jia	jia	*tjʔia	110	rio	-	-	-	-	-	-
+1079	MAL	river	jia	jia	*tjʔia	110	rio	-	-	-	-	-	-
+1080	KUE	river	la	la	*tjʔia	110	rio	-	-	-	-	-	-
+1081	TAN	river	ria	ria	*tjʔia	110	rio	-	-	-	-	-	-
+1082	KUB	river	hia	hia	*tjʔia	110	rio	-	-	-	-	-	-
+1083	DES	river	dia	dia	*tjʔia	110	rio	-	-	-	-	-	-
+1084	BAS	river	ria	ria	*tjʔia	110	rio	-	-	-	-	-	-
+1085	TUK	river	dia	dia	*tjʔia	110	rio	-	-	-	-	-	-
+1086	KAR	river	ria	ria	*tjʔia	110	rio	-	-	-	-	-	-
+1087	TUY	river	dia	dia	*tjʔia	110	rio	-	-	-	-	-	-
+1088	WAN	river	dia	dia	*tjʔia	110	rio	-	-	-	-	-	-
+1089	SIO	blood	sʔie	sʔie	*tjʔie	111	sangue	-	-	-	-	-	-
+1090	SEK	blood	sʔie	sʔie	*tjʔie	111	sangue	-	-	-	-	-	-
+1091	KOR	blood	jie	jie	*tjʔie	111	sangue	-	-	-	-	-	-
+1092	KUE	blood	lieri	lieri	*tjʔie	111	sangue	-	-	-	-	-	-
+1093	TAN	blood	ribe	ribe	*tjʔie	111	sangue	-	-	-	-	-	-
+1094	KUB	blood	hiwe	hiwe	*tjʔie	111	sangue	-	-	-	-	-	-
+1095	DES	blood	dii	dii	*tjʔie	111	sangue	-	-	-	-	-	-
+1096	BAS	blood	rii	rii	*tjʔie	111	sangue	-	-	-	-	-	-
+1097	TUK	blood	dii	dii	*tjʔie	111	sangue	-	-	-	-	-	-
+1098	KAR	blood	rii	rii	*tjʔie	111	sangue	-	-	-	-	-	-
+1099	TUY	blood	dii	dii	*tjʔie	111	sangue	-	-	-	-	-	-
+1100	WAN	blood	di	di	*tjʔie	111	sangue	-	-	-	-	-	-
+1101	SIO	lake	sʔitada	sʔitada	*tjʔitta	112	lago	-	-	-	-	-	-
+1102	MAL	lake	t∫ita	t∫ita	*tjʔitta	112	lago	-	-	-	-	-	-
+1103	KUE	lake	rita	rita	*tjʔitta	112	lago	-	-	-	-	-	-
+1104	KUB	lake	hita	hita	*tjʔitta	112	lago	-	-	-	-	-	-
+1105	DES	lake	dita	dita	*tjʔitta	112	lago	-	-	-	-	-	-
+1106	YUP	lake	tita	tita	*tjʔitta	112	lago	-	-	-	-	-	-
+1107	TUK	lake	dita	dita	*tjʔitta	112	lago	-	-	-	-	-	-
+1108	TUY	lake	taro	taro	*tjʔitta	112	lago	-	-	-	-	-	-
+1109	SIO	head	~sʔiho	~sʔiho	*tjʔɨpo	113	cabeça	-	-	-	-	-	-
+1110	SEK	head	~sio	~sio	*tjʔɨpo	113	cabeça	-	-	-	-	-	-
+1111	KOR	head	~siho	~siho	*tjʔɨpo	113	cabeça	-	-	-	-	-	-
+1112	MAL	head	t∫io	t∫io	*tjʔɨpo	113	cabeça	-	-	-	-	-	-
+1113	TAN	head	rupu	rupu	*tjʔɨpo	113	cabeça	-	-	-	-	-	-
+1114	KUB	head	hipo	hipo	*tjʔɨpo	113	cabeça	-	-	-	-	-	-
+1115	DES	head	dipu	dipu	*tjʔɨpo	113	cabeça	-	-	-	-	-	-
+1116	YUP	head	dɨpɨ	dɨpɨ	*tjʔɨpo	113	cabeça	-	-	-	-	-	-
+1117	BAS	head	riho	riho	*tjʔɨpo	113	cabeça	-	-	-	-	-	-
+1118	TUK	head	dɨpo	dɨpo	*tjʔɨpo	113	cabeça	-	-	-	-	-	-
+1119	KAR	head	rɨpo	rɨpo	*tjʔɨpo	113	cabeça	-	-	-	-	-	-
+1120	TUY	head	dupu	dupu	*tjʔɨpo	113	cabeça	-	-	-	-	-	-
+1121	WAN	head	dapu	dapu	*tjʔɨpo	113	cabeça	-	-	-	-	-	-
+1122	KUE	mouth1	risepu	risepu	*tjʔɨseo	114	boca1	-	-	-	-	-	*tjʔɨseo
+1123	TAN	mouth1	riho	riho	*tjʔɨseo	114	boca1	-	-	-	-	-	*tjʔɨseo
+1124	KUB	mouth1	hihe	hihe	*tjʔɨseo	114	boca1	-	-	-	-	-	*tjʔɨseo
+1125	DES	mouth1	disi	disi	*tjʔɨseo	114	boca1	-	-	-	-	-	*tjʔɨseo
+1126	YUP	mouth1	ditsi	ditsi	*tjʔɨseo	114	boca1	-	-	-	-	-	*tjʔɨseo
+1127	BAS	mouth1	rice	rice	*tjʔɨseo	114	boca1	-	-	-	-	-	*tjʔɨseo
+1128	TUK	mouth1	ɨʔse	ɨʔse	*tjʔɨseo	114	boca1	-	-	-	-	-	*tjʔɨseo
+1129	KAR	mouth1	rise, jise	rise	*tjʔɨseo	114	boca1	-	-	-	-	-	*tjʔɨseo
+1130	TUY	mouth1	ɨse	ɨse	*tjʔɨseo	114	boca1	-	-	-	-	-	*tjʔɨseo
+1131	WAN	mouth1	dɨse	dɨse	*tjʔɨseo	114	boca1	-	-	-	-	-	*tjʔɨseo
+1132	SIO	distant	sʔoa	sʔoa	*tjʔoa	115	longe	-	-	-	-	-	-
+1133	SEK	distant	soʔo	soʔo	*tjʔoa	115	longe	-	-	-	-	-	-
+1134	MAL	distant	jãma	jãma	*tjʔoa	115	longe	-	-	-	-	-	-
+1135	KUE	distant	joe	joe	*tjʔoa	115	longe	-	-	-	-	-	-
+1136	TAN	distant	joe	joe	*tjʔoa	115	longe	-	-	-	-	-	-
+1137	KUB	distant	hoa	hoa	*tjʔoa	115	longe	-	-	-	-	-	-
+1138	DES	distant	joa	joa	*tjʔoa	115	longe	-	-	-	-	-	-
+1139	BAS	distant	joa	joa	*tjʔoa	115	longe	-	-	-	-	-	-
+1140	TUK	distant	joa	joa	*tjʔoa	115	longe	-	-	-	-	-	-
+1141	KAR	distant	joa	joa	*tjʔoa	115	longe	-	-	-	-	-	-
+1142	TUY	distant	joa	joa	*tjʔoa	115	longe	-	-	-	-	-	-
+1143	WAN	distant	joa	joa	*tjʔoa	115	longe	-	-	-	-	-	-
+1144	SEK	king-fisher	sʔãʔsa	sʔãʔsa	*tjãsa	116	martim pescador	-	-	-	-	-	-
+1145	KOR	king-fisher	sãsʔa	sãsʔa	*tjãsa	116	martim pescador	-	-	-	-	-	-
+1146	TAN	king-fisher	~haha	~haha	*tjãsa	116	martim pescador	-	-	-	-	-	-
+1147	KUB	king-fisher	~haha	~haha	*tjãsa	116	martim pescador	-	-	-	-	-	-
+1148	DES	king-fisher	~sada	~sada	*tjãsa	116	martim pescador	-	-	-	-	-	-
+1149	YUP	king-fisher	~sasa	~sasa	*tjãsa	116	martim pescador	-	-	-	-	-	-
+1150	BAS	king-fisher	~jasa	~jasa	*tjãsa	116	martim pescador	-	-	-	-	-	-
+1151	TUK	king-fisher	~sada	~sada	*tjãsa	116	martim pescador	-	-	-	-	-	-
+1152	KAR	king-fisher	~jasa	~jasa	*tjãsa	116	martim pescador	-	-	-	-	-	-
+1153	WAN	king-fisher	~sada	~sada	*tjãsa	116	martim pescador	-	-	-	-	-	-
+1154	SIO	peccary	sẽse	sẽse	*tjẽse	117	porco do mato	-	-	-	-	-	-
+1155	SEK	peccary	sẽse	sẽse	*tjẽse	117	porco do mato	-	-	-	-	-	-
+1156	KOR	peccary	sẽse	sẽse	*tjẽse	117	porco do mato	-	-	-	-	-	-
+1157	MAL	peccary	sẽse	sẽse	*tjẽse	117	porco do mato	-	-	-	-	-	-
+1158	KUE	peccary	jese	jese	*tjẽse	117	porco do mato	-	-	-	-	-	-
+1159	TAN	peccary	~hehe	~hehe	*tjẽse	117	porco do mato	-	-	-	-	-	-
+1160	KUB	peccary	~hehe	~hehe	*tjẽse	117	porco do mato	-	-	-	-	-	-
+1161	DES	peccary	jese	jese	*tjẽse	117	porco do mato	-	-	-	-	-	-
+1162	YUP	peccary	tsetse	tsetse	*tjẽse	117	porco do mato	-	-	-	-	-	-
+1163	BAS	peccary	jece	jece	*tjẽse	117	porco do mato	-	-	-	-	-	-
+1164	TUK	peccary	jese	jese	*tjẽse	117	porco do mato	-	-	-	-	-	-
+1165	TUY	peccary	jese	jese	*tjẽse	117	porco do mato	-	-	-	-	-	-
+1166	WAN	peccary	jese	jese	*tjẽse	117	porco do mato	-	-	-	-	-	-
+1167	SEK	poison	sʔĩma	sʔĩma	*tjima	118	veneno	-	-	-	-	-	-
+1168	KOR	poison	jima	jima	*tjima	118	veneno	-	-	-	-	-	-
+1169	KUB	poison	~hima	~hima	*tjima	118	veneno	-	-	-	-	-	-
+1170	DES	poison	~diba	~diba	*tjima	118	veneno	-	-	-	-	-	-
+1171	TUK	poison	~diba	~diba	*tjima	118	veneno	-	-	-	-	-	-
+1172	KAR	poison	~diba	~diba	*tjima	118	veneno	-	-	-	-	-	-
+1173	TUY	poison	~diba	~diba	*tjima	118	veneno	-	-	-	-	-	-
+1174	WAN	poison	~jiba	~jiba	*tjima	118	veneno	-	-	-	-	-	-
+1175	SIO	green	sɨho	sɨho	*tjɨ̃pʔe	119	verde	azul	blue	não maduro	unripe	-	-
+1176	KUE	green	tɨmɨ	tɨmɨ	*tjɨ̃pʔe	119	verde	azul	blue	não maduro	unripe	-	-
+1177	TAN	green	~hiʔbi	~hiʔbi	*tjɨ̃pʔe	119	verde	azul	blue	não maduro	unripe	-	-
+1178	KUB	green	~hɨbe	~hɨbe	*tjɨ̃pʔe	119	verde	azul	blue	não maduro	unripe	-	-
+1179	YUP	green	tsɨmɨ	tsɨmɨ	*tjɨ̃pʔe	119	verde	azul	blue	não maduro	unripe	-	-
+1180	BAS	green	~cɨbe	~cɨbe	*tjɨ̃pʔe	119	verde	azul	blue	não maduro	unripe	-	-
+1181	TUK	green	sɨʔme	sɨʔme	*tjɨ̃pʔe	119	verde	azul	blue	não maduro	unripe	-	-
+1182	KAR	green	~hɨbe	~hɨbe	*tjɨ̃pʔe	119	verde	azul	blue	não maduro	unripe	-	-
+1183	TUY	green	~sɨbere	~sɨbere	*tjɨ̃pʔe	119	verde	azul	blue	não maduro	unripe	-	-
+1184	SIO	cold	sɨsɨ	sɨsɨ	*tjɨsi	120	frio	-	-	-	-	-	-
+1185	SEK	cold	sɨsɨ	sɨsɨ	*tjɨsi	120	frio	-	-	-	-	-	-
+1186	KOR	cold	sɨsɨ	sɨsɨ	*tjɨsi	120	frio	-	-	-	-	-	-
+1187	MAL	cold	sɨsɨ	sɨsɨ	*tjɨsi	120	frio	-	-	-	-	-	-
+1188	KUE	cold	jɨsɨa	jɨsɨa	*tjɨsi	120	frio	-	-	-	-	-	-
+1189	TAN	cold	hiʔhia	hiʔhia	*tjɨsi	120	frio	-	-	-	-	-	-
+1190	KUB	cold	hɨhɨ	hɨhɨ	*tjɨsi	120	frio	-	-	-	-	-	-
+1191	DES	cold	jɨsa	jɨsa	*tjɨsi	120	frio	-	-	-	-	-	-
+1192	YUP	cold	tsesɨ, tsitsi	tsesɨ	*tjɨsi	120	frio	-	-	-	-	-	-
+1193	BAS	cold	ɨca, jɨcɨ	ɨca	*tjɨsi	120	frio	-	-	-	-	-	-
+1194	TUK	cold	jɨsɨa	jɨsɨa	*tjɨsi	120	frio	-	-	-	-	-	-
+1195	TUY	cold	jɨsɨa	jɨsɨa	*tjɨsi	120	frio	-	-	-	-	-	-
+1196	WAN	cold	jɨsɨ	jɨsɨ	*tjɨsi	120	frio	-	-	-	-	-	-
+1197	SIO	tree	sũki	sũki	*tjũkkɨ	121	árvore	-	-	-	-	-	-
+1198	SEK	tree	sõkɨ	sõkɨ	*tjũkkɨ	121	árvore	-	-	-	-	-	-
+1199	KOR	tree	sũkij̃ɨ	sũkij̃ɨ	*tjũkkɨ	121	árvore	-	-	-	-	-	-
+1200	MAL	tree	sũkij̃i	sũkij̃i	*tjũkkɨ	121	árvore	-	-	-	-	-	-
+1201	KUE	tree	tokɨ	tokɨ	*tjũkkɨ	121	árvore	-	-	-	-	-	-
+1202	TAN	tree	~huki	~huki	*tjũkkɨ	121	árvore	-	-	-	-	-	-
+1203	KUB	tree	hokɨ	hokɨ	*tjũkkɨ	121	árvore	-	-	-	-	-	-
+1204	DES	tree	jukɨ	jukɨ	*tjũkkɨ	121	árvore	-	-	-	-	-	-
+1205	BAS	tree	jukɨ	jukɨ	*tjũkkɨ	121	árvore	-	-	-	-	-	-
+1206	TUK	tree	jukɨ	jukɨ	*tjũkkɨ	121	árvore	-	-	-	-	-	-
+1207	KAR	tree	jukɨ	jukɨ	*tjũkkɨ	121	árvore	-	-	-	-	-	-
+1208	TUY	tree	jukɨ	jukɨ	*tjũkkɨ	121	árvore	-	-	-	-	-	-
+1209	WAN	tree	jukɨ	jukɨ	*tjũkkɨ	121	árvore	-	-	-	-	-	-
+1210	SIO	insect sp.	susi	susi	*tjusi	122	inseto sp.	-	-	-	-	-	-
+1211	KOR	insect sp.	sũsi	sũsi	*tjusi	122	inseto sp.	-	-	-	-	-	-
+1212	KUE	insect sp.	to(o)si	tosi	*tjusi	122	inseto sp.	-	-	-	-	-	-
+1213	KUB	insect sp.	huhi	huhi	*tjusi	122	inseto sp.	-	-	-	-	-	-
+1214	YUP	insect sp.	tsutsiga	tsutsiga	*tjusi	122	inseto sp.	-	-	-	-	-	-
+1215	BAS	insect sp.	usi	usi	*tjusi	122	inseto sp.	-	-	-	-	-	-
+1216	WAN	insect sp.	jĩ	jĩ	*tjusi	122	inseto sp.	-	-	-	-	-	-
+1217	SIO	fruit sp.	toa	toa	*toa	123	fruta sp.	-	-	-	-	-	-
+1218	SEK	fruit sp.	toa	toa	*toa	123	fruta sp.	-	-	-	-	-	-
+1219	KOR	fruit sp.	thoa	thoa	*toa	123	fruta sp.	-	-	-	-	-	-
+1220	MAL	fruit sp.	toa	toa	*toa	123	fruta sp.	-	-	-	-	-	-
+1221	KUB	fruit sp.	toa	toa	*toa	123	fruta sp.	-	-	-	-	-	-
+1222	BAS	fruit sp.	toa	toa	*toa	123	fruta sp.	-	-	-	-	-	-
+1223	TUK	fruit sp.	toa	toa	*toa	123	fruta sp.	-	-	-	-	-	-
+1224	WAN	fruit sp.	thoa	thoa	*toa	123	fruta sp.	-	-	-	-	-	-
+1225	SIO	stump	tu	tu	*tu-	124	toco	pau, porrete (sio, sek, mai, Kub)	stick, club (sio, sek, mai, Kub)	-	-	-	-
+1226	SEK	stump	tu-	tu	*tu-	124	toco	pau, porrete (sio, sek, mai, Kub)	stick, club (sio, sek, mai, Kub)	-	-	-	-
+1227	KOR	stump	thuu	thuu	*tu-	124	toco	pau, porrete (sio, sek, mai, Kub)	stick, club (sio, sek, mai, Kub)	-	-	-	-
+1228	MAL	stump	tu	tu	*tu-	124	toco	pau, porrete (sio, sek, mai, Kub)	stick, club (sio, sek, mai, Kub)	-	-	-	-
+1229	KUB	stump	tutudi	tutudi	*tu-	124	toco	pau, porrete (sio, sek, mai, Kub)	stick, club (sio, sek, mai, Kub)	-	-	-	-
+1230	DES	stump	tudu	tudu	*tu-	124	toco	pau, porrete (sio, sek, mai, Kub)	stick, club (sio, sek, mai, Kub)	-	-	-	-
+1231	BAS	stump	tutu	tutu	*tu-	124	toco	pau, porrete (sio, sek, mai, Kub)	stick, club (sio, sek, mai, Kub)	-	-	-	-
+1232	TUK	stump	tutu	tutu	*tu-	124	toco	pau, porrete (sio, sek, mai, Kub)	stick, club (sio, sek, mai, Kub)	-	-	-	-
+1233	KAR	stump	tutu	tutu	*tu-	124	toco	pau, porrete (sio, sek, mai, Kub)	stick, club (sio, sek, mai, Kub)	-	-	-	-
+1234	WAN	stump	thutu	thutu	*tu-	124	toco	pau, porrete (sio, sek, mai, Kub)	stick, club (sio, sek, mai, Kub)	-	-	-	-
+1235	KUE	pacu fish	hohu	hohu	*uhu	125	pacu	-	-	-	-	-	*uhu
+1236	DES	pacu fish	uhu	uhu	*uhu	125	pacu	-	-	-	-	-	*uhu
+1237	BAS	pacu fish	uhu	uhu	*uhu	125	pacu	-	-	-	-	-	*uhu
+1238	TUK	pacu fish	uhu	uhu	*uhu	125	pacu	-	-	-	-	-	*uhu
+1239	SIO	breast	ohe	ohe	*upe	126	peito	-	-	-	-	-	-
+1240	SEK	breast	ohe	ohe	*upe	126	peito	-	-	-	-	-	-
+1241	KOR	breast	ohe	ohe	*upe	126	peito	-	-	-	-	-	-
+1242	MAL	breast	ohe	ohe	*upe	126	peito	-	-	-	-	-	-
+1243	KUE	breast	huheri	huheri	*upe	126	peito	-	-	-	-	-	-
+1244	TAN	breast	ũʔpe	ũʔpe	*upe	126	peito	-	-	-	-	-	-
+1245	KUB	breast	ope	ope	*upe	126	peito	-	-	-	-	-	-
+1246	DES	breast	~api	~api	*upe	126	peito	-	-	-	-	-	-
+1247	BAS	breast	~ohe	~ohe	*upe	126	peito	-	-	-	-	-	-
+1248	TUK	breast	~ope	~ope	*upe	126	peito	-	-	-	-	-	-
+1249	KAR	breast	~upe	~upe	*upe	126	peito	-	-	-	-	-	-
+1250	TUY	breast	~opea	~opea	*upe	126	peito	-	-	-	-	-	-
+1251	WAN	breast	~pedo	~pedo	*upe	126	peito	-	-	-	-	-	-
+1252	SIO	wasp	uti	uti	*utti	127	caba	-	-	-	-	-	-
+1253	SEK	wasp	uti	uti	*utti	127	caba	-	-	-	-	-	-
+1254	KOR	wasp	uthi	uthi	*utti	127	caba	-	-	-	-	-	-
+1255	MAL	wasp	uti	uti	*utti	127	caba	-	-	-	-	-	-
+1256	KUE	wasp	huti	huti	*utti	127	caba	-	-	-	-	-	-
+1257	TAN	wasp	uti	uti	*utti	127	caba	-	-	-	-	-	-
+1258	KUB	wasp	ut∫i	ut∫i	*utti	127	caba	-	-	-	-	-	-
+1259	DES	wasp	uti	uti	*utti	127	caba	-	-	-	-	-	-
+1260	BAS	wasp	uti	uti	*utti	127	caba	-	-	-	-	-	-
+1261	TUK	wasp	uti	uti	*utti	127	caba	-	-	-	-	-	-
+1262	KAR	wasp	uti	uti	*utti	127	caba	-	-	-	-	-	-
+1263	TUY	wasp	utia	utia	*utti	127	caba	-	-	-	-	-	-
+1264	WAN	wasp	ti	ti	*utti	127	caba	-	-	-	-	-	-
+1265	KOR	fish with a net	wajo	wajo	*waja	128	pescar com rede	-	strain	-	remove	-	-
+1266	MAL	fish with a net	bejo	bejo	*waja	128	pescar com rede	-	strain	-	remove	-	-
+1267	DES	fish with a net	waja	waja	*waja	128	pescar com rede	-	strain	-	remove	-	-
+1268	BAS	fish with a net	waja	waja	*waja	128	pescar com rede	-	strain	-	remove	-	-
+1269	TUK	fish with a net	waʔsa	waʔsa	*waja	128	pescar com rede	-	strain	-	remove	-	-
+1270	WAN	fish with a net	waʔsa	waʔsa	*waja	128	pescar com rede	-	strain	-	remove	-	-
+1271	SIO	cheek	wajo	wajo	*wajo	129	bochecha	-	-	-	-	-	-
+1272	SEK	cheek	wajo	wajo	*wajo	129	bochecha	-	-	-	-	-	-
+1273	KOR	cheek	wajo	wajo	*wajo	129	bochecha	-	-	-	-	-	-
+1274	MAL	cheek	bajo	bajo	*wajo	129	bochecha	-	-	-	-	-	-
+1275	KUB	cheek	wɨo	wɨo	*wajo	129	bochecha	-	-	-	-	-	-
+1276	DES	cheek	waʔju	waʔju	*wajo	129	bochecha	-	-	-	-	-	-
+1277	BAS	cheek	waju	waju	*wajo	129	bochecha	-	-	-	-	-	-
+1278	TUK	cheek	waʔsu	waʔsu	*wajo	129	bochecha	-	-	-	-	-	-
+1279	KAR	cheek	waso	waso	*wajo	129	bochecha	-	-	-	-	-	-
+1280	TUY	cheek	wasopu	wasopu	*wajo	129	bochecha	-	-	-	-	-	-
+1281	WAN	cheek	waʔsu	waʔsu	*wajo	129	bochecha	-	-	-	-	-	-
+1282	SIO	name	mami	mami	*wãmi	130	nome	-	-	-	-	-	-
+1283	SEK	name	mami	mami	*wãmi	130	nome	-	-	-	-	-	-
+1284	KOR	name	mami	mami	*wãmi	130	nome	-	-	-	-	-	-
+1285	MAL	name	mami	mami	*wãmi	130	nome	-	-	-	-	-	-
+1286	TAN	name	~wabe	~wabe	*wãmi	130	nome	-	-	-	-	-	-
+1287	KUB	name	~abi	~abi	*wãmi	130	nome	-	-	-	-	-	-
+1288	DES	name	~wai	~wai	*wãmi	130	nome	-	-	-	-	-	-
+1289	BAS	name	~wabe	~wabe	*wãmi	130	nome	-	-	-	-	-	-
+1290	TUK	name	~wabe	~wabe	*wãmi	130	nome	-	-	-	-	-	-
+1291	KAR	name	~wabe	~wabe	*wãmi	130	nome	-	-	-	-	-	-
+1292	TUY	name	~wabe	~wabe	*wãmi	130	nome	-	-	-	-	-	-
+1293	WAN	name	~waba	~waba	*wãmi	130	nome	-	-	-	-	-	-
+1294	SIO	mythical being	wati	wati	*wãtti	131	ser mítico do mato	ancestral (kub)	ancestral (kub)	-	-	-	-
+1295	SEK	mythical being	wati	wati	*wãtti	131	ser mítico do mato	ancestral (kub)	ancestral (kub)	-	-	-	-
+1296	KOR	mythical being	vathi	vathi	*wãtti	131	ser mítico do mato	ancestral (kub)	ancestral (kub)	-	-	-	-
+1297	MAL	mythical being	ãi	ãi	*wãtti	131	ser mítico do mato	ancestral (kub)	ancestral (kub)	-	-	-	-
+1298	TAN	mythical being	wãti	wãti	*wãtti	131	ser mítico do mato	ancestral (kub)	ancestral (kub)	-	-	-	-
+1299	KUB	mythical being	~at∫i	~at∫i	*wãtti	131	ser mítico do mato	ancestral (kub)	ancestral (kub)	-	-	-	-
+1300	DES	mythical being	wãti	wãti	*wãtti	131	ser mítico do mato	ancestral (kub)	ancestral (kub)	-	-	-	-
+1301	BAS	mythical being	wãti	wãti	*wãtti	131	ser mítico do mato	ancestral (kub)	ancestral (kub)	-	-	-	-
+1302	TUK	mythical being	wãti	wãti	*wãtti	131	ser mítico do mato	ancestral (kub)	ancestral (kub)	-	-	-	-
+1303	KAR	mythical being	wãti	wãti	*wãtti	131	ser mítico do mato	ancestral (kub)	ancestral (kub)	-	-	-	-
+1304	WAN	mythical being	wãti	wãti	*wãtti	131	ser mítico do mato	ancestral (kub)	ancestral (kub)	-	-	-	-
+1305	SIO	fish	waʔi	waʔi	*waʔi	132	peixe	fish sp. (kub?)	-	-	-	-	-
+1306	SEK	fish	waʔi	waʔi	*waʔi	132	peixe	fish sp. (kub?)	-	-	-	-	-
+1307	KOR	fish	βaʔi	βaʔi	*waʔi	132	peixe	fish sp. (kub?)	-	-	-	-	-
+1308	MAL	fish	bai	bai	*waʔi	132	peixe	fish sp. (kub?)	-	-	-	-	-
+1309	KUE	fish	uai	uai	*waʔi	132	peixe	fish sp. (kub?)	-	-	-	-	-
+1310	TAN	fish	waʔi	waʔi	*waʔi	132	peixe	fish sp. (kub?)	-	-	-	-	-
+1311	KUB	fish	wáwi	wáwi	*waʔi	132	peixe	fish sp. (kub?)	-	-	-	-	-
+1312	DES	fish	waʔi	waʔi	*waʔi	132	peixe	fish sp. (kub?)	-	-	-	-	-
+1313	BAS	fish	wai	wai	*waʔi	132	peixe	fish sp. (kub?)	-	-	-	-	-
+1314	TUK	fish	waʔi	waʔi	*waʔi	132	peixe	fish sp. (kub?)	-	-	-	-	-
+1315	TUY	fish	wai	wai	*waʔi	132	peixe	fish sp. (kub?)	-	-	-	-	-
+1316	WAN	fish	waʔi	waʔi	*waʔi	132	peixe	fish sp. (kub?)	-	-	-	-	-
+1317	SIO	tapir	wekɨ	wekɨ	*wekkɨ	133	anta	-	-	-	-	-	-
+1318	SEK	tapir	wẽkɨ	wẽkɨ	*wekkɨ	133	anta	-	-	-	-	-	-
+1319	KOR	tapir	βekhɨ	βekhɨ	*wekkɨ	133	anta	-	-	-	-	-	-
+1320	MAL	tapir	bekɨ	bekɨ	*wekkɨ	133	anta	-	-	-	-	-	-
+1321	KUE	tapir	uekɨ	uekɨ	*wekkɨ	133	anta	-	-	-	-	-	-
+1322	KUB	tapir	wekɨ	wekɨ	*wekkɨ	133	anta	-	-	-	-	-	-
+1323	DES	tapir	wekɨ	wekɨ	*wekkɨ	133	anta	-	-	-	-	-	-
+1324	BAS	tapir	wekɨ	wekɨ	*wekkɨ	133	anta	-	-	-	-	-	-
+1325	TUK	tapir	wekɨ	wekɨ	*wekkɨ	133	anta	-	-	-	-	-	-
+1326	TUY	tapir	wekɨ	wekɨ	*wekkɨ	133	anta	-	-	-	-	-	-
+1327	WAN	tapir	wat∫ɨ	wat∫ɨ	*wekkɨ	133	anta	-	-	-	-	-	-
+1328	SIO	parrot	weko	weko	*wekko	134	papagaio	-	-	-	-	-	-
+1329	SEK	parrot	weko	weko	*wekko	134	papagaio	-	-	-	-	-	-
+1330	KOR	parrot	weko	weko	*wekko	134	papagaio	-	-	-	-	-	-
+1331	MAL	parrot	beko	beko	*wekko	134	papagaio	-	-	-	-	-	-
+1332	KUB	parrot	weko	weko	*wekko	134	papagaio	-	-	-	-	-	-
+1333	DES	parrot	weko	weko	*wekko	134	papagaio	-	-	-	-	-	-
+1334	BAS	parrot	weko	weko	*wekko	134	papagaio	-	-	-	-	-	-
+1335	TUK	parrot	weko	weko	*wekko	134	papagaio	-	-	-	-	-	-
+1336	KAR	parrot	weko	weko	*wekko	134	papagaio	-	-	-	-	-	-
+1337	TUY	parrot	weko	weko	*wekko	134	papagaio	-	-	-	-	-	-
+1338	WAN	parrot	wat∫o	wat∫o	*wekko	134	papagaio	-	-	-	-	-	-
+1339	SEK	garden	βeʔse	βeʔse	*wese	135	roça	aldeia	village	fora	outside	-	-
+1340	KOR	garden	weʔse	weʔse	*wese	135	roça	aldeia	village	fora	outside	-	-
+1341	MAL	garden	bese	bese	*wese	135	roça	aldeia	village	fora	outside	-	-
+1342	DES	garden	wese	wese	*wese	135	roça	aldeia	village	fora	outside	-	-
+1343	BAS	garden	wece	wece	*wese	135	roça	aldeia	village	fora	outside	-	-
+1344	TUK	garden	wese	wese	*wese	135	roça	aldeia	village	fora	outside	-	-
+1345	TUY	garden	wese	wese	*wese	135	roça	aldeia	village	fora	outside	-	-
+1346	WAN	garden	wese	wese	*wese	135	roça	aldeia	village	fora	outside	-	-
+1347	KOR	̃̃	weʔe	weʔe	*weʔe	136	jenipapo	-	-	-	-	-	-
+1348	KUB	̃̃	wei	wei	*weʔe	136	jenipapo	-	-	-	-	-	-
+1349	BAS	̃̃	wei	wei	*weʔe	136	jenipapo	-	-	-	-	-	-
+1350	TAN	wind	~wiro	~wiro	*wĩno	137	vento	-	-	-	-	-	*wĩno
+1351	DES	wind	~bidu	~bidu	*wĩno	137	vento	-	-	-	-	-	*wĩno
+1352	YUP	wind	uíne	uíne	*wĩno	137	vento	-	-	-	-	-	*wĩno
+1353	BAS	wind	~bido	~bido	*wĩno	137	vento	-	-	-	-	-	*wĩno
+1354	TUK	wind	~wido	~wido	*wĩno	137	vento	-	-	-	-	-	*wĩno
+1355	KAR	wind	~wido	~wido	*wĩno	137	vento	-	-	-	-	-	*wĩno
+1356	TUY	wind	~wido	~wido	*wĩno	137	vento	-	-	-	-	-	*wĩno
+1357	WAN	wind	~wido	~wido	*wĩno	137	vento	-	-	-	-	-	*wĩno
+1358	SIO	house	wɨʔe	wɨʔe	*wɨʔe	138	casa	formigueiro	anthill	-	-	-	-
+1359	SEK	house	wɨʔe	wɨʔe	*wɨʔe	138	casa	formigueiro	anthill	-	-	-	-
+1360	KOR	house	βɨʔe	βɨʔe	*wɨʔe	138	casa	formigueiro	anthill	-	-	-	-
+1361	MAL	house	ue	ue	*wɨʔe	138	casa	formigueiro	anthill	-	-	-	-
+1362	KUE	house	wɨri	wɨri	*wɨʔe	138	casa	formigueiro	anthill	-	-	-	-
+1363	TAN	house	wiʔi	wiʔi	*wɨʔe	138	casa	formigueiro	anthill	-	-	-	-
+1364	KUB	house	wɨe	wɨe	*wɨʔe	138	casa	formigueiro	anthill	-	-	-	-
+1365	DES	house	wiʔi	wiʔi	*wɨʔe	138	casa	formigueiro	anthill	-	-	-	-
+1366	BAS	house	wi	wi	*wɨʔe	138	casa	formigueiro	anthill	-	-	-	-
+1367	TUK	house	wiʔi	wiʔi	*wɨʔe	138	casa	formigueiro	anthill	-	-	-	-
+1368	KAR	house	wii	wii	*wɨʔe	138	casa	formigueiro	anthill	-	-	-	-
+1369	TUY	house	wii	wii	*wɨʔe	138	casa	formigueiro	anthill	-	-	-	-
+1370	WAN	house	wɨʔɨ	wɨʔɨ	*wɨʔe	138	casa	formigueiro	anthill	-	-	-	-
+1371	SIO	thunder	mɨho	mɨho	*wɨ̃po	139	trovão	-	-	-	-	-	-
+1372	SEK	thunder	moho	moho	*wɨ̃po	139	trovão	-	-	-	-	-	-
+1373	MAL	thunder	mɨha	mɨha	*wɨ̃po	139	trovão	-	-	-	-	-	-
+1374	KUE	thunder	mɨʔho	mɨʔho	*wɨ̃po	139	trovão	-	-	-	-	-	-
+1375	TAN	thunder	awĩpo	awĩpo	*wɨ̃po	139	trovão	-	-	-	-	-	-
+1376	KUB	thunder	õpõ	õpõ	*wɨ̃po	139	trovão	-	-	-	-	-	-
+1377	DES	thunder	bupu	bupu	*wɨ̃po	139	trovão	-	-	-	-	-	-
+1378	BAS	thunder	bɨho	bɨho	*wɨ̃po	139	trovão	-	-	-	-	-	-
+1379	TUK	thunder	bɨpo	bɨpo	*wɨ̃po	139	trovão	-	-	-	-	-	-
+1380	TUY	thunder	bɨpo	bɨpo	*wɨ̃po	139	trovão	-	-	-	-	-	-
+1381	WAN	thunder	wɨpo	wɨpo	*wɨ̃po	139	trovão	-	-	-	-	-	-
+1382	SIO	agouti	wɨ	wɨ	*wuɨ	140	cutia	-	-	-	-	-	-
+1383	SEK	agouti	wɨ	wɨ	*wuɨ	140	cutia	-	-	-	-	-	-
+1384	KOR	agouti	βɨɨ	βɨɨ	*wuɨ	140	cutia	-	-	-	-	-	-
+1385	TAN	agouti	bui	bui	*wuɨ	140	cutia	-	-	-	-	-	-
+1386	KUB	agouti	buɨ	buɨ	*wuɨ	140	cutia	-	-	-	-	-	-
+1387	DES	agouti	bui	bui	*wuɨ	140	cutia	-	-	-	-	-	-
+1388	BAS	agouti	buu	buu	*wuɨ	140	cutia	-	-	-	-	-	-
+1389	TUK	agouti	buu	buu	*wuɨ	140	cutia	-	-	-	-	-	-
+1390	KAR	agouti	buu	buu	*wuɨ	140	cutia	-	-	-	-	-	-
+1391	WAN	agouti	buu	buu	*wuɨ	140	cutia	-	-	-	-	-	-
+1392	SIO	stone	kʔata	kʔata	*kʔɨ̃ta	141	pedra	-	-	-	-	-	-
+1393	SEK	stone	kɨna	kɨna	*kʔɨ̃ta	141	pedra	-	-	-	-	-	-
+1394	KOR	stone	katha	katha	*kʔɨ̃ta	141	pedra	-	-	-	-	-	-
+1395	TAN	stone	ãta	ãta	*kʔɨ̃ta	141	pedra	-	-	-	-	-	-
+1396	DES	stone	~ɨta	~ɨta	*kʔɨ̃ta	141	pedra	-	-	-	-	-	-
+1397	YUP	stone	gɨlɨ	gɨlɨ	*kʔɨ̃ta	141	pedra	-	-	-	-	-	-
+1398	BAS	stone	~gɨta	~gɨta	*kʔɨ̃ta	141	pedra	-	-	-	-	-	-
+1399	TUK	stone	~ɨta	~ɨta	*kʔɨ̃ta	141	pedra	-	-	-	-	-	-
+1400	KAR	stone	~ɨta	~ɨta	*kʔɨ̃ta	141	pedra	-	-	-	-	-	-
+1401	TUY	stone	~ɨta	~ɨta	*kʔɨ̃ta	141	pedra	-	-	-	-	-	-
+1402	PLR	stone	~kɨta	~kɨta	*kʔɨ̃ta	141	pedra	-	-	-	-	-	-
