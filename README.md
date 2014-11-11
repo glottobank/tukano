@@ -8,7 +8,7 @@ News
 
 I have now managed to conduct a first alignment analysis along with tokenization and the like for Tukano data. The results can soon be browsed via this weblink:
 
-* http://tsv.lingpy.org/?css=database:show,&file=tukano
+* http://tsv.lingpy.org/?css=menu:show,textfields:hide,database:hide,&formatter=COGID&preview=10&basics=DOCULECT,CONCEPT,IPA,COGID,ALIGNMENT,MODIFIED&pinyin=CHINESE&sampa=IPA,TOKENS&highlight=TOKENS,ALIGNMENT&file=tukano
 
 The tool which displays the results allows for online editing, provided the user has the password. Otherwise, editing is possible, but nothing will be stored in the database.
  
