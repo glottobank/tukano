@@ -1,0 +1,22 @@
+"doculects" : {
+  "BAS":["Barasano"    , "bsn"],
+  "DES":["Desano"      , "des"],
+  "KAR":["Karapana"    , "cbc"],
+  "KOR":["Koreguahe"   , "coe"],
+  "KUB":["Kubeo"       , "cub"],
+  "KUE":["Kueretu"     , "???"],
+  "MAI":["Maihɨki"     , "ore"],
+  "PIR":["Pirá-Tapuya" , "pir"],
+  "PIS":["Pisamira"    , "???"],
+  "SEK":["Sekoya"      , "sey"],
+  "SIO":["Siona"       , "snn"],
+  "TAN":["Tanimuka"    , "tnc"],
+  "TUK":["Tukano"      , "tuo"],
+  "TUY":["Tuyuka"      , "tue"],
+  "WAN":["Wanano"      , "gvc"],
+  "YAH":["Yahuna"      , "ynu"],
+  "YUP":["Yupua"       , "???"],
+  "YUR":["Yuruti"      , "yui"],
+  "*PT":["Proto-Tukano", "???"]
+}
+
