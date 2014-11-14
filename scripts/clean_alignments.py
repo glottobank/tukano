@@ -15,7 +15,6 @@ from lingpyd.plugins.tukano import ipa2tokens
 from lingpyd.plugins.burmish import Wordlist
 wl = Wordlist('../triples/tukano.triples')
 
-
 # add protoform as real language
 protos = {}
 
@@ -191,4 +190,4 @@ wl.add_entries('modified', modified, lambda x: x, force=True)
 wl._clean_cache()
 
 
-wl.update('/home/mattis/projects/scripts/burmish/dbase/triples.sqlite3', 'tukano')
+wl.update('../../burmish/dbase/triples.sqlite3', 'tukano')

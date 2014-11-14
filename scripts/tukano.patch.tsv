@@ -1,0 +1,1544 @@
+ID	ALIGNMENT	COGID	CONCEPT	COUNTERPART	DOCULECT	GLOSA 1 PORT	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	IPA	MODIFIED	PET	PWT	TOKENS
+1	g o	1	feminine	go	BAS	GLOSA 1 PORT	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	go	FALSE	PET	PWT	g o
+2	g o	1	feminine	go	DES	GLOSA 1 PORT	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	go	FALSE	PET	PWT	g o
+3	- o	1	feminine	o	KAR	GLOSA 1 PORT	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	o	FALSE	PET	PWT	o
+4	- o	1	feminine	o	KOR	GLOSA 1 PORT	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	o	FALSE	PET	PWT	o
+5	k o	1	feminine	ko	KUB	GLOSA 1 PORT	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ko	FALSE	PET	PWT	k o
+6	- o	1	feminine	o	MAI	GLOSA 1 PORT	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	o	FALSE	PET	PWT	o
+7	k o	1	feminine	-ko	PIR	GLOSA 1 PORT	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ko	FALSE	PET	PWT	k o
+8	- o	1	feminine	o	SEK	GLOSA 1 PORT	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	o	FALSE	PET	PWT	o
+9	g o	1	feminine	go, ʔkho	SIO	GLOSA 1 PORT	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	go	FALSE	PET	PWT	g o
+10	g o	1	feminine	go	TUK	GLOSA 1 PORT	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	go	FALSE	PET	PWT	g o
+11	k o	1	feminine	-ko	WAN	GLOSA 1 PORT	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ko	FALSE	PET	PWT	k o
+12	kʔ o	1	feminine	-	*PT	-	-	-	-	-	*-kʔo	TRUE	-	-	kʔ o
+13	b ɨ	2	non.3rd.animate.person	bɨ	BAS	GLOSA 1 PORT	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨ	FALSE	PET	PWT	b ɨ
+14	b ɨ	2	non.3rd.animate.person	bɨ	DES	GLOSA 1 PORT	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨ	FALSE	PET	PWT	b ɨ
+15	w ɨ	2	non.3rd.animate.person	wɨ	KUB	GLOSA 1 PORT	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wɨ	FALSE	PET	PWT	w ɨ
+16	w ɨ	2	non.3rd.animate.person	wɨ	SEK	GLOSA 1 PORT	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wɨ	FALSE	PET	PWT	w ɨ
+17	w̃ ɨ̃	2	non.3rd.animate.person	~wɨ	SIO	GLOSA 1 PORT	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~wɨ	FALSE	PET	PWT	w̃ ɨ̃
+18	p ɨ	2	non.3rd.animate.person	-pɨ	TUK	GLOSA 1 PORT	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pɨ	FALSE	PET	PWT	p ɨ
+19	pʔ ɨ	2	non.3rd.animate.person	-	*PT	-	-	-	-	-	*-pʔɨ	TRUE	-	-	pʔ ɨ
+20	m ĩ	3	3rd.person.masculine	~bi	BAS	3a ps masc I	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bi	FALSE	PET	PWT	m ĩ
+21	m ĩ	3	3rd.person.masculine	~bi	DES	3a ps masc I	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bi	FALSE	PET	PWT	m ĩ
+22	b i	3	3rd.person.masculine	bi	KUB	3a ps masc I	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bi	FALSE	PET	PWT	b i
+23	p i	3	3rd.person.masculine	pi, hi	SEK	3a ps masc I	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pi	FALSE	PET	PWT	p i
+24	m ĩ	3	3rd.person.masculine	-~bi	TUK	3a ps masc I	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bi	FALSE	PET	PWT	m ĩ
+25	p i	3	3rd.person.masculine	-	*PT	-	-	-	-	-	*-pi	FALSE	-	-	p i
+26	r e	4	Case: non-nominatvie	re	BAS	Caso: Não-nominativo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	re	FALSE	PET	PWT	r e
+27	d e	4	Case: non-nominatvie	de	DES	Caso: Não-nominativo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	de	FALSE	PET	PWT	d e
+28	r e	4	Case: non-nominatvie	-re	KAR	Caso: Não-nominativo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	re	FALSE	PET	PWT	r e
+29	r e	4	Case: non-nominatvie	re, ʔthe	KOR	Caso: Não-nominativo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	re	FALSE	PET	PWT	r e
+30	d e	4	Case: non-nominatvie	de	KUB	Caso: Não-nominativo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	de	FALSE	PET	PWT	d e
+31	d e	4	Case: non-nominatvie	de	MAI	Caso: Não-nominativo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	de	FALSE	PET	PWT	d e
+32	r e	4	Case: non-nominatvie	-re	PIR	Caso: Não-nominativo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	re	FALSE	PET	PWT	r e
+33	r e	4	Case: non-nominatvie	re, te	SEK	Caso: Não-nominativo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	re	FALSE	PET	PWT	r e
+34	r e	4	Case: non-nominatvie	re,  ʔthe	SIO	Caso: Não-nominativo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	re	FALSE	PET	PWT	r e
+35	r e	4	Case: non-nominatvie	re	TAN	Caso: Não-nominativo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	re	FALSE	PET	PWT	r e
+36	r e	4	Case: non-nominatvie	-re	TUK	Caso: Não-nominativo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	re	FALSE	PET	PWT	r e
+37	r e	4	Case: non-nominatvie	-re	WAN	Caso: Não-nominativo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	re	FALSE	PET	PWT	r e
+38	tʔ e	4	Case: non-nominatvie	-	*PT	-	-	-	-	-	*-tʔe	TRUE	-	-	tʔ e
+39	d o	5	locative	do	BAS	locativo	GLOSA 2 ENGL	parto-of-a-whole	GLOSA 3 PORT	GLOSS 3 ENGL	do	FALSE	PET	PWT	d o
+40	d o	5	locative	do	DES	locativo	GLOSA 2 ENGL	parto-of-a-whole	GLOSA 3 PORT	GLOSS 3 ENGL	do	FALSE	PET	PWT	d o
+41	d o	5	locative	-do	KAR	locativo	GLOSA 2 ENGL	parto-of-a-whole	GLOSA 3 PORT	GLOSS 3 ENGL	do	FALSE	PET	PWT	d o
+42	n õ	5	locative	~do	KUB	locativo	GLOSA 2 ENGL	parto-of-a-whole	GLOSA 3 PORT	GLOSS 3 ENGL	~do	FALSE	PET	PWT	n õ
+43	d o	5	locative	do	MAI	locativo	GLOSA 2 ENGL	parto-of-a-whole	GLOSA 3 PORT	GLOSS 3 ENGL	do	FALSE	PET	PWT	d o
+44	d o	5	locative	-do	PIR	locativo	GLOSA 2 ENGL	parto-of-a-whole	GLOSA 3 PORT	GLOSS 3 ENGL	do	FALSE	PET	PWT	d o
+45	r o	5	locative	ro, to	SEK	locativo	GLOSA 2 ENGL	parto-of-a-whole	GLOSA 3 PORT	GLOSS 3 ENGL	ro	FALSE	PET	PWT	r o
+46	r o	5	locative	ro, ʔtho	SIO	locativo	GLOSA 2 ENGL	parto-of-a-whole	GLOSA 3 PORT	GLOSS 3 ENGL	ro	FALSE	PET	PWT	r o
+47	d o	5	locative	-do	TUK	locativo	GLOSA 2 ENGL	parto-of-a-whole	GLOSA 3 PORT	GLOSS 3 ENGL	do	FALSE	PET	PWT	d o
+48	d o	5	locative	-do	WAN	locativo	GLOSA 2 ENGL	parto-of-a-whole	GLOSA 3 PORT	GLOSS 3 ENGL	do	FALSE	PET	PWT	d o
+49	tʔ o	5	locative	-	*PT	-	-	-	-	-	*-tʔo	TRUE	-	-	tʔ o
+50	- ã ɲ ã	6	snake	~aja	BAS	cobra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~aja	FALSE	PET	PWT	ã ɲ ã
+51	- ã ɲ ã	6	snake	~aja	DES	cobra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~aja	FALSE	PET	PWT	ã ɲ ã
+52	- ã ɲ ã	6	snake	~aja	KAR	cobra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~aja	FALSE	PET	PWT	ã ɲ ã
+53	- ã j ã	6	snake	ãjã	KOR	cobra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ãjã	FALSE	PET	PWT	ã j ã
+54	- ã ɲ ã	6	snake	~aja	KUB	cobra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~aja	FALSE	PET	PWT	ã ɲ ã
+55	h a j a	6	snake	haja	KUE	cobra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	haja	FALSE	PET	PWT	h a j a
+56	- ã j ã	6	snake	ãjã	MAI	cobra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ãjã	FALSE	PET	PWT	ã j ã
+57	- ã ɲ ã	6	snake	~aja	PIR	cobra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~aja	FALSE	PET	PWT	ã ɲ ã
+58	- ã j ã	6	snake	ãjã	SEK	cobra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ãjã	FALSE	PET	PWT	ã j ã
+59	- ã j ã	6	snake	ãjã	SIO	cobra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ãjã	FALSE	PET	PWT	ã j ã
+60	- ã ɲ ã	6	snake	~aja	TAN	cobra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~aja	FALSE	PET	PWT	ã ɲ ã
+61	- ã ɲ ã	6	snake	~aja	TUK	cobra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~aja	FALSE	PET	PWT	ã ɲ ã
+62	- ã ɲ ã	6	snake	~aja	TUY	cobra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~aja	FALSE	PET	PWT	ã ɲ ã
+63	- ã ɲ ã	6	snake	~aja	WAN	cobra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~aja	FALSE	PET	PWT	ã ɲ ã
+64	- ã j a	6	snake	-	*PT	-	-	-	-	-	*ãja	FALSE	-	-	ã j a
+65	- a - c i ( - - - )	7	hot	aci	BAS	quente	GLOSA 2 ENGL	heat	GLOSA 3 PORT	GLOSS 3 ENGL	aci	FALSE	PET	PWT	a c i
+66	- a - s i ( - - - )	7	hot	asi	DES	quente	GLOSA 2 ENGL	heat	GLOSA 3 PORT	GLOSS 3 ENGL	asi	FALSE	PET	PWT	a s i
+67	- a - s i ( - - - )	7	hot	asi	KAR	quente	GLOSA 2 ENGL	heat	GLOSA 3 PORT	GLOSS 3 ENGL	asi	FALSE	PET	PWT	a s i
+68	- a - s u ( - - - )	7	hot	asu	KOR	quente	GLOSA 2 ENGL	heat	GLOSA 3 PORT	GLOSS 3 ENGL	asu	FALSE	PET	PWT	a s u
+69	h a - t ɨ ( - - - )	7	hot	hatɨ	KUE	quente	GLOSA 2 ENGL	heat	GLOSA 3 PORT	GLOSS 3 ENGL	hatɨ	FALSE	PET	PWT	h a t ɨ
+70	- a - t∫ u ( - - - )	7	hot	at∫u	MAI	quente	GLOSA 2 ENGL	heat	GLOSA 3 PORT	GLOSS 3 ENGL	at∫u	FALSE	PET	PWT	a t∫ u
+71	h a ʔs u	7	hot	haʔsu	SIO	quente	GLOSA 2 ENGL	heat	GLOSA 3 PORT	GLOSS 3 ENGL	haʔsu	TRUE	PET	PWT	h a ʔs u
+72	- a - s i ( - - - )	7	hot	asi	TUK	quente	GLOSA 2 ENGL	heat	GLOSA 3 PORT	GLOSS 3 ENGL	asi	FALSE	PET	PWT	a s i
+73	- a - s i ( - - - )	7	hot	asi	TUY	quente	GLOSA 2 ENGL	heat	GLOSA 3 PORT	GLOSS 3 ENGL	asi	FALSE	PET	PWT	a s i
+74	- - - s i ( - - - )	7	hot	si	WAN	quente	GLOSA 2 ENGL	heat	GLOSA 3 PORT	GLOSS 3 ENGL	si	FALSE	PET	PWT	s i
+75	a h ts i a m a	7	hot	ahtsiama	YUP	quente	GLOSA 2 ENGL	heat	GLOSA 3 PORT	GLOSS 3 ENGL	ahtsiama	TRUE	PET	PWT	a h ts i a m a
+76	a t j ɨ	7	hot	-	*PT	-	-	-	-	-	*atjɨ	FALSE	-	-	a t j ɨ
+77	ĩ - ŋ - ẽ ( - - )	8	nose	~ige	BAS	nariz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ige	FALSE	PET	PWT	ĩ ŋ ẽ
+78	ĩ ʔŋ ĩ	8	nose	~iʔgi	DES	nariz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~iʔgi	FALSE	PET	PWT	ĩ ʔŋ ĩ
+79	ɨ̃ - k - ẽ ( - - )	8	nose	~ɨke	KAR	nariz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨke	FALSE	PET	PWT	ɨ̃ k ẽ
+80	ɨ̃ - kh - e ( - - )	8	nose	ɨ̃khe	KOR	nariz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨ̃khe	FALSE	PET	PWT	ɨ̃ kh e
+81	ũ - - - e ( k a )	8	nose	ũeka	KUB	nariz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ũeka	FALSE	PET	PWT	ũ e k a
+82	- - k - o ( m e )	8	nose	kome	KUE	nariz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kome	FALSE	PET	PWT	k o m e
+83	ũ - k u e ( - - )	8	nose	ũkue	MAI	nariz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ũkue	FALSE	PET	PWT	ũ k u e
+84	õ - k w e ( - - )	8	nose	õkwe	SEK	nariz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	õkwe	FALSE	PET	PWT	õ k w e
+85	ũ - k u e ( - - )	8	nose	ũkue	SIO	nariz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ũkue	FALSE	PET	PWT	ũ k u e
+86	õ - m - ẽ ( - - )	8	nose	~obe	TAN	nariz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~obe	FALSE	PET	PWT	õ m ẽ
+87	ẽ ʔk ẽ	8	nose	~eʔke	TUK	nariz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~eʔke	FALSE	PET	PWT	ẽ ʔk ẽ
+88	ẽ - k - ẽ ( - ã )	8	nose	~ekea	TUY	nariz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ekea	FALSE	PET	PWT	ẽ k ẽ ã
+89	- - k - ẽ ( - - )	8	nose	~ke	WAN	nariz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ke	FALSE	PET	PWT	k ẽ
+90	ɨ - g - ɨ ( - - )	8	nose	ɨgɨ	YUP	nariz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨgɨ	FALSE	PET	PWT	ɨ g ɨ
+91	ɨ̃ k wʔ e	8	nose	-	*PT	-	-	-	-	-	*ɨ̃kwʔe	TRUE	-	-	ɨ̃ k wʔ e
+92	ɨ̃ m ɨ̃	9	man	~ɨbɨ	BAS	homem	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨbɨ	FALSE	PET	PWT	ɨ̃ m ɨ̃
+93	ɨ̃ m ɨ̃	9	man	~ɨbɨ	DES	homem	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨbɨ	FALSE	PET	PWT	ɨ̃ m ɨ̃
+94	- m ɨ̃	9	man	~bɨ	KAR	homem	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨ	FALSE	PET	PWT	m ɨ̃
+95	ɨ m ɨ	9	man	ɨmɨ	KOR	homem	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨmɨ	FALSE	PET	PWT	ɨ m ɨ
+96	ɨ̃ m ɨ̃	9	man	~ɨbɨ	KUB	homem	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨbɨ	FALSE	PET	PWT	ɨ̃ m ɨ̃
+97	ɨ m ɨ	9	man	ɨmɨ	MAI	homem	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨmɨ	FALSE	PET	PWT	ɨ m ɨ
+98	ɨ̃ m ɨ̃	9	man	ɨ̃mɨ̃	SEK	homem	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨ̃mɨ̃	FALSE	PET	PWT	ɨ̃ m ɨ̃
+99	ɨ m ɨ	9	man	ɨmɨ	SIO	homem	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨmɨ	FALSE	PET	PWT	ɨ m ɨ
+100	ɨ̃ m ɨ̃	9	man	~ɨbɨ	TAN	homem	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨbɨ	FALSE	PET	PWT	ɨ̃ m ɨ̃
+101	ɨ̃ m ɨ̃	9	man	~ɨbɨ	TUK	homem	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨbɨ	FALSE	PET	PWT	ɨ̃ m ɨ̃
+102	ɨ̃ m ɨ̃	9	man	~ɨbɨ	TUY	homem	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨbɨ	FALSE	PET	PWT	ɨ̃ m ɨ̃
+103	ɨ̃ m ɨ̃	9	man	~ɨbɨ	WAN	homem	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨbɨ	FALSE	PET	PWT	ɨ̃ m ɨ̃
+104	ɨ m ɨ	9	man	-	*PT	-	-	-	-	-	*ɨmɨ	FALSE	-	-	ɨ m ɨ
+105	ɨ̃ - n ẽ	10	pupunha	~ɨde	BAS	pupunha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨde	FALSE	PET	PWT	ɨ̃ n ẽ
+106	ɨ̃ - n ĩ	10	pupunha	~ɨdi	DES	pupunha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨdi	FALSE	PET	PWT	ɨ̃ n ĩ
+107	ɨ̃ - n ẽ	10	pupunha	~ɨde	KAR	pupunha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨde	FALSE	PET	PWT	ɨ̃ n ẽ
+108	ɨ - n e	10	pupunha	ɨne	KOR	pupunha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨne	FALSE	PET	PWT	ɨ n e
+109	ɨ̃ - n ẽ	10	pupunha	~ɨde	KUB	pupunha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨde	FALSE	PET	PWT	ɨ̃ n ẽ
+110	ɨ ʔn e	10	pupunha	ɨʔne	KUE	pupunha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨʔne	FALSE	PET	PWT	ɨ ʔn e
+111	ɨ̃ - n ẽ	10	pupunha	~ɨde	PIR	pupunha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨde	FALSE	PET	PWT	ɨ̃ n ẽ
+112	ɨ - n e	10	pupunha	ɨne	SIO	pupunha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨne	FALSE	PET	PWT	ɨ n e
+113	ĩ - r̃ ẽ	10	pupunha	~ire	TAN	pupunha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ire	FALSE	PET	PWT	ĩ r̃ ẽ
+114	ɨ̃ - n ẽ	10	pupunha	~ɨde	TUK	pupunha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨde	FALSE	PET	PWT	ɨ̃ n ẽ
+115	ɨ̃ - n ẽ	10	pupunha	~ɨde	WAN	pupunha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨde	FALSE	PET	PWT	ɨ̃ n ẽ
+116	ɨ n e	10	pupunha	-	*PT	-	-	-	-	-	*ɨne	FALSE	-	-	ɨ n e
+117	i - d i a	11	three	idia	BAS	três	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	idia	FALSE	*ɨtʔia	PWT	i d i a
+118	ɨ ʔd e	11	three	ɨʔde	DES	três	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨʔde	FALSE	*ɨtʔia	PWT	ɨ ʔd e
+119	i - t i a	11	three	itia	KUE	três	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	itia	FALSE	*ɨtʔia	PWT	i t i a
+120	i ʔt i a	11	three	iʔtia	TUK	três	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	iʔtia	FALSE	*ɨtʔia	PWT	i ʔt i a
+121	i - t i a	11	three	itia	TUY	três	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	itia	FALSE	*ɨtʔia	PWT	i t i a
+122	- - t i a	11	three	tia	WAN	três	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	tia	FALSE	*ɨtʔia	PWT	t i a
+123	ɨ tʔ i a	11	three	-	*PT	-	-	-	-	-	*ɨtʔia	TRUE	-	-	ɨ tʔ i a
+124	ɨ - j e -	12	grape	ɨje	BAS	cucura	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨje	FALSE	PET	PWT	ɨ j e
+125	i - g i -	12	grape	igi	DES	cucura	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	igi	FALSE	PET	PWT	i g i
+126	ɨ - s e -	12	grape	ɨse	KAR	cucura	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨse	FALSE	PET	PWT	ɨ s e
+127	ɨ - j e -	12	grape	ɨje	KOR	cucura	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨje	FALSE	PET	PWT	ɨ j e
+128	ɨ́ - j a i	12	grape	ɨ́jai	KUB	cucura	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨ́jai	FALSE	PET	PWT	ɨ́ j a i
+129	e - d e -	12	grape	ede	MAI	cucura	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ede	FALSE	PET	PWT	e d e
+130	ɨ - j e -	12	grape	ɨje	SIO	cucura	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨje	FALSE	PET	PWT	ɨ j e
+131	ɨ ʔs e	12	grape	ɨʔse	TUK	cucura	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨʔse	FALSE	PET	PWT	ɨ ʔs e
+132	ɨ - s e -	12	grape	ɨse	TUY	cucura	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨse	FALSE	PET	PWT	ɨ s e
+133	- - s e -	12	grape	se	WAN	cucura	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	se	FALSE	PET	PWT	s e
+134	ɨ ʔj e	12	grape	-	*PT	-	-	-	-	-	*ɨʔje	TRUE	-	-	ɨ ʔj e
+135	j e h e	13	heron	jehe	BAS	garça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jehe	FALSE	PET	PWT	j e h e
+136	j a h i	13	heron	jahi	DES	garça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jahi	FALSE	PET	PWT	j a h i
+137	j e - e	13	heron	jee	KAR	garça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jee	FALSE	PET	PWT	j e e
+138	j a - i	13	heron	jai	KUB	garça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jai	FALSE	PET	PWT	j a i
+139	j a - i	13	heron	jai	MAI	garça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jai	FALSE	PET	PWT	j a i
+140	j a - i	13	heron	jai	SEK	garça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jai	FALSE	PET	PWT	j a i
+141	j a h e	13	heron	jahe	TUK	garça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jahe	FALSE	PET	PWT	j a h e
+142	j e - e	13	heron	yee	TUY	garça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	yee	FALSE	PET	PWT	j e e
+143	j a h a	13	heron	jaha	WAN	garça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jaha	FALSE	PET	PWT	j a h a
+144	j a h i	13	heron	-	*PT	-	-	-	-	-	*jahi	FALSE	-	-	j a h i
+145	( - - ) j a - i ( - )	14	jaguar	jai	BAS	onça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jai	FALSE	PET	PWT	j a i
+146	( - - ) j e - e ( - )	14	jaguar	jee	DES	onça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jee	FALSE	PET	PWT	j e e
+147	( - - ) j a - i ( - )	14	jaguar	jai	KAR	onça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jai	FALSE	PET	PWT	j a i
+148	( - - ) j a - i ( - )	14	jaguar	jai	KOR	onça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jai	FALSE	PET	PWT	j a i
+149	( - - ) j a w i ( - )	14	jaguar	jawi	KUB	onça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jawi	FALSE	PET	PWT	j a w i
+150	( h i ) j a - i ( - )	14	jaguar	hijai	KUE	onça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hijai	FALSE	PET	PWT	h i j a i
+151	( - - ) j a - i ( - )	14	jaguar	jai	MAI	onça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jai	FALSE	PET	PWT	j a i
+152	( - - ) j a - i ( - )	14	jaguar	jai	SEK	onça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jai	FALSE	PET	PWT	j a i
+153	( - - ) j a - i ( - )	14	jaguar	jai	SIO	onça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jai	FALSE	PET	PWT	j a i
+154	( - - ) j a - i ( a )	14	jaguar	jaia	TAN	onça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jaia	FALSE	PET	PWT	j a i a
+155	( - - ) j a - i ( - )	14	jaguar	jai	TUK	onça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jai	FALSE	PET	PWT	j a i
+156	( - - ) j a - i ( - )	14	jaguar	jai	WAN	onça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jai	FALSE	PET	PWT	j a i
+157	j a i	14	jaguar	-	*PT	-	-	-	-	-	*jai	TRUE	-	-	j a i
+158	ã ʔŋ ĩ	15	centipede	~aʔgi	DES	centopéia	boa (kub)	jibóia (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	~aʔgi	FALSE	*jãkʔi	PWT	ã ʔŋ ĩ
+159	- a w - i ( m e k ɨ )	15	centipede	ãi	KUB	centopéia	boa (kub)	jibóia (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	ãi	FALSE	*jãkʔi	PWT	a w i m e k ɨ
+160	ã ʔk ĩ	15	centipede	~aʔki	TUK	centopéia	boa (kub)	jibóia (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	~aʔki	FALSE	*jãkʔi	PWT	ã ʔk ĩ
+161	m - ũ n ĩ ( - - - - )	15	centipede	~budi	TUY	centopéia	boa (kub)	jibóia (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	~budi	FALSE	*jãkʔi	PWT	m ũ n ĩ
+162	ɲ ã ʔk ĩ	15	centipede	~jaʔki	WAN	centopéia	boa (kub)	jibóia (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	~jaʔki	FALSE	*jãkʔi	PWT	ɲ ã ʔk ĩ
+163	j ã kʔ i	15	centipede	-	*PT	-	-	-	-	-	*jãkʔi	TRUE	-	-	j ã kʔ i
+164	ɲ ã m ã	16	deer	~jaba	BAS	veado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jaba	FALSE	PET	PWT	ɲ ã m ã
+165	ɲ ã m ã	16	deer	~jaba	DES	veado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jaba	FALSE	PET	PWT	ɲ ã m ã
+166	ɲ ã m ã	16	deer	~jaba	KAR	veado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jaba	FALSE	PET	PWT	ɲ ã m ã
+167	j ã m a	16	deer	jãma	KOR	veado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jãma	FALSE	PET	PWT	j ã m a
+168	ɲ ã m ã	16	deer	~jaba	KUB	veado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jaba	FALSE	PET	PWT	ɲ ã m ã
+169	j ã m a	16	deer	jãma	KUE	veado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jãma	FALSE	PET	PWT	j ã m a
+170	j ã m a	16	deer	jãma	SEK	veado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jãma	FALSE	PET	PWT	j ã m a
+171	j ã m a	16	deer	jãma	SIO	veado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jãma	FALSE	PET	PWT	j ã m a
+172	ɲ ã m ã	16	deer	~jaba	TAN	veado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jaba	FALSE	PET	PWT	ɲ ã m ã
+173	ɲ ã m ã	16	deer	~jaba	TUK	veado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jaba	FALSE	PET	PWT	ɲ ã m ã
+174	ɲ ã m ã	16	deer	~jaba	TUY	veado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jaba	FALSE	PET	PWT	ɲ ã m ã
+175	ɲ ã m ã	16	deer	~jaba	WAN	veado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jaba	FALSE	PET	PWT	ɲ ã m ã
+176	j a m a	16	deer	-	*PT	-	-	-	-	-	*jama	FALSE	-	-	j a m a
+177	ɲ ã m õ	17	yam	~jabo	BAS	nhame	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jabo	FALSE	PET	PWT	ɲ ã m õ
+178	ɲ ã ʔb õ	17	yam	~jaʔbo	DES	nhame	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jaʔbo	FALSE	PET	PWT	ɲ ã ʔb õ
+179	ɲ ã m õ	17	yam	~jabo	KAR	nhame	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jabo	FALSE	PET	PWT	ɲ ã m õ
+180	j ã - h o	17	yam	jãho	KOR	nhame	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jãho	FALSE	PET	PWT	j ã h o
+181	ɲ ã m ũ	17	yam	~jabu	KUB	nhame	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jabu	FALSE	PET	PWT	ɲ ã m ũ
+182	j a - - u	17	yam	jau	KUE	nhame	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jau	FALSE	PET	PWT	j a u
+183	j ã - h o	17	yam	jãho	MAI	nhame	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jãho	FALSE	PET	PWT	j ã h o
+184	j ã - h o	17	yam	jãho	SIO	nhame	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jãho	FALSE	PET	PWT	j ã h o
+185	ɲ ã ʔb ũ	17	yam	~jaʔbu	TAN	nhame	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jaʔbu	FALSE	PET	PWT	ɲ ã ʔb ũ
+186	ɲ ã ʔb ũ	17	yam	~jaʔbu	TUK	nhame	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jaʔbu	FALSE	PET	PWT	ɲ ã ʔb ũ
+187	ɲ ã m ũ	17	yam	~jabu	TUY	nhame	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jabu	FALSE	PET	PWT	ɲ ã m ũ
+188	ɲ ã ʔb ũ	17	yam	~jaʔbu	WAN	nhame	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jaʔbu	FALSE	PET	PWT	ɲ ã ʔb ũ
+189	j ã pʔ o	17	yam	-	*PT	-	-	-	-	-	*jãpʔo	TRUE	-	-	j ã pʔ o
+190	ɲ ã h ĩ	18	cará(Dioscorea alata)	~jahi	BAS	Cará	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jahi	FALSE	PET	PWT	ɲ ã h ĩ
+191	ɲ ã p ĩ	18	cará(Dioscorea alata)	~japi	DES	Cará	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~japi	FALSE	PET	PWT	ɲ ã p ĩ
+192	ɲ ã p ĩ	18	cará(Dioscorea alata)	~japi	KAR	Cará	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~japi	FALSE	PET	PWT	ɲ ã p ĩ
+193	j a - h i ( - - )	18	cará(Dioscorea alata)	jahi	KOR	Cará	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jahi	FALSE	PET	PWT	j a h i
+194	ɲ ã p ĩ	18	cará(Dioscorea alata)	~japi	KUB	Cará	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~japi	FALSE	PET	PWT	ɲ ã p ĩ
+195	j a - h i ( r i )	18	cará(Dioscorea alata)	jahiri	KUE	Cará	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jahiri	FALSE	PET	PWT	j a h i r i
+196	j a - h i ( - - )	18	cará(Dioscorea alata)	jahi	SEK	Cará	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jahi	FALSE	PET	PWT	j a h i
+197	ɲ ã ʔp ĩ	18	cará(Dioscorea alata)	~jaʔpi	TAN	Cará	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jaʔpi	FALSE	PET	PWT	ɲ ã ʔp ĩ
+198	ɲ ã p ĩ	18	cará(Dioscorea alata)	~japi	TUK	Cará	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~japi	FALSE	PET	PWT	ɲ ã p ĩ
+199	ɲ ã p ĩ	18	cará(Dioscorea alata)	~japi	WAN	Cará	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~japi	FALSE	PET	PWT	ɲ ã p ĩ
+200	j a p i	18	cará(Dioscorea alata)	-	*PT	-	-	-	-	-	*japi	FALSE	-	-	j a p i
+201	ɲ ĩ k ɨ̃	19	grand-father	~jikɨ	BAS	avô	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jikɨ	FALSE	PET	PWT	ɲ ĩ k ɨ̃
+202	ɲ ẽ k ɨ̃	19	grand-father	~jekɨ	DES	avô	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jekɨ	FALSE	PET	PWT	ɲ ẽ k ɨ̃
+203	ɲ ĩ k ɨ̃	19	grand-father	~jikɨ	KAR	avô	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jikɨ	FALSE	PET	PWT	ɲ ĩ k ɨ̃
+204	j ẽ k u ɨ ( - - )	19	grand-father	jẽkuɨ	KOR	avô	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jẽkuɨ	FALSE	PET	PWT	j ẽ k u ɨ
+205	ɲ ẽ k ũ j õ	19	grand-father	~jekũjo	KUB	avô	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jekũjo	FALSE	PET	PWT	ɲ ẽ k ũ j õ
+206	j ẽ k - ɨ ( - - )	19	grand-father	jẽkɨ	MAI	avô	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jẽkɨ	FALSE	PET	PWT	j ẽ k ɨ
+207	ɲ ẽ k ɨ̃	19	grand-father	~jekɨ	TUK	avô	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jekɨ	FALSE	PET	PWT	ɲ ẽ k ɨ̃
+208	ɲ ẽ k ɨ̃	19	grand-father	~jekɨ	TUY	avô	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jekɨ	FALSE	PET	PWT	ɲ ẽ k ɨ̃
+209	ɲ ɨ̃ t∫ ɨ̃	19	grand-father	~jɨt∫ɨ	WAN	avô	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jɨt∫ɨ	FALSE	PET	PWT	ɲ ɨ̃ t∫ ɨ̃
+210	j ẽ k k u	19	grand-father	-	*PT	-	-	-	-	-	*jẽkku-	TRUE	-	-	j ẽ k k u
+211	j e - b a	20	land	jeba	BAS	terra	GLOSA 2 ENGL	GLOSA 2 PORT	baixo (kubo)	low (kub)	jeba	FALSE	PET	PWT	j e b a
+212	j e - b a	20	land	jeeba	DES	terra	GLOSA 2 ENGL	GLOSA 2 PORT	baixo (kubo)	low (kub)	jeba	FALSE	PET	PWT	j e b a
+213	j e - p a	20	land	jepa	KAR	terra	GLOSA 2 ENGL	GLOSA 2 PORT	baixo (kubo)	low (kub)	jepa	FALSE	PET	PWT	j e p a
+214	j e - h a	20	land	jeha	KOR	terra	GLOSA 2 ENGL	GLOSA 2 PORT	baixo (kubo)	low (kub)	jeha	FALSE	PET	PWT	j e h a
+215	j i - b a	20	land	jiba	KUB	terra	GLOSA 2 ENGL	GLOSA 2 PORT	baixo (kubo)	low (kub)	jiba	FALSE	PET	PWT	j i b a
+216	j i - h a	20	land	jiha	MAI	terra	GLOSA 2 ENGL	GLOSA 2 PORT	baixo (kubo)	low (kub)	jiha	FALSE	PET	PWT	j i h a
+217	j e - h a	20	land	jeha	SEK	terra	GLOSA 2 ENGL	GLOSA 2 PORT	baixo (kubo)	low (kub)	jeha	FALSE	PET	PWT	j e h a
+218	j i - h a	20	land	jiha	SIO	terra	GLOSA 2 ENGL	GLOSA 2 PORT	baixo (kubo)	low (kub)	jiha	FALSE	PET	PWT	j i h a
+219	j e ʔp a	20	land	jeʔpa	TUK	terra	GLOSA 2 ENGL	GLOSA 2 PORT	baixo (kubo)	low (kub)	jeʔpa	FALSE	PET	PWT	j e ʔp a
+220	j a ʔp a	20	land	jaʔpa	WAN	terra	GLOSA 2 ENGL	GLOSA 2 PORT	baixo (kubo)	low (kub)	jaʔpa	FALSE	PET	PWT	j a ʔp a
+221	j e pʔ a	20	land	-	*PT	-	-	-	-	-	*jepʔa	TRUE	-	-	j e pʔ a
+222	j i ʔ o ( b o )	21	mouth2	jiʔobo	KOR	boca2	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jiʔobo	FALSE	PET	*jɨ-ʔo	j i ʔ o b o
+223	j - - o ( - - )	21	mouth2	jo	MAI	boca2	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jo	FALSE	PET	*jɨ-ʔo	j o
+224	j ɨ ʔ o ( - - )	21	mouth2	jɨʔo	SEK	boca2	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨʔo	FALSE	PET	*jɨ-ʔo	j ɨ ʔ o
+225	j i ʔ o ( b o )	21	mouth2	jiʔobo	SIO	boca2	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jiʔobo	FALSE	PET	*jɨ-ʔo	j i ʔ o b o
+226	j ɨ ʔ o	21	mouth2	-	*PT	-	-	-	-	-	*jɨ-ʔo	FALSE	-	-	j ɨ ʔ o
+227	j - ɨ - - t a ( - - )	22	kapok	jɨta	BAS	algodão do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨta	FALSE	PET	PWT	j ɨ t a
+228	j - u - - d a ( - - )	22	kapok	juda	DES	algodão do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	juda	FALSE	PET	PWT	j u d a
+229	j - i - - t a ( - - )	22	kapok	jita	KAR	algodão do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jita	FALSE	PET	PWT	j i t a
+230	o j a - - - - ( - - )	22	kapok	oja	KOR	algodão do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oja	FALSE	PET	PWT	o j a
+231	j - ɨ i - - - ( - - )	22	kapok	jɨi	KUB	algodão do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨi	FALSE	PET	PWT	j ɨ i
+232	i ʔ o - - t a ( h e )	22	kapok	iʔotahe	KUE	algodão do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	iʔotahe	FALSE	PET	PWT	i ʔ o t a h e
+233	j - ɨ i - - - ( - - )	22	kapok	jɨi	SEK	algodão do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨi	FALSE	PET	PWT	j ɨ i
+234	j - ɨ i - - - ( - - )	22	kapok	jɨi	SIO	algodão do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨi	FALSE	PET	PWT	j ɨ i
+235	j u ʔt a	22	kapok	juʔta	TAN	algodão do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	juʔta	FALSE	PET	PWT	j u ʔt a
+236	j - u - - t a ( - - )	22	kapok	juta	TUK	algodão do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	juta	FALSE	PET	PWT	j u t a
+237	j - u - - t a ( - - )	22	kapok	juta	WAN	algodão do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	juta	FALSE	PET	PWT	j u t a
+238	j ɨ i	22	kapok	-	*PT	-	-	-	-	-	*jɨi	TRUE	-	-	j ɨ i
+239	ɲ ĩ k ã	23	leg	~jika	BAS	perna	hips (kube)	quadril (kub)	joelho (kor)	knee (kor)	~jika	FALSE	PET	PWT	ɲ ĩ k ã
+240	ɲ ĩ g ã	23	leg	~jiga	DES	perna	hips (kube)	quadril (kub)	joelho (kor)	knee (kor)	~jiga	FALSE	PET	PWT	ɲ ĩ g ã
+241	ɲ ĩ k ã	23	leg	~jika	KAR	perna	hips (kube)	quadril (kub)	joelho (kor)	knee (kor)	~jika	FALSE	PET	PWT	ɲ ĩ k ã
+242	j ũ k a	23	leg	jũka	KOR	perna	hips (kube)	quadril (kub)	joelho (kor)	knee (kor)	jũka	FALSE	PET	PWT	j ũ k a
+243	ɲ ɨ̃ ã	23	leg	~jɨa	KUB	perna	hips (kube)	quadril (kub)	joelho (kor)	knee (kor)	~jɨa	FALSE	PET	PWT	ɲ ɨ̃ ã
+244	d ɨ̃ k a	23	leg	dɨ̃ka	SEK	perna	hips (kube)	quadril (kub)	joelho (kor)	knee (kor)	dɨ̃ka	FALSE	PET	PWT	d ɨ̃ k a
+245	ɲ ĩ k ã	23	leg	~jika	TAN	perna	hips (kube)	quadril (kub)	joelho (kor)	knee (kor)	~jika	FALSE	PET	PWT	ɲ ĩ k ã
+246	ɲ ẽ k ã	23	leg	~jeka	TUK	perna	hips (kube)	quadril (kub)	joelho (kor)	knee (kor)	~jeka	FALSE	PET	PWT	ɲ ẽ k ã
+247	ɲ ĩ k ã	23	leg	~jika	TUY	perna	hips (kube)	quadril (kub)	joelho (kor)	knee (kor)	~jika	FALSE	PET	PWT	ɲ ĩ k ã
+248	ɲ ɨ̃ t∫ ɨ̃	23	leg	~jɨt∫ɨ	WAN	perna	hips (kube)	quadril (kub)	joelho (kor)	knee (kor)	~jɨt∫ɨ	FALSE	PET	PWT	ɲ ɨ̃ t∫ ɨ̃
+249	j ɨ̃ k a	23	leg	-	*PT	-	-	-	-	-	*jɨ̃ka	FALSE	-	-	j ɨ̃ k a
+250	j ɨ - ɨ	24	I	jɨɨ	BAS	Eu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨɨ	FALSE	PET	PWT	j ɨ ɨ
+251	j ɨ ʔ ɨ	24	I	jɨʔɨ	DES	Eu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨʔɨ	FALSE	PET	PWT	j ɨ ʔ ɨ
+252	j ɨ - ɨ	24	I	jɨɨ	KAR	Eu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨɨ	FALSE	PET	PWT	j ɨ ɨ
+253	j ɨ ʔ ɨ	24	I	jɨʔɨ	KOR	Eu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨʔɨ	FALSE	PET	PWT	j ɨ ʔ ɨ
+254	j ɨ - -	24	I	jɨ	KUB	Eu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨ	FALSE	PET	PWT	j ɨ
+255	j e h ɨ	24	I	jehɨ	KUE	Eu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jehɨ	FALSE	PET	PWT	j e h ɨ
+256	j i - -	24	I	ji	MAI	Eu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ji	FALSE	PET	PWT	j i
+257	j ɨ ʔ ɨ	24	I	jɨʔɨ	SEK	Eu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨʔɨ	FALSE	PET	PWT	j ɨ ʔ ɨ
+258	j ɨ - ɨ	24	I	jɨɨ	SIO	Eu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨɨ	FALSE	PET	PWT	j ɨ ɨ
+259	j i ʔ i	24	I	jiʔi	TAN	Eu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jiʔi	FALSE	PET	PWT	j i ʔ i
+260	j ɨ ʔ ɨ	24	I	jɨʔɨ	TUK	Eu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨʔɨ	FALSE	PET	PWT	j ɨ ʔ ɨ
+261	j ɨ - ɨ	24	I	jɨɨ	TUY	Eu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨɨ	FALSE	PET	PWT	j ɨ ɨ
+262	j ɨ ʔ ɨ	24	I	jɨʔɨ	WAN	Eu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨʔɨ	FALSE	PET	PWT	j ɨ ʔ ɨ
+263	j ɨ ʔ ɨ	24	I	-	*PT	-	-	-	-	-	*jɨʔɨ	FALSE	-	-	j ɨ ʔ ɨ
+264	ŋ ã - m õ	25	ear	~gabo	BAS	orelha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~gabo	FALSE	PET	PWT	ŋ ã m õ
+265	ŋ ã - m ĩ	25	ear	~gabi	DES	orelha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~gabi	FALSE	PET	PWT	ŋ ã m ĩ
+266	- ã - m õ	25	ear	~abo	KAR	orelha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~abo	FALSE	PET	PWT	ã m õ
+267	k ã - h o	25	ear	kãho	KOR	orelha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kãho	FALSE	PET	PWT	k ã h o
+268	k ã - m ũ	25	ear	~kamu	KUB	orelha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kamu	FALSE	PET	PWT	k ã m ũ
+269	kĩ ã - - ũ	25	ear	~kiau	KUE	orelha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kiau	FALSE	PET	PWT	kĩ ã ũ
+270	g ã - h o	25	ear	gãho	MAI	orelha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	gãho	FALSE	PET	PWT	g ã h o
+271	k ã - h o	25	ear	kãho	SEK	orelha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kãho	FALSE	PET	PWT	k ã h o
+272	kʔ ã - h o	25	ear	kʔãho	SIO	orelha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kʔãho	FALSE	PET	PWT	kʔ ã h o
+273	- ã - m ũ	25	ear	~abu	TAN	orelha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~abu	FALSE	PET	PWT	ã m ũ
+274	õ ʔm ẽ	25	ear	~oʔbe	TUK	orelha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~oʔbe	FALSE	PET	PWT	õ ʔm ẽ
+275	k ã - m õ	25	ear	~kabo	TUY	orelha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kabo	FALSE	PET	PWT	k ã m õ
+276	k ã ʔm õ	25	ear	~kaʔbo	WAN	orelha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kaʔbo	FALSE	PET	PWT	k ã ʔm õ
+277	kʔ ã p ʔ o	25	ear	-	*PT	-	-	-	-	-	*kʔãpʔo	TRUE	-	-	kʔ ã p ʔ o
+278	g ɨ - b o	26	foot	gɨbo	BAS	pé	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	gɨbo	FALSE	PET	PWT	g ɨ b o
+279	g u ʔb u	26	foot	guʔbu	DES	pé	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	guʔbu	FALSE	PET	PWT	g u ʔb u
+280	r ɨ - p o	26	foot	rɨpo	KAR	pé	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	rɨpo	FALSE	PET	PWT	r ɨ p o
+281	k ũ ʔ - ã	26	foot	~kuʔa	KOR	pé	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kuʔa	FALSE	PET	PWT	k ũ ʔ ã
+282	k ɨ - b o	26	foot	kɨbo	KUB	pé	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kɨbo	FALSE	PET	PWT	k ɨ b o
+283	k o - h u	26	foot	kohu	KUE	pé	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kohu	FALSE	PET	PWT	k o h u
+284	ŋ ɨ̃ - - õ	26	foot	~gɨo	MAI	pé	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~gɨo	FALSE	PET	PWT	ŋ ɨ̃ õ
+285	k ɨ̃ - - õ	26	foot	~kɨo	SEK	pé	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kɨo	FALSE	PET	PWT	k ɨ̃ õ
+286	kʔ ɨ̃ - - õ	26	foot	~kʔɨo	SIO	pé	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kʔɨo	FALSE	PET	PWT	kʔ ɨ̃ õ
+287	ũ ʔp ũ	26	foot	~uʔpu	TAN	pé	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~uʔpu	FALSE	PET	PWT	ũ ʔp ũ
+288	d ɨ ʔp o	26	foot	dɨʔpo	TUK	pé	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dɨʔpo	FALSE	PET	PWT	d ɨ ʔp o
+289	d ɨ - p o	26	foot	dɨpo	TUY	pé	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dɨpo	FALSE	PET	PWT	d ɨ p o
+290	d a ʔp o	26	foot	daʔpo	WAN	pé	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	daʔpo	FALSE	PET	PWT	d a ʔp o
+291	kʔ ɨ p ʔ o	26	foot	-	*PT	-	-	-	-	-	*kʔɨpʔo	TRUE	-	-	kʔ ɨ p ʔ o
+292	g ɨ - d a	27	excrement	gɨda	BAS	fezes	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	gɨda	FALSE	PET	PWT	g ɨ d a
+293	g ɨ - d a	27	excrement	gɨda	DES	fezes	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	gɨda	FALSE	PET	PWT	g ɨ d a
+294	g ɨ - t a	27	excrement	gɨta	KAR	fezes	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	gɨta	FALSE	PET	PWT	g ɨ t a
+295	k ɨ - t a	27	excrement	kɨta	KOR	fezes	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kɨta	FALSE	PET	PWT	k ɨ t a
+296	k ɨ - d a	27	excrement	kɨda	KUB	fezes	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kɨda	FALSE	PET	PWT	k ɨ d a
+297	- ɨ - t a	27	excrement	ɨta	KUE	fezes	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨta	FALSE	PET	PWT	ɨ t a
+298	- ɨ̃ - t a	27	excrement	ɨ̃ta	MAI	fezes	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨ̃ta	FALSE	PET	PWT	ɨ̃ t a
+299	k ɨ ʔt a	27	excrement	kɨʔta	PIR	fezes	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kɨʔta	FALSE	PET	PWT	k ɨ ʔt a
+300	- ɨ̃ - t a	27	excrement	ɨ̃ta	SEK	fezes	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨ̃ta	FALSE	PET	PWT	ɨ̃ t a
+301	kʔ ɨ - t a	27	excrement	kʔɨta	SIO	fezes	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kʔɨta	FALSE	PET	PWT	kʔ ɨ t a
+302	- i - t a	27	excrement	ita	TAN	fezes	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ita	FALSE	PET	PWT	i t a
+303	ɨ ʔt a	27	excrement	ɨʔta	TUK	fezes	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨʔta	FALSE	PET	PWT	ɨ ʔt a
+304	k ɨ̃ - n ã	27	excrement	~kɨda	TUY	fezes	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kɨda	FALSE	PET	PWT	k ɨ̃ n ã
+305	- - - t ã	27	excrement	~ta	WAN	fezes	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ta	FALSE	PET	PWT	t ã
+306	kʔ ɨ t ʔ a	27	excrement	-	*PT	-	-	-	-	-	*kʔɨtʔa	TRUE	-	-	kʔ ɨ t ʔ a
+307	g u - u ( - - )	28	tortoise	guu	BAS	jabuti	turtle (tan)	tartaruga (tan)	GLOSA 3 PORT	GLOSS 3 ENGL	guu	FALSE	PET	PWT	g u u
+308	g u - i ( - - )	28	tortoise	gui	DES	jabuti	turtle (tan)	tartaruga (tan)	GLOSA 3 PORT	GLOSS 3 ENGL	gui	FALSE	PET	PWT	g u i
+309	- u - u ( - - )	28	tortoise	uu	KAR	jabuti	turtle (tan)	tartaruga (tan)	GLOSA 3 PORT	GLOSS 3 ENGL	uu	FALSE	PET	PWT	u u
+310	k o - ɨ ( - - )	28	tortoise	koɨ	KOR	jabuti	turtle (tan)	tartaruga (tan)	GLOSA 3 PORT	GLOSS 3 ENGL	koɨ	FALSE	PET	PWT	k o ɨ
+311	k ũ - ɨ̃ ( - - )	28	tortoise	~kuɨ	KUB	jabuti	turtle (tan)	tartaruga (tan)	GLOSA 3 PORT	GLOSS 3 ENGL	~kuɨ	FALSE	PET	PWT	k ũ ɨ̃
+312	k a - ɨ ( - - )	28	tortoise	kaɨ	KUE	jabuti	turtle (tan)	tartaruga (tan)	GLOSA 3 PORT	GLOSS 3 ENGL	kaɨ	FALSE	PET	PWT	k a ɨ
+313	k o - u ( - - )	28	tortoise	kou	SEK	jabuti	turtle (tan)	tartaruga (tan)	GLOSA 3 PORT	GLOSS 3 ENGL	kou	FALSE	PET	PWT	k o u
+314	kʔ o - ɨ ( - - )	28	tortoise	kʔoɨ	SIO	jabuti	turtle (tan)	tartaruga (tan)	GLOSA 3 PORT	GLOSS 3 ENGL	kʔoɨ	FALSE	PET	PWT	kʔ o ɨ
+315	- o ʔ i ( - - )	28	tortoise	oʔi	TAN	jabuti	turtle (tan)	tartaruga (tan)	GLOSA 3 PORT	GLOSS 3 ENGL	oʔi	FALSE	PET	PWT	o ʔ i
+316	- u h u ( d i )	28	tortoise	uhudi	TUK	jabuti	turtle (tan)	tartaruga (tan)	GLOSA 3 PORT	GLOSS 3 ENGL	uhudi	FALSE	PET	PWT	u h u d i
+317	k u - u ( - - )	28	tortoise	kuu	TUY	jabuti	turtle (tan)	tartaruga (tan)	GLOSA 3 PORT	GLOSS 3 ENGL	kuu	FALSE	PET	PWT	k u u
+318	k u - - ( - - )	28	tortoise	ku	WAN	jabuti	turtle (tan)	tartaruga (tan)	GLOSA 3 PORT	GLOSS 3 ENGL	ku	FALSE	PET	PWT	k u
+319	kʔ o ɨ	28	tortoise	-	*PT	-	-	-	-	-	*kʔoɨ	TRUE	-	-	kʔ o ɨ
+320	ŋ õ - n ẽ	29	urinate	~gode	BAS	urinar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~gode	FALSE	PET	PWT	ŋ õ n ẽ
+321	ŋ õ - n ẽ	29	urinate	~gode	DES	urinar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~gode	FALSE	PET	PWT	ŋ õ n ẽ
+322	- õ - n ẽ	29	urinate	~ode	KAR	urinar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ode	FALSE	PET	PWT	õ n ẽ
+323	- õ - n e	29	urinate	õne	KOR	urinar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	õne	FALSE	PET	PWT	õ n e
+324	k õ - n ẽ	29	urinate	~kode	KUB	urinar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kode	FALSE	PET	PWT	k õ n ẽ
+325	g o - n e	29	urinate	gone	MAI	urinar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	gone	FALSE	PET	PWT	g o n e
+326	k õ - n e	29	urinate	kõne	SEK	urinar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kõne	FALSE	PET	PWT	k õ n e
+327	kʔ õ - n e	29	urinate	kʔõne	SIO	urinar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kʔõne	FALSE	PET	PWT	kʔ õ n e
+328	õ ʔn ẽ	29	urinate	~oʔde	TUK	urinar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~oʔde	FALSE	PET	PWT	õ ʔn ẽ
+329	k õ - n ẽ	29	urinate	~kode	TUY	urinar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kode	FALSE	PET	PWT	k õ n ẽ
+330	kh ũ - n ũ	29	urinate	~khudu	WAN	urinar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~khudu	FALSE	PET	PWT	kh ũ n ũ
+331	kʔ o n e	29	urinate	-	*PT	-	-	-	-	-	*kʔone	TRUE	-	-	kʔ o n e
+332	g o h e	30	hole	gohe	BAS	buraco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	gohe	FALSE	PET	PWT	g o h e
+333	g o b e	30	hole	gobe	DES	buraco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	gobe	FALSE	PET	PWT	g o b e
+334	- o p e	30	hole	ope	KAR	buraco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ope	FALSE	PET	PWT	o p e
+335	k o h e	30	hole	kohe	KOR	buraco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kohe	FALSE	PET	PWT	k o h e
+336	k o b e	30	hole	kobe	KUB	buraco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kobe	FALSE	PET	PWT	k o b e
+337	g o h e	30	hole	gohe	KUE	buraco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	gohe	FALSE	PET	PWT	g o h e
+338	g o h e	30	hole	gohe	MAI	buraco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	gohe	FALSE	PET	PWT	g o h e
+339	k o h e	30	hole	kohe	SEK	buraco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kohe	FALSE	PET	PWT	k o h e
+340	kʔ o h e	30	hole	kʔohe	SIO	buraco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kʔohe	FALSE	PET	PWT	kʔ o h e
+341	k o p e	30	hole	kope	TAN	buraco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kope	FALSE	PET	PWT	k o p e
+342	k o p e	30	hole	kope	TUK	buraco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kope	FALSE	PET	PWT	k o p e
+343	k o p e	30	hole	kope	TUY	buraco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kope	FALSE	PET	PWT	k o p e
+344	k o p e	30	hole	kope	WAN	buraco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kope	FALSE	PET	PWT	k o p e
+345	kʔ o p e	30	hole	-	*PT	-	-	-	-	-	*kʔope	TRUE	-	-	kʔ o p e
+346	g u h i ( - - - - - )	31	tooth	guhi	BAS	dente	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	guhi	FALSE	PET	PWT	g u h i
+347	- o p i ( - - - - - )	31	tooth	opi	KAR	dente	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	opi	FALSE	PET	PWT	o p i
+348	kh õ h ĩ ( - - - - - )	31	tooth	~khohi	KOR	dente	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~khohi	FALSE	PET	PWT	kh õ h ĩ
+349	k õ p ĩ ( - - - - - )	31	tooth	~kopi	KUB	dente	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kopi	FALSE	PET	PWT	k õ p ĩ
+350	k o h i ( - - - - - )	31	tooth	kohi	KUE	dente	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kohi	FALSE	PET	PWT	k o h i
+351	g ũ h i ( - - - - - )	31	tooth	gũhi	MAI	dente	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	gũhi	FALSE	PET	PWT	g ũ h i
+352	k õ ʔh ĩ ( - - - - - )	31	tooth	~koʔhi	SEK	dente	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~koʔhi	FALSE	PET	PWT	k õ ʔh ĩ
+353	kʔ ũ h ĩ ( - - - - - )	31	tooth	~kʔuhi	SIO	dente	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kʔuhi	FALSE	PET	PWT	kʔ ũ h ĩ
+354	- o p i ( - - - - - )	31	tooth	opi	TAN	dente	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	opi	FALSE	PET	PWT	o p i
+355	- u p i ( - - - - - )	31	tooth	upi	TUK	dente	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	upi	FALSE	PET	PWT	u p i
+356	- u p i ( - - - - - )	31	tooth	upi	TUY	dente	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	upi	FALSE	PET	PWT	u p i
+357	- - p i ( d i a k a )	31	tooth	pidiaka	WAN	dente	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pidiaka	FALSE	PET	PWT	p i d i a k a
+358	kʔ õ p i	31	tooth	-	*PT	-	-	-	-	-	*kʔõpi	TRUE	-	-	kʔ õ p i
+359	ŋ õ - ã	32	bone	~goa	BAS	osso	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~goa	FALSE	PET	PWT	ŋ õ ã
+360	ŋ õ - ã	32	bone	~goa	DES	osso	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~goa	FALSE	PET	PWT	ŋ õ ã
+361	- õ ʔ ã	32	bone	~oʔa	KAR	osso	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~oʔa	FALSE	PET	PWT	õ ʔ ã
+362	k ũ - ã	32	bone	~kua	KUB	osso	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kua	FALSE	PET	PWT	k ũ ã
+363	k o - a	32	bone	koa	KUE	osso	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	koa	FALSE	PET	PWT	k o a
+364	kʔ õ ʔ a	32	bone	kʔõʔa	SIO	osso	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kʔõʔa	FALSE	PET	PWT	kʔ õ ʔ a
+365	- ũ ʔ ã	32	bone	~uʔa	TAN	osso	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~uʔa	FALSE	PET	PWT	ũ ʔ ã
+366	- õ ʔ ã	32	bone	~oʔa	TUK	osso	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~oʔa	FALSE	PET	PWT	õ ʔ ã
+367	k õ - ã	32	bone	~koa	TUY	osso	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~koa	FALSE	PET	PWT	k õ ã
+368	kh õ ʔ ã	32	bone	~khoʔa	WAN	osso	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~khoʔa	FALSE	PET	PWT	kh õ ʔ ã
+369	kʔ o ʔ a	32	bone	-	*PT	-	-	-	-	-	*kʔoʔa	TRUE	-	-	kʔ o ʔ a
+370	- - g o - - ( d o )	33	flower	godo	BAS	flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	godo	FALSE	PET	PWT	g o d o
+371	- - g o - - ( - - )	33	flower	go	DES	flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	go	FALSE	PET	PWT	g o
+372	- - k o - - ( r o )	33	flower	koro-	KOR	flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	koro	FALSE	PET	PWT	k o r o
+373	- - k o w ɨ ( - - )	33	flower	kowɨ	KUB	flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kowɨ	FALSE	PET	PWT	k o w ɨ
+374	t e k o - - ( - - )	33	flower	teko	KUE	flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	teko	FALSE	PET	PWT	t e k o
+375	- - h o - - ( d o )	33	flower	hodo	SEK	flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hodo	FALSE	PET	PWT	h o d o
+376	- - k o - - ( d o )	33	flower	kodo	SIO	flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kodo	FALSE	PET	PWT	k o d o
+377	- - - õ ʔ õ ( - - )	33	flower	~oʔo	TAN	flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~oʔo	FALSE	PET	PWT	õ ʔ õ
+378	- - - o ʔ o ( - - )	33	flower	oʔo	TUK	flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oʔo	FALSE	PET	PWT	o ʔ o
+379	- - k o - o ( - - )	33	flower	koo	TUY	flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	koo	FALSE	PET	PWT	k o o
+380	- - k o ʔ o ( - - )	33	flower	koʔo	WAN	flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	koʔo	FALSE	PET	PWT	k o ʔ o
+381	kʔ o ʔ o	33	flower	-	*PT	-	-	-	-	-	*kʔoʔo	TRUE	-	-	kʔ o ʔ o
+382	k ã n ĩ	34	sleep	~kadi	BAS	dormir	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kadi	FALSE	PET	PWT	k ã n ĩ
+383	k ã n ĩ	34	sleep	~kadi	DES	dormir	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kadi	FALSE	PET	PWT	k ã n ĩ
+384	k ã n ĩ	34	sleep	~kadi	KAR	dormir	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kadi	FALSE	PET	PWT	k ã n ĩ
+385	k ã + i	34	sleep	kã-i	KOR	dormir	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kã+i	FALSE	PET	PWT	k ã + i
+386	k ã - -	34	sleep	kã	KUB	dormir	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kã	FALSE	PET	PWT	k ã
+387	k ã + i	34	sleep	kã-i	MAI	dormir	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kã+i	FALSE	PET	PWT	k ã + i
+388	k ã + i	34	sleep	kã-i	SEK	dormir	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kã+i	FALSE	PET	PWT	k ã + i
+389	k ã + i	34	sleep	kã-i	SIO	dormir	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kã+i	TRUE	PET	PWT	k ã + i
+390	k ã r̃ ĩ	34	sleep	~kari	TAN	dormir	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kari	FALSE	PET	PWT	k ã r̃ ĩ
+391	k ã n ĩ	34	sleep	~kadi	TUK	dormir	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kadi	FALSE	PET	PWT	k ã n ĩ
+392	k ã n ĩ	34	sleep	~kadi	TUY	dormir	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kadi	FALSE	PET	PWT	k ã n ĩ
+393	kh ã n ĩ	34	sleep	~khadi	WAN	dormir	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~khadi	FALSE	PET	PWT	kh ã n ĩ
+394	k ã	34	sleep	-	*PT	-	-	-	-	-	*kã-	FALSE	-	-	k ã
+395	k a c a	35	elevated structure (shelves roof etc.)	kaca	BAS	jirau	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kaca	FALSE	PET	PWT	k a c a
+396	k a j a	35	elevated structure (shelves roof etc.)	kaja	DES	jirau	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kaja	FALSE	PET	PWT	k a j a
+397	k a j a	35	elevated structure (shelves roof etc.)	kaja	KAR	jirau	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kaja	FALSE	PET	PWT	k a j a
+398	kh a j a	35	elevated structure (shelves roof etc.)	khaja	KOR	jirau	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	khaja	FALSE	PET	PWT	kh a j a
+399	k a j a	35	elevated structure (shelves roof etc.)	kaja	KUB	jirau	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kaja	FALSE	PET	PWT	k a j a
+400	k a s a	35	elevated structure (shelves roof etc.)	kasa	TUK	jirau	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kasa	FALSE	PET	PWT	k a s a
+401	k a s a	35	elevated structure (shelves roof etc.)	kasa	WAN	jirau	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kasa	FALSE	PET	PWT	k a s a
+402	k a j a	35	elevated structure (shelves roof etc.)	-	*PT	-	-	-	-	-	*kaja	FALSE	-	-	k a j a
+403	k ĩ ĩ	36	manioc	kĩ	BAS	mandioca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kĩ	FALSE	PET	PWT	k ĩ ĩ
+404	k ĩ ĩ	36	manioc	kĩĩ	DES	mandioca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kĩĩ	FALSE	PET	PWT	k ĩ ĩ
+405	k i i	36	manioc	kii	KAR	mandioca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kii	FALSE	PET	PWT	k i i
+406	kh ɨ i	36	manioc	khɨi	KOR	mandioca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	khɨi	FALSE	PET	PWT	kh ɨ i
+407	k ɨ i	36	manioc	kɨi	KUB	mandioca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kɨi	FALSE	PET	PWT	k ɨ i
+408	k ɨ -	36	manioc	kɨ	KUE	mandioca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kɨ	FALSE	PET	PWT	k ɨ
+409	k ɨ i	36	manioc	kɨi	MAI	mandioca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kɨi	FALSE	PET	PWT	k ɨ i
+410	k ɨ i	36	manioc	kɨi	SIO	mandioca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kɨi	FALSE	PET	PWT	k ɨ i
+411	k i -	36	manioc	ki	TAN	mandioca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ki	FALSE	PET	PWT	k i
+412	k i i	36	manioc	kii	TUK	mandioca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kii	FALSE	PET	PWT	k i i
+413	kh ɨ ɨ	36	manioc	khɨɨ	WAN	mandioca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	khɨɨ	FALSE	PET	PWT	kh ɨ ɨ
+414	k ɨ i	36	manioc	-	*PT	-	-	-	-	-	*kɨi	TRUE	-	-	k ɨ i
+415	k õ n ẽ	37	woodpecker	~kode	BAS	pica-pau	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kode	FALSE	PET	PWT	k õ n ẽ
+416	k õ n ẽ	37	woodpecker	~kode	DES	pica-pau	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kode	FALSE	PET	PWT	k õ n ẽ
+417	k õ n ẽ	37	woodpecker	~kode	KAR	pica-pau	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kode	FALSE	PET	PWT	k õ n ẽ
+418	kh õ n e	37	woodpecker	khõne	KOR	pica-pau	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	khõne	FALSE	PET	PWT	kh õ n e
+419	k õ n ẽ	37	woodpecker	~kode	KUB	pica-pau	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kode	FALSE	PET	PWT	k õ n ẽ
+420	k o n e	37	woodpecker	kone	MAI	pica-pau	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kone	FALSE	PET	PWT	k o n e
+421	k õ n e	37	woodpecker	kõne	SEK	pica-pau	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kõne	FALSE	PET	PWT	k õ n e
+422	k o n e	37	woodpecker	kone	SIO	pica-pau	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kone	FALSE	PET	PWT	k o n e
+423	k õ n ẽ	37	woodpecker	~kode	TUK	pica-pau	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kode	FALSE	PET	PWT	k õ n ẽ
+424	kh õ n ẽ	37	woodpecker	~khode	WAN	pica-pau	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~khode	FALSE	PET	PWT	kh õ n ẽ
+425	k o n e	37	woodpecker	-	*PT	-	-	-	-	-	*kone	FALSE	-	-	k o n e
+426	( - - ) k ũ - - n ĩ	38	to bite	~kuni	BAS	morder	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kuni	FALSE	PET	PWT	k ũ n ĩ
+427	( - - ) k ũ - - n ĩ	38	to bite	~kudi	DES	morder	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kudi	FALSE	PET	PWT	k ũ n ĩ
+428	( - - ) kh ũ ʔ - - i	38	to bite	khũʔi	KOR	morder	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	khũʔi	FALSE	PET	PWT	kh ũ ʔ i
+429	( - - ) k ũ - - - -	38	to bite	~ku	KUB	morder	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ku	FALSE	PET	PWT	k ũ
+430	( - - ) k ũ - - i -	38	to bite	kũi	MAI	morder	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kũi	FALSE	PET	PWT	k ũ i
+431	( - - ) k õ - k ɨ -	38	to bite	kõkɨ	SEK	morder	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kõkɨ	FALSE	PET	PWT	k õ k ɨ
+432	( - - ) k ũ ʔ - - i	38	to bite	kũʔi	SIO	morder	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kũʔi	FALSE	PET	PWT	k ũ ʔ i
+433	k u ʔk u	38	to bite	kuʔku	TAN	morder	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kuʔku	FALSE	PET	PWT	k u ʔk u
+434	k ũ ʔn ĩ	38	to bite	~kuʔdi	TUK	morder	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kuʔdi	FALSE	PET	PWT	k ũ ʔn ĩ
+435	( b a ) k a - - - -	38	to bite	baka	TUY	morder	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	baka	FALSE	PET	PWT	b a k a
+436	( - - ) k ũ - - r̃ ĩ	38	to bite	~kuri	YUP	morder	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kuri	FALSE	PET	PWT	k ũ r̃ ĩ
+437	k ũ	38	to bite	-	*PT	-	-	-	-	-	*kũ	FALSE	-	-	k ũ
+438	k u ẽ s o	39	capybara	kuẽso	KOR	Capivara	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kuẽso	FALSE	PET	PWT	k u ẽ s o
+439	k - e t u	39	capybara	ketu	KUE	Capivara	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ketu	FALSE	PET	PWT	k e t u
+440	k u e s o	39	capybara	kueso	SEK	Capivara	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kueso	FALSE	PET	PWT	k u e s o
+441	kʔ u e s o	39	capybara	kʔueso	SIO	Capivara	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kʔueso	FALSE	PET	PWT	kʔ u e s o
+442	k e e h u	39	capybara	keehu	TAN	Capivara	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	keehu	FALSE	PET	PWT	k e e h u
+443	k w e t j u	39	capybara	-	*PT	-	-	-	-	-	*kwetju	FALSE	-	-	k w e t j u
+444	k o - d e	40	wait	kode	BAS	esperar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kode	FALSE	PET	PWT	k o d e
+445	k o - d e	40	wait	kode	DES	esperar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kode	FALSE	PET	PWT	k o d e
+446	k o - d e	40	wait	kode	KUB	esperar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kode	FALSE	PET	PWT	k o d e
+447	h o - t e	40	wait	hote	KUE	esperar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hote	FALSE	PET	PWT	h o t e
+448	- ɨ̃ - t e	40	wait	ɨ̃te	MAI	esperar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨ̃te	FALSE	PET	PWT	ɨ̃ t e
+449	- u - t e	40	wait	ute	SEK	esperar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ute	FALSE	PET	PWT	u t e
+450	k o ʔt e	40	wait	koʔte	TUK	esperar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	koʔte	FALSE	PET	PWT	k o ʔt e
+451	k o ʔt a	40	wait	koʔta	WAN	esperar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	koʔta	FALSE	PET	PWT	k o ʔt a
+452	k o - r e	40	wait	kore	YUP	esperar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kore	FALSE	PET	PWT	k o r e
+453	k w ɨ tʔ e	40	wait	-	*PT	-	-	-	-	-	*kwɨtʔe	TRUE	-	-	k w ɨ tʔ e
+454	( - - - - ) m ã h ã	41	macaw	~baha	BAS	arara	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~baha	FALSE	PET	PWT	m ã h ã
+455	( - - - - ) m ã h ã	41	macaw	~baha	DES	arara	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~baha	FALSE	PET	PWT	m ã h ã
+456	( - - - - ) m a - a	41	macaw	~baa	KAR	arara	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~baa	FALSE	PET	PWT	m a a
+457	( - - - - ) m a - a	41	macaw	maa	KOR	arara	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	maa	FALSE	PET	PWT	m a a
+458	( - - - - ) m ã - -	41	macaw	~ma	KUB	arara	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ma	FALSE	PET	PWT	m ã
+459	( - - - - ) m a - -	41	macaw	ma	MAI	arara	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ma	FALSE	PET	PWT	m a
+460	t o a + m a	41	macaw	toa-ma	SEK	arara	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	toa+ma	FALSE	PET	PWT	t o a + m a
+461	( - - - - ) m a - -	41	macaw	ma	SIO	arara	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ma	FALSE	PET	PWT	m a
+462	( - - - - ) m ã h ã	41	macaw	~baha	TUK	arara	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~baha	FALSE	PET	PWT	m ã h ã
+463	( - - - - ) m ã h ã	41	macaw	~baha	WAN	arara	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~baha	FALSE	PET	PWT	m ã h ã
+464	m a h a	41	macaw	-	*PT	-	-	-	-	-	*maha	FALSE	-	-	m a h a
+465	m ã - c ĩ	42	know	~baci	BAS	saber	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~baci	FALSE	PET	PWT	m ã c ĩ
+466	m ã - s ĩ	42	know	~basi	DES	saber	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~basi	FALSE	PET	PWT	m ã s ĩ
+467	m a - s i	42	know	masi	KOR	saber	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	masi	FALSE	PET	PWT	m a s i
+468	m a - h i	42	know	mahi	KUB	saber	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mahi	FALSE	PET	PWT	m a h i
+469	m a - s i	42	know	masi	KUE	saber	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	masi	FALSE	PET	PWT	m a s i
+470	m a ʔs i	42	know	maʔsi	SIO	saber	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	maʔsi	TRUE	PET	PWT	m a ʔs i
+471	m ã - s ĩ	42	know	~basi	TUK	saber	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~basi	FALSE	PET	PWT	m ã s ĩ
+472	m ã - s ĩ	42	know	~basi	TUY	saber	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~basi	FALSE	PET	PWT	m ã s ĩ
+473	m ã - s ĩ	42	know	~basi	WAN	saber	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~basi	FALSE	PET	PWT	m ã s ĩ
+474	m a s i	42	know	-	*PT	-	-	-	-	-	*masi	FALSE	-	-	m a s i
+475	m a - a	43	path	~baa	BAS	caminho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~baa	FALSE	PET	PWT	m a a
+476	m ã ʔ ã	43	path	~baʔa	DES	caminho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~baʔa	FALSE	PET	PWT	m ã ʔ ã
+477	m ã ʔ ã	43	path	~baʔa	KAR	caminho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~baʔa	FALSE	PET	PWT	m ã ʔ ã
+478	m a ʔ a	43	path	maʔa	KOR	caminho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	maʔa	FALSE	PET	PWT	m a ʔ a
+479	m ã - -	43	path	~ba	KUB	caminho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ba	FALSE	PET	PWT	m ã
+480	m a - a	43	path	maa	KUE	caminho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	maa	FALSE	PET	PWT	m a a
+481	m a - -	43	path	ma	MAI	caminho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ma	FALSE	PET	PWT	m a
+482	m a ʔ a	43	path	maʔa	SEK	caminho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	maʔa	FALSE	PET	PWT	m a ʔ a
+483	m a ʔ a	43	path	maʔa	SIO	caminho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	maʔa	FALSE	PET	PWT	m a ʔ a
+484	m ã ʔ ã	43	path	~baʔa	TAN	caminho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~baʔa	FALSE	PET	PWT	m ã ʔ ã
+485	m ã - -	43	path	~ba	TUK	caminho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ba	FALSE	PET	PWT	m ã
+486	m a - a	43	path	~baa	TUY	caminho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~baa	FALSE	PET	PWT	m a a
+487	m ã ʔ ã	43	path	~baʔa	WAN	caminho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~baʔa	FALSE	PET	PWT	m ã ʔ ã
+488	m a ʔ a	43	path	-	*PT	-	-	-	-	-	*maʔa	FALSE	-	-	m a ʔ a
+489	m ẽ k ã	44	ant sp.	~beka	BAS	formiga sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~beka	FALSE	PET	PWT	m ẽ k ã
+490	m ẽ ŋ ã	44	ant sp.	~bega	DES	formiga sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bega	FALSE	PET	PWT	m ẽ ŋ ã
+491	m ẽ k ã	44	ant sp.	~beka	KAR	formiga sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~beka	FALSE	PET	PWT	m ẽ k ã
+492	m e kh a	44	ant sp.	mekha	KOR	formiga sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mekha	FALSE	PET	PWT	m e kh a
+493	m ẽ - ã	44	ant sp.	~bea	KUB	formiga sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bea	FALSE	PET	PWT	m ẽ ã
+494	m e ki a	44	ant sp.	mekia	KUE	formiga sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mekia	FALSE	PET	PWT	m e ki a
+495	m e k a	44	ant sp.	meka	MAI	formiga sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	meka	FALSE	PET	PWT	m e k a
+496	m e - a	44	ant sp.	mea	SIO	formiga sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mea	FALSE	PET	PWT	m e a
+497	m ẽ k ã	44	ant sp.	~beka	TAN	formiga sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~beka	FALSE	PET	PWT	m ẽ k ã
+498	m ẽ k ã	44	ant sp.	~beka	TUK	formiga sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~beka	FALSE	PET	PWT	m ẽ k ã
+499	m ã t∫ ɨ̃	44	ant sp.	~bat∫ɨ	WAN	formiga sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bat∫ɨ	FALSE	PET	PWT	m ã t∫ ɨ̃
+500	m e k a	44	ant sp.	-	*PT	-	-	-	-	-	*meka	FALSE	-	-	m e k a
+501	m ĩ - m ĩ	45	hummingbird	~bibi	BAS	beija-flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bibi	FALSE	PET	PWT	m ĩ m ĩ
+502	m ĩ - m ĩ	45	hummingbird	~bibi	DES	beija-flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bibi	FALSE	PET	PWT	m ĩ m ĩ
+503	m ĩ - m ĩ	45	hummingbird	~bibi	KAR	beija-flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bibi	FALSE	PET	PWT	m ĩ m ĩ
+504	m i - m i	45	hummingbird	mimi	KOR	beija-flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mimi	FALSE	PET	PWT	m i m i
+505	m ĩ - m ĩ	45	hummingbird	~bibi	KUB	beija-flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bibi	FALSE	PET	PWT	m ĩ m ĩ
+506	m i - m i	45	hummingbird	mimi	KUE	beija-flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mimi	FALSE	PET	PWT	m i m i
+507	m i - m i	45	hummingbird	mimi	MAI	beija-flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mimi	FALSE	PET	PWT	m i m i
+508	m i - m i	45	hummingbird	mimi	SEK	beija-flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mimi	FALSE	PET	PWT	m i m i
+509	m i - m i	45	hummingbird	mimi	SIO	beija-flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mimi	FALSE	PET	PWT	m i m i
+510	m ĩ - m ĩ	45	hummingbird	~bibi	TUK	beija-flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bibi	FALSE	PET	PWT	m ĩ m ĩ
+511	w̃ ĩ ʔm ĩ	45	hummingbird	~wiʔbi	WAN	beija-flor	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~wiʔbi	FALSE	PET	PWT	w̃ ĩ ʔm ĩ
+512	m i m i	45	hummingbird	-	*PT	-	-	-	-	-	*mimi	FALSE	-	-	m i m i
+513	m ɨ̃ - ã ( - - - - - - )	46	you all	~bɨa	BAS	vocês	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨa	FALSE	PET	PWT	m ɨ̃ ã
+514	m ɨ̃ - ã ( - - - - - - )	46	you all	~bɨa	DES	vocês	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨa	FALSE	PET	PWT	m ɨ̃ ã
+515	m ɨ̃ s ã ( - - - - - - )	46	you all	~bɨsa	KAR	vocês	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨsa	FALSE	PET	PWT	m ɨ̃ s ã
+516	m ɨ s a ( n ɨ kh o n a )	46	you all	mɨsanɨkhona	KOR	vocês	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mɨsanɨkhona	FALSE	PET	PWT	m ɨ s a n ɨ kh o n a
+517	m ɨ̃ h ã ( - - - - - - )	46	you all	~bɨha	KUB	vocês	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨha	FALSE	PET	PWT	m ɨ̃ h ã
+518	m ɨ t a ( - - - - - - )	46	you all	mɨta	KUE	vocês	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mɨta	FALSE	PET	PWT	m ɨ t a
+519	m ɨ s a ( - - - - - - )	46	you all	mɨsa	MAI	vocês	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mɨsa	FALSE	PET	PWT	m ɨ s a
+520	m ɨ s a ( - - r - - u )	46	you all	mɨsaru	SEK	vocês	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mɨsaru	FALSE	PET	PWT	m ɨ s a r u
+521	m ɨ s a ( - - k - w a )	46	you all	mɨsakwa	SIO	vocês	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mɨsakwa	FALSE	PET	PWT	m ɨ s a k w a
+522	m ĩ h ã ( - - - - - - )	46	you all	~biha	TAN	vocês	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~biha	FALSE	PET	PWT	m ĩ h ã
+523	m ɨ̃ s ã ( - - - - - - )	46	you all	~bɨsa	TUK	vocês	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨsa	FALSE	PET	PWT	m ɨ̃ s ã
+524	m ɨ̃ - ã ( - - - - - - )	46	you all	~bɨa	TUY	vocês	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨa	FALSE	PET	PWT	m ɨ̃ ã
+525	m ɨ̃ h ã ( - - - - - - )	46	you all	~bɨha	WAN	vocês	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨha	FALSE	PET	PWT	m ɨ̃ h ã
+526	m ɨ t j a	46	you all	-	*PT	-	-	-	-	-	*mɨ-tja	FALSE	-	-	m ɨ t j a
+527	m ɨ̃ ʔn õ	47	tobacco	~bɨʔdo	BAS	tabaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨʔdo	FALSE	PET	PWT	m ɨ̃ ʔn õ
+528	m ũ - n ũ	47	tobacco	~budu	DES	tabaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~budu	FALSE	PET	PWT	m ũ n ũ
+529	m ɨ̃ - n õ	47	tobacco	~bɨdo	KAR	tabaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨdo	FALSE	PET	PWT	m ɨ̃ n õ
+530	m ɨ - t o	47	tobacco	mɨto	KOR	tabaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mɨto	FALSE	PET	PWT	m ɨ t o
+531	m ɨ - n o	47	tobacco	mɨno	KUE	tabaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mɨno	FALSE	PET	PWT	m ɨ n o
+532	m ɨ - t o	47	tobacco	mɨto	MAI	tabaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mɨto	FALSE	PET	PWT	m ɨ t o
+533	m ɨ - t o	47	tobacco	mɨto	SEK	tabaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mɨto	FALSE	PET	PWT	m ɨ t o
+534	m u - t o	47	tobacco	muto	SIO	tabaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	muto	FALSE	PET	PWT	m u t o
+535	m ĩ ʔr̃ õ	47	tobacco	~biʔro	TAN	tabaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~biʔro	FALSE	PET	PWT	m ĩ ʔr̃ õ
+536	m ɨ̃ ʔn õ	47	tobacco	~bɨʔdo	TUK	tabaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨʔdo	FALSE	PET	PWT	m ɨ̃ ʔn õ
+537	m ɨ̃ - n õ	47	tobacco	~bɨdo	TUY	tabaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨdo	FALSE	PET	PWT	m ɨ̃ n õ
+538	m ɨ̃ ʔt õ	47	tobacco	~bɨʔto	WAN	tabaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨʔto	FALSE	PET	PWT	m ɨ̃ ʔt õ
+539	m ɨ tʔ o	47	tobacco	-	*PT	-	-	-	-	-	*mɨtʔo	TRUE	-	-	m ɨ tʔ o
+540	m ɨ̃ - t ẽ	48	mosquito	~bɨte	BAS	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨte	FALSE	PET	PWT	m ɨ̃ t ẽ
+541	m ɨ̃ - n ẽ	48	mosquito	~bɨde	DES	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨde	FALSE	PET	PWT	m ɨ̃ n ẽ
+542	m ɨ̃ - t ẽ	48	mosquito	~bɨte	KAR	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨte	FALSE	PET	PWT	m ɨ̃ t ẽ
+543	m ɨ - th e	48	mosquito	mɨthe	KOR	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mɨthe	FALSE	PET	PWT	m ɨ th e
+544	m ɨ̃ - t ẽ	48	mosquito	~bɨte	KUB	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨte	FALSE	PET	PWT	m ɨ̃ t ẽ
+545	m ɨ - n e	48	mosquito	mɨne	KUE	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mɨne	FALSE	PET	PWT	m ɨ n e
+546	m ɨ - t e	48	mosquito	mɨte	MAI	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mɨte	FALSE	PET	PWT	m ɨ t e
+547	m u ʔt e	48	mosquito	muʔte	SEK	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	muʔte	FALSE	PET	PWT	m u ʔt e
+548	m ɨ - t e	48	mosquito	mɨte	SIO	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mɨte	FALSE	PET	PWT	m ɨ t e
+549	m ĩ - r̃ ĩ	48	mosquito	~biri	TAN	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~biri	FALSE	PET	PWT	m ĩ r̃ ĩ
+550	m ɨ̃ - t ẽ	48	mosquito	~bɨte	TUK	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨte	FALSE	PET	PWT	m ɨ̃ t ẽ
+551	m ɨ̃ - t ẽ	48	mosquito	~bɨte	TUY	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨte	FALSE	PET	PWT	m ɨ̃ t ẽ
+552	m ɨ̃ - t ẽ	48	mosquito	~bɨte	WAN	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bɨte	FALSE	PET	PWT	m ɨ̃ t ẽ
+553	m ɨ t e	48	mosquito	-	*PT	-	-	-	-	-	*mɨte	FALSE	-	-	m ɨ t e
+554	n e o	49	charcoal (2)	neo	KOR	carvão	grease (kub)	gordura (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	neo	FALSE	PET	PWT	n e o
+555	n ẽ õ	49	charcoal (2)	~deo	KUB	carvão	grease (kub)	gordura (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	~deo	FALSE	PET	PWT	n ẽ õ
+556	n e o	49	charcoal (2)	neo	MAI	carvão	grease (kub)	gordura (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	neo	FALSE	PET	PWT	n e o
+557	n ẽ õ	49	charcoal (2)	~deo	SEK	carvão	grease (kub)	gordura (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	~deo	FALSE	PET	PWT	n ẽ õ
+558	n e o	49	charcoal (2)	neo	SIO	carvão	grease (kub)	gordura (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	neo	FALSE	PET	PWT	n e o
+559	n e o	49	charcoal (2)	-	*PT	-	-	-	-	-	*neo	TRUE	-	-	n e o
+560	r̃ e - e	50	buriti palm	~ree	BAS	buriti	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ree	FALSE	PET	PWT	r̃ e e
+561	n ẽ ʔ ẽ	50	buriti palm	~deʔe	DES	buriti	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~deʔe	FALSE	PET	PWT	n ẽ ʔ ẽ
+562	n e - e	50	buriti palm	~dee	KAR	buriti	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dee	FALSE	PET	PWT	n e e
+563	n e ʔ e	50	buriti palm	neʔe	KOR	buriti	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	neʔe	FALSE	PET	PWT	n e ʔ e
+564	n ẽ - ĩ	50	buriti palm	~dei	KUB	buriti	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dei	FALSE	PET	PWT	n ẽ ĩ
+565	n ẽ ʔ ẽ	50	buriti palm	~deʔe	SEK	buriti	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~deʔe	FALSE	PET	PWT	n ẽ ʔ ẽ
+566	n e ʔ e	50	buriti palm	neʔe	SIO	buriti	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	neʔe	FALSE	PET	PWT	n e ʔ e
+567	n ẽ ʔ ẽ	50	buriti palm	~deʔe	TUK	buriti	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~deʔe	FALSE	PET	PWT	n ẽ ʔ ẽ
+568	n ã ʔ ã	50	buriti palm	~daʔa	WAN	buriti	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~daʔa	FALSE	PET	PWT	n ã ʔ ã
+569	n e ʔ e	50	buriti palm	-	*PT	-	-	-	-	-	*neʔe	FALSE	-	-	n e ʔ e
+570	r̃ ĩ t ĩ	51	charcoal (1)	~riti	BAS	carvão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~riti	FALSE	PET	PWT	r̃ ĩ t ĩ
+571	n ĩ t ĩ	51	charcoal (1)	~diti	DES	carvão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~diti	FALSE	PET	PWT	n ĩ t ĩ
+572	n ĩ t ĩ	51	charcoal (1)	~diti	KAR	carvão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~diti	FALSE	PET	PWT	n ĩ t ĩ
+573	n ĩ t ĩ	51	charcoal (1)	~diti	TAN	carvão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~diti	FALSE	PET	PWT	n ĩ t ĩ
+574	n ĩ t ĩ	51	charcoal (1)	~diti	TUK	carvão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~diti	FALSE	PET	PWT	n ĩ t ĩ
+575	n ĩ t ĩ	51	charcoal (1)	~diti	TUY	carvão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~diti	FALSE	PET	PWT	n ĩ t ĩ
+576	n ĩ t ĩ	51	charcoal (1)	~diti	WAN	carvão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~diti	FALSE	PET	PWT	n ĩ t ĩ
+577	n i t t i	51	charcoal (1)	-	*PT	-	-	-	-	-	*nitti	TRUE	-	-	n i t t i
+578	r̃ ɨ̃ - ŋ õ	52	stop	~rɨgo	BAS	parar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~rɨgo	FALSE	PET	PWT	r̃ ɨ̃ ŋ õ
+579	n ũ - ŋ ũ	52	stop	~dugu	DES	parar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dugu	FALSE	PET	PWT	n ũ ŋ ũ
+580	n ɨ̃ - k ã	52	stop	~dɨka	KAR	parar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dɨka	FALSE	PET	PWT	n ɨ̃ k ã
+581	n ɨ - kh a	52	stop	nɨkha	KOR	parar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	nɨkha	FALSE	PET	PWT	n ɨ kh a
+582	n ú - - -	52	stop	~dú	KUB	parar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dú	FALSE	PET	PWT	n ú
+583	n ɨ - k a	52	stop	nɨka	MAI	parar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	nɨka	FALSE	PET	PWT	n ɨ k a
+584	d ɨ̃ - k a	52	stop	dɨ̃ka	SEK	parar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dɨ̃ka	FALSE	PET	PWT	d ɨ̃ k a
+585	n ɨ - k a	52	stop	nɨka	SIO	parar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	nɨka	FALSE	PET	PWT	n ɨ k a
+586	n ɨ̃ ʔk ã	52	stop	~dɨʔka	TUK	parar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dɨʔka	FALSE	PET	PWT	n ɨ̃ ʔk ã
+587	n ũ - k ũ	52	stop	~duku	TUY	parar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~duku	FALSE	PET	PWT	n ũ k ũ
+588	n ɨ kʔ	52	stop	-	*PT	-	-	-	-	-	*nɨkʔ-	TRUE	-	-	n ɨ kʔ
+589	n ũ - n ĩ	53	penis	~dudi	KAR	pênis	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dudi	FALSE	PET	PWT	n ũ n ĩ
+590	n õ ẽ - -	53	penis	~doe	KUB	pênis	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~doe	FALSE	PET	PWT	n õ ẽ
+591	n o - n i	53	penis	noni	KUE	pênis	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	noni	FALSE	PET	PWT	n o n i
+592	n o a - -	53	penis	noa	MAI	pênis	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	noa	FALSE	PET	PWT	n o a
+593	r ũ - r i	53	penis	rũri	TAN	pênis	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	rũri	FALSE	PET	PWT	r ũ r i
+594	n ũ - n ĩ	53	penis	~dudi	TUK	pênis	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dudi	FALSE	PET	PWT	n ũ n ĩ
+595	s e j u a	53	penis	sejua	TUY	pênis	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sejua	FALSE	PET	PWT	s e j u a
+596	n ũ - n ɨ̃	53	penis	~dudɨ	WAN	pênis	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dudɨ	FALSE	PET	PWT	n ũ n ɨ̃
+597	n o	53	penis	-	*PT	-	-	-	-	-	*no-	FALSE	-	-	n o
+598	o t i	54	to cry	oti	BAS	chorar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oti	FALSE	PET	PWT	o t i
+599	o t i	54	to cry	oti	DES	chorar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oti	FALSE	PET	PWT	o t i
+600	o t i	54	to cry	oti	KAR	chorar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oti	FALSE	PET	PWT	o t i
+601	o - i	54	to cry	oi	KOR	chorar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oi	FALSE	PET	PWT	o i
+602	o - -	54	to cry	o	KUB	chorar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	o	FALSE	PET	PWT	o
+603	- - ?	54	to cry	?	KUE	chorar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	?	FALSE	PET	PWT	?
+604	o - i	54	to cry	oi	MAI	chorar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oi	FALSE	PET	PWT	o i
+605	o - i	54	to cry	oi	SEK	chorar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oi	FALSE	PET	PWT	o i
+606	o - i	54	to cry	oi	SIO	chorar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oi	FALSE	PET	PWT	o i
+607	u t i	54	to cry	uti	TUY	chorar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	uti	FALSE	PET	PWT	u t i
+608	- t i	54	to cry	ti	WAN	chorar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ti	FALSE	PET	PWT	t i
+609	o t i	54	to cry	oti	YUP	chorar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oti	FALSE	PET	PWT	o t i
+610	o	54	to cry	-	*PT	-	-	-	-	-	*o-	FALSE	-	-	o
+611	- o - c o	55	bat	oco	BAS	morcego	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oco	FALSE	PET	PWT	o c o
+612	- o - j o	55	bat	ojo	DES	morcego	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ojo	FALSE	PET	PWT	o j o
+613	- o - s o	55	bat	oso	KAR	morcego	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oso	FALSE	PET	PWT	o s o
+614	- o - j o	55	bat	ojo	KOR	morcego	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ojo	FALSE	PET	PWT	o j o
+615	- o - j o	55	bat	ojo	KUB	morcego	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ojo	FALSE	PET	PWT	o j o
+616	h o i j o	55	bat	hoijo	KUE	morcego	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hoijo	FALSE	PET	PWT	h o i j o
+617	- o - j o	55	bat	ojo	MAI	morcego	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ojo	FALSE	PET	PWT	o j o
+618	- o - s o	55	bat	oso	PIR	morcego	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oso	FALSE	PET	PWT	o s o
+619	- o - j o	55	bat	ojo	SEK	morcego	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ojo	FALSE	PET	PWT	o j o
+620	- o - j o	55	bat	ojo	SIO	morcego	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ojo	FALSE	PET	PWT	o j o
+621	- o - j o	55	bat	ojo	TAN	morcego	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ojo	FALSE	PET	PWT	o j o
+622	- o - s o	55	bat	oso	TUK	morcego	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oso	FALSE	PET	PWT	o s o
+623	- o - s o	55	bat	oso	TUY	morcego	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oso	FALSE	PET	PWT	o s o
+624	o j o	55	bat	-	*PT	-	-	-	-	-	*ojo	FALSE	-	-	o j o
+625	( - - ) o k o ( - - - - )	56	water	oko	BAS	água	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oko	FALSE	PET	PWT	o k o
+626	( d e ) - k o ( - - - - )	56	water	deko	DES	água	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	deko	FALSE	PET	PWT	d e k o
+627	( - - ) o k o ( - - - - )	56	water	oko	KAR	água	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oko	FALSE	PET	PWT	o k o
+628	( - - ) o kh o ( - - - - )	56	water	okho	KOR	água	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	okho	FALSE	PET	PWT	o kh o
+629	( - - ) o k o ( - - - - )	56	water	oko	KUB	água	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oko	FALSE	PET	PWT	o k o
+630	( - - ) - k o ( t a p u )	56	water	kotapu	KUE	água	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kotapu	FALSE	PET	PWT	k o t a p u
+631	( - - ) o k o ( - - - - )	56	water	oko	MAI	água	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oko	FALSE	PET	PWT	o k o
+632	( - - ) o k o ( - - - - )	56	water	oko	SEK	água	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oko	FALSE	PET	PWT	o k o
+633	( - - ) o k o ( - - - - )	56	water	oko	SIO	água	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oko	FALSE	PET	PWT	o k o
+634	( - - ) o k o ( - - - - )	56	water	oko	TAN	água	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oko	FALSE	PET	PWT	o k o
+635	( - - ) o k o ( - - - - )	56	water	oko	TUK	água	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oko	FALSE	PET	PWT	o k o
+636	( - - ) o k o ( - - - - )	56	water	oko	TUY	água	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	oko	FALSE	PET	PWT	o k o
+637	( - - ) - k o ( - - - - )	56	water	ko	WAN	água	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ko	FALSE	PET	PWT	k o
+638	o k k o	56	water	-	*PT	-	-	-	-	-	*okko	TRUE	-	-	o k k o
+639	- o t e -	57	plant	ote	BAS	planta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ote	FALSE	PET	PWT	o t e
+640	- o t e -	57	plant	ote	DES	planta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ote	FALSE	PET	PWT	o t e
+641	- o t e -	57	plant	ote	KAR	planta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ote	FALSE	PET	PWT	o t e
+642	- o th e -	57	plant	othe	KOR	planta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	othe	FALSE	PET	PWT	o th e
+643	- o t e -	57	plant	ote	KUB	planta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ote	FALSE	PET	PWT	o t e
+644	- o t e -	57	plant	ote	MAI	planta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ote	FALSE	PET	PWT	o t e
+645	- o t e -	57	plant	ote	SEK	planta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ote	FALSE	PET	PWT	o t e
+646	- o t e -	57	plant	ote	SIO	planta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ote	FALSE	PET	PWT	o t e
+647	h o t o -	57	plant	hoto	TAN	planta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hoto	FALSE	PET	PWT	h o t o
+648	- o t e -	57	plant	ote	TUK	planta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ote	FALSE	PET	PWT	o t e
+649	- o t e -	57	plant	ote	TUY	planta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ote	FALSE	PET	PWT	o t e
+650	- - t o a	57	plant	toa	WAN	planta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	toa	FALSE	PET	PWT	t o a
+651	o t t e	57	plant	-	*PT	-	-	-	-	-	*otte	TRUE	-	-	o t t e
+652	b e k o	58	larva	beko	BAS	larva	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	beko	FALSE	PET	PWT	b e k o
+653	b e k a	58	larva	beka	DES	larva	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	beka	FALSE	PET	PWT	b e k a
+654	b e k o	58	larva	beko	KAR	larva	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	beko	FALSE	PET	PWT	b e k o
+655	p e kh o	58	larva	pekho	KOR	larva	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pekho	FALSE	PET	PWT	p e kh o
+656	b e k u	58	larva	beku	MAI	larva	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	beku	FALSE	PET	PWT	b e k u
+657	p e k o	58	larva	peko	SEK	larva	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	peko	FALSE	PET	PWT	p e k o
+658	pʔ e k o	58	larva	pʔeko	SIO	larva	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pʔeko	FALSE	PET	PWT	pʔ e k o
+659	b e k o	58	larva	beko	TUK	larva	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	beko	FALSE	PET	PWT	b e k o
+660	pʔ e k k o	58	larva	-	*PT	-	-	-	-	-	*pʔekko	TRUE	-	-	pʔ e k k o
+661	b ɨ h ɨ	59	spider	bɨhɨ	BAS	aranha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨhɨ	FALSE	PET	PWT	b ɨ h ɨ
+662	b ɨ p ɨ	59	spider	bɨpɨ	DES	aranha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨpɨ	FALSE	PET	PWT	b ɨ p ɨ
+663	b ɨ p ɨ	59	spider	bɨpɨ	KAR	aranha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨpɨ	FALSE	PET	PWT	b ɨ p ɨ
+664	h ɨ̃ h ɨ̃	59	spider	~hɨhɨ	KOR	aranha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~hɨhɨ	FALSE	PET	PWT	h ɨ̃ h ɨ̃
+665	p ɨ̃ p ɨ̃	59	spider	~pɨpɨ	KUB	aranha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~pɨpɨ	FALSE	PET	PWT	p ɨ̃ p ɨ̃
+666	h e h e	59	spider	hehe	KUE	aranha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hehe	FALSE	PET	PWT	h e h e
+667	h ɨ̃ h ɨ̃	59	spider	~hɨhɨ	MAI	aranha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~hɨhɨ	FALSE	PET	PWT	h ɨ̃ h ɨ̃
+668	h ɨ̃ h ɨ̃	59	spider	~hɨhɨ	SIO	aranha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~hɨhɨ	TRUE	PET	PWT	h ɨ̃ h ɨ̃
+669	b ɨ p ɨ	59	spider	bɨpɨ	TUK	aranha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨpɨ	FALSE	PET	PWT	b ɨ p ɨ
+670	b ɨ p ɨ	59	spider	bɨpɨ	TUY	aranha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨpɨ	FALSE	PET	PWT	b ɨ p ɨ
+671	w ɨ p ɨ	59	spider	wɨpɨ	WAN	aranha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wɨpɨ	FALSE	PET	PWT	w ɨ p ɨ
+672	b ɨ b ɨ	59	spider	bɨbɨ	YUP	aranha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨbɨ	FALSE	PET	PWT	b ɨ b ɨ
+673	pʔ ɨ p ɨ	59	spider	-	*PT	-	-	-	-	-	*pʔɨpɨ	TRUE	-	-	pʔ ɨ p ɨ
+674	b u t u	60	termite	butu	BAS	cupim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	butu	FALSE	*pʔutu	PWT	b u t u
+675	b u d u	60	termite	budu	DES	cupim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	budu	FALSE	*pʔutu	PWT	b u d u
+676	b u t u	60	termite	butu	KAR	cupim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	butu	FALSE	*pʔutu	PWT	b u t u
+677	p o r u	60	termite	poru	KUE	cupim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	poru	FALSE	*pʔutu	PWT	p o r u
+678	b u t u	60	termite	butu	TAN	cupim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	butu	FALSE	*pʔutu	PWT	b u t u
+679	b u t u	60	termite	butu	TUK	cupim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	butu	FALSE	*pʔutu	PWT	b u t u
+680	b u t u	60	termite	butu	WAN	cupim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	butu	FALSE	*pʔutu	PWT	b u t u
+681	pʔ u t u	60	termite	-	*PT	-	-	-	-	-	*pʔutu	TRUE	-	-	pʔ u t u
+682	m ã c ã - -	61	people	~baca	BAS	pessoa(s)	we inclusive (kub)	nós inclusivo (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	~baca	FALSE	PET	PWT	m ã c ã
+683	m ã s ã - -	61	people	~basa	KAR	pessoa(s)	we inclusive (kub)	nós inclusivo (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	~basa	FALSE	PET	PWT	m ã s ã
+684	p ã + i	61	people	pã-i	KOR	pessoa(s)	we inclusive (kub)	nós inclusivo (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	pã+i	FALSE	PET	PWT	p ã + i
+685	m ã h ã - -	61	people	~baha	KUB	pessoa(s)	we inclusive (kub)	nós inclusivo (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	~baha	FALSE	PET	PWT	m ã h ã
+686	m a t a r ɨ	61	people	matarɨ	KUE	pessoa(s)	we inclusive (kub)	nós inclusivo (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	matarɨ	FALSE	PET	PWT	m a t a r ɨ
+687	m ã + ĩ	61	people	~ba-i	MAI	pessoa(s)	we inclusive (kub)	nós inclusivo (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	~ba+i	FALSE	PET	PWT	m ã + ĩ
+688	p ã + i	61	people	pã-i	SEK	pessoa(s)	we inclusive (kub)	nós inclusivo (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	pã+i	FALSE	PET	PWT	p ã + i
+689	pʔ ã   i	61	people	pʔã-i	SIO	pessoa(s)	we inclusive (kub)	nós inclusivo (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	pʔã+i	TRUE	PET	PWT	pʔ ã   i
+690	m ã h ã - -	61	people	~baha	TAN	pessoa(s)	we inclusive (kub)	nós inclusivo (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	~baha	FALSE	PET	PWT	m ã h ã
+691	m ã s ã - -	61	people	~basa	TUK	pessoa(s)	we inclusive (kub)	nós inclusivo (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	~basa	FALSE	PET	PWT	m ã s ã
+692	b a s o - -	61	people	baso	TUY	pessoa(s)	we inclusive (kub)	nós inclusivo (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	baso	FALSE	PET	PWT	b a s o
+693	m ã h ã - -	61	people	~baha	WAN	pessoa(s)	we inclusive (kub)	nós inclusivo (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	~baha	FALSE	PET	PWT	m ã h ã
+694	m ã ts ã -	61	people	~batsa	YUP	pessoa(s)	we inclusive (kub)	nós inclusivo (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	~batsa	TRUE	PET	PWT	m ã ts ã
+695	pʔ ã t j ã	61	people	-	*PT	-	-	-	-	-	*pʔã-tjã	TRUE	-	-	pʔ ã t j ã
+696	b a c a	62	dance	baca	BAS	dançar	GLOSA 2 ENGL	ritualized songs (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	baca	FALSE	PET	PWT	b a c a
+697	b a j a	62	dance	baja	DES	dançar	GLOSA 2 ENGL	ritualized songs (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	baja	FALSE	PET	PWT	b a j a
+698	b a s a	62	dance	basa	KAR	dançar	GLOSA 2 ENGL	ritualized songs (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	basa	FALSE	PET	PWT	b a s a
+699	b a j a	62	dance	baja	KUB	dançar	GLOSA 2 ENGL	ritualized songs (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	baja	FALSE	PET	PWT	b a j a
+700	t ɨ t e	62	dance	tɨte	MAI	dançar	GLOSA 2 ENGL	ritualized songs (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	tɨte	FALSE	PET	PWT	t ɨ t e
+701	b a j a	62	dance	baja	TAN	dançar	GLOSA 2 ENGL	ritualized songs (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	baja	FALSE	PET	PWT	b a j a
+702	b a s a	62	dance	basa	TUK	dançar	GLOSA 2 ENGL	ritualized songs (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	basa	FALSE	PET	PWT	b a s a
+703	b a s a	62	dance	basa	TUY	dançar	GLOSA 2 ENGL	ritualized songs (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	basa	FALSE	PET	PWT	b a s a
+704	b a s a	62	dance	basa	WAN	dançar	GLOSA 2 ENGL	ritualized songs (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	basa	FALSE	PET	PWT	b a s a
+705	pʔ a j a	62	dance	-	*PT	-	-	-	-	-	*pʔaja	TRUE	-	-	pʔ a j a
+706	b a h i	63	fishing net	bahi	BAS	rede de pesca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bahi	FALSE	*pʔapi	PWT	b a h i
+707	b a p i	63	fishing net	bapi	KAR	rede de pesca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bapi	FALSE	*pʔapi	PWT	b a p i
+708	p á p i	63	fishing net	pápi	KUB	rede de pesca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pápi	FALSE	*pʔapi	PWT	p á p i
+709	b a p i	63	fishing net	bapi	TUY	rede de pesca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bapi	FALSE	*pʔapi	PWT	b a p i
+710	pʔ a p i	63	fishing net	-	*PT	-	-	-	-	-	*pʔapi	TRUE	-	-	pʔ a p i
+711	m ẽ - n ẽ	64	inga (fruit sp.)	~bede	BAS	ingá	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bede	FALSE	PET	PWT	m ẽ n ẽ
+712	m ẽ - h ẽ	64	inga (fruit sp.)	~behe	DES	ingá	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~behe	FALSE	PET	PWT	m ẽ h ẽ
+713	m ẽ - n ẽ	64	inga (fruit sp.)	~bede	KAR	ingá	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bede	FALSE	PET	PWT	m ẽ n ẽ
+714	p e - n e	64	inga (fruit sp.)	pene	KOR	ingá	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pene	FALSE	PET	PWT	p e n e
+715	m ẽ - n ẽ	64	inga (fruit sp.)	~bede	KUB	ingá	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bede	FALSE	PET	PWT	m ẽ n ẽ
+716	m e ʔn e	64	inga (fruit sp.)	meʔne	KUE	ingá	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	meʔne	FALSE	PET	PWT	m e ʔn e
+717	m e - n e	64	inga (fruit sp.)	mene	MAI	ingá	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mene	FALSE	PET	PWT	m e n e
+718	p e - d ẽ	64	inga (fruit sp.)	pedẽ	SEK	ingá	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pedẽ	FALSE	PET	PWT	p e d ẽ
+719	pʔ e - n e	64	inga (fruit sp.)	pʔene	SIO	ingá	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pʔene	FALSE	PET	PWT	pʔ e n e
+720	m ẽ - n ẽ	64	inga (fruit sp.)	~bede	TUK	ingá	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bede	FALSE	PET	PWT	m ẽ n ẽ
+721	m ẽ - n ẽ	64	inga (fruit sp.)	~bede	WAN	ingá	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bede	FALSE	PET	PWT	m ẽ n ẽ
+722	pʔ e n e	64	inga (fruit sp.)	-	*PT	-	-	-	-	-	*pʔene	TRUE	-	-	pʔ e n e
+723	p e t e	65	duck	pete	KOR	pato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pete	FALSE	PET	PWT	p e t e
+724	b e d e	65	duck	bede	KUB	pato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bede	FALSE	PET	PWT	b e d e
+725	p e t e	65	duck	pete	SEK	pato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pete	FALSE	PET	PWT	p e t e
+726	pʔ e t e	65	duck	pʔete	SIO	pato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pʔete	FALSE	PET	PWT	pʔ e t e
+727	pʔ e t e	65	duck	-	*PT	-	-	-	-	-	*pʔete	TRUE	-	-	pʔ e t e
+728	b i a	66	chili	bia	BAS	pimenta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bia	FALSE	PET	PWT	b i a
+729	b i a	66	chili	bia	DES	pimenta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bia	FALSE	PET	PWT	b i a
+730	b i a	66	chili	bia	KAR	pimenta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bia	FALSE	PET	PWT	b i a
+731	p i a	66	chili	pia	KOR	pimenta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pia	FALSE	PET	PWT	p i a
+732	b i a	66	chili	bia	KUB	pimenta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bia	FALSE	PET	PWT	b i a
+733	b i a	66	chili	bia	KUE	pimenta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bia	FALSE	PET	PWT	b i a
+734	b i a	66	chili	bia	MAI	pimenta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bia	FALSE	PET	PWT	b i a
+735	b i a	66	chili	bia	PIR	pimenta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bia	FALSE	PET	PWT	b i a
+736	p i a	66	chili	pia	SEK	pimenta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pia	FALSE	PET	PWT	p i a
+737	pʔ i a	66	chili	pʔia	SIO	pimenta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pʔia	FALSE	PET	PWT	pʔ i a
+738	b i a	66	chili	bia	TAN	pimenta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bia	FALSE	PET	PWT	b i a
+739	b i a	66	chili	bia	TUK	pimenta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bia	FALSE	PET	PWT	b i a
+740	b i a	66	chili	bia	TUY	pimenta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bia	FALSE	PET	PWT	b i a
+741	b i a	66	chili	bia	WAN	pimenta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bia	FALSE	PET	PWT	b i a
+742	pʔ i a	66	chili	-	*PT	-	-	-	-	-	*pʔia	TRUE	-	-	pʔ i a
+743	b u h e -	67	squeeze	buhe	BAS	espremer	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	buhe	FALSE	*pʔipo	PWT	b u h e
+744	b i p i -	67	squeeze	bipi	DES	espremer	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bipi	FALSE	*pʔipo	PWT	b i p i
+745	p i p o -	67	squeeze	pipo	KUB	espremer	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pipo	FALSE	*pʔipo	PWT	p i p o
+746	b i p e -	67	squeeze	bipe	TUK	espremer	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bipe	FALSE	*pʔipo	PWT	b i p e
+747	w̃ ã y ĩ ã	67	squeeze	~wayia	TUY	espremer	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~wayia	FALSE	*pʔipo	PWT	w̃ ã y ĩ ã
+748	w i p e -	67	squeeze	wipe	WAN	espremer	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wipe	FALSE	*pʔipo	PWT	w i p e
+749	pʔ i p o	67	squeeze	-	*PT	-	-	-	-	-	*pʔipo	TRUE	-	-	pʔ i p o
+750	b ɨ - k ɨ	68	elder	bɨkɨ	BAS	velho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨkɨ	FALSE	PET	PWT	b ɨ k ɨ
+751	b ɨ - g ɨ	68	elder	bɨgɨ	DES	velho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨgɨ	FALSE	PET	PWT	b ɨ g ɨ
+752	b ɨ - k ɨ	68	elder	bɨkɨ	KAR	velho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨkɨ	FALSE	PET	PWT	b ɨ k ɨ
+753	b ɨ - k ɨ	68	elder	bɨkɨ	KUB	velho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨkɨ	FALSE	PET	PWT	b ɨ k ɨ
+754	b ɨ i k ɨ	68	elder	bɨikɨ	KUE	velho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨikɨ	FALSE	PET	PWT	b ɨ i k ɨ
+755	b ɨ - k ɨ	68	elder	bɨkɨ	TUK	velho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨkɨ	FALSE	PET	PWT	b ɨ k ɨ
+756	b ɨ - k ɨ	68	elder	bɨkɨ	TUY	velho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨkɨ	FALSE	PET	PWT	b ɨ k ɨ
+757	b ɨ - k ɨ	68	elder	bɨkɨ	WAN	velho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨkɨ	FALSE	PET	PWT	b ɨ k ɨ
+758	pʔ ɨ k ɨ	68	elder	-	*PT	-	-	-	-	-	*pʔɨkɨ	TRUE	-	-	pʔ ɨ k ɨ
+759	b o ( - t i )	69	white	boti	BAS	branco	GLOSA 2 ENGL	whitewash (wan)	GLOSA 3 PORT	GLOSS 3 ENGL	boti	FALSE	PET	PWT	b o t i
+760	b o ( - d e )	69	white	bode	DES	branco	GLOSA 2 ENGL	whitewash (wan)	GLOSA 3 PORT	GLOSS 3 ENGL	bode	FALSE	PET	PWT	b o d e
+761	b o ( - t i )	69	white	boti	KAR	branco	GLOSA 2 ENGL	whitewash (wan)	GLOSA 3 PORT	GLOSS 3 ENGL	boti	FALSE	PET	PWT	b o t i
+762	p o ( - - - )	69	white	po	KOR	branco	GLOSA 2 ENGL	whitewash (wan)	GLOSA 3 PORT	GLOSS 3 ENGL	po	FALSE	PET	PWT	p o
+763	b o ( - - - )	69	white	bo	KUB	branco	GLOSA 2 ENGL	whitewash (wan)	GLOSA 3 PORT	GLOSS 3 ENGL	bo	FALSE	PET	PWT	b o
+764	p o ( - - - )	69	white	po(le)	KUE	branco	GLOSA 2 ENGL	whitewash (wan)	GLOSA 3 PORT	GLOSS 3 ENGL	po	FALSE	PET	PWT	p o
+765	b o ( - - - )	69	white	bo	MAI	branco	GLOSA 2 ENGL	whitewash (wan)	GLOSA 3 PORT	GLOSS 3 ENGL	bo	FALSE	PET	PWT	b o
+766	p o ( - - - )	69	white	po	SEK	branco	GLOSA 2 ENGL	whitewash (wan)	GLOSA 3 PORT	GLOSS 3 ENGL	po	FALSE	PET	PWT	p o
+767	pʔ o ( - - - )	69	white	pʔo	SIO	branco	GLOSA 2 ENGL	whitewash (wan)	GLOSA 3 PORT	GLOSS 3 ENGL	pʔo	FALSE	PET	PWT	pʔ o
+768	b o ( - - i )	69	white	boi	TAN	branco	GLOSA 2 ENGL	whitewash (wan)	GLOSA 3 PORT	GLOSS 3 ENGL	boi	FALSE	PET	PWT	b o i
+769	b u ( - t i )	69	white	buti	TUK	branco	GLOSA 2 ENGL	whitewash (wan)	GLOSA 3 PORT	GLOSS 3 ENGL	buti	FALSE	PET	PWT	b u t i
+770	b u ( - t i )	69	white	buti	TUY	branco	GLOSA 2 ENGL	whitewash (wan)	GLOSA 3 PORT	GLOSS 3 ENGL	buti	FALSE	PET	PWT	b u t i
+771	b o ʔt a	69	white	boʔta	WAN	branco	GLOSA 2 ENGL	whitewash (wan)	GLOSA 3 PORT	GLOSS 3 ENGL	boʔta	FALSE	PET	PWT	b o ʔt a
+772	pʔ o	69	white	-	*PT	-	-	-	-	-	*pʔo-	TRUE	-	-	pʔ o
+773	m o - m o	70	toad sp.	momo	BAS	sapo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	momo	FALSE	PET	PWT	m o m o
+774	m o - m a	70	toad sp.	moma	DES	sapo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	moma	FALSE	PET	PWT	m o m a
+775	h o - h o	70	toad sp.	hoho	KOR	sapo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hoho	FALSE	PET	PWT	h o h o
+776	p o - p o	70	toad sp.	popo	KUB	sapo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	popo	FALSE	PET	PWT	p o p o
+777	h o - h o	70	toad sp.	hoho	SEK	sapo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hoho	FALSE	PET	PWT	h o h o
+778	m o ʔm o	70	toad sp.	moʔmo	TUK	sapo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	moʔmo	FALSE	PET	PWT	m o ʔm o
+779	w a ʔm u	70	toad sp.	waʔmu	WAN	sapo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	waʔmu	FALSE	PET	PWT	w a ʔm u
+780	pʔ o p a	70	toad sp.	-	*PT	-	-	-	-	-	*pʔopa	TRUE	-	-	pʔ o p a
+781	b o h e	71	break	bohe	BAS	quebrar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bohe	FALSE	PET	PWT	b o h e
+782	b o h e	71	break	bohe	DES	quebrar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bohe	FALSE	PET	PWT	b o h e
+783	h ũ h e	71	break	hũhe	KOR	quebrar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hũhe	FALSE	PET	PWT	h ũ h e
+784	p o p e	71	break	pope	KUB	quebrar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pope	FALSE	PET	PWT	p o p e
+785	h o - a	71	break	hoa	MAI	quebrar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hoa	FALSE	PET	PWT	h o a
+786	h o ʔ a	71	break	hoʔa	SEK	quebrar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hoʔa	FALSE	PET	PWT	h o ʔ a
+787	b o p e	71	break	bope	TUK	quebrar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bope	FALSE	PET	PWT	b o p e
+788	p a - a	71	break	paa	TUY	quebrar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	paa	FALSE	PET	PWT	p a a
+789	p o ʔ a	71	break	poʔa	WAN	quebrar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	poʔa	FALSE	PET	PWT	p o ʔ a
+790	pʔ o p e	71	break	-	*PT	-	-	-	-	-	*pʔope	TRUE	-	-	pʔ o p e
+791	m ũ c ã - - - -	72	urucum (achiote)	~buca	BAS	urucm	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~buca	FALSE	PET	PWT	m ũ c ã
+792	m ũ s ã - - - -	72	urucum (achiote)	~busa	DES	urucm	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~busa	FALSE	PET	PWT	m ũ s ã
+793	m ũ s ã - - - -	72	urucum (achiote)	~busa	KAR	urucm	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~busa	FALSE	PET	PWT	m ũ s ã
+794	p ũ s a - - - -	72	urucum (achiote)	pũsa	KOR	urucm	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pũsa	FALSE	PET	PWT	p ũ s a
+795	m ũ h ã - - - -	72	urucum (achiote)	~buha	KUB	urucm	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~buha	FALSE	PET	PWT	m ũ h ã
+796	m u hi a - - -	72	urucum (achiote)	muhia	KUE	urucm	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	muhia	FALSE	PET	PWT	m u hi a
+797	b o s a - - - -	72	urucum (achiote)	bosa	MAI	urucm	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bosa	FALSE	PET	PWT	b o s a
+798	pʔ õ s a - - - -	72	urucum (achiote)	pʔõsa	SEK	urucm	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pʔõsa	FALSE	PET	PWT	pʔ õ s a
+799	pʔ õ s a - - - -	72	urucum (achiote)	pʔõsa	SIO	urucm	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pʔõsa	FALSE	PET	PWT	pʔ õ s a
+800	m ũ h ã - - - -	72	urucum (achiote)	~buha	TAN	urucm	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~buha	FALSE	PET	PWT	m ũ h ã
+801	m õ s ã - - - -	72	urucum (achiote)	~bosa	TUK	urucm	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bosa	FALSE	PET	PWT	m õ s ã
+802	m ã s ĩ _ s õ a	72	urucum (achiote)	~basi sõa	WAN	urucm	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~basi_sõa	FALSE	PET	PWT	m ã s ĩ _ s õ a
+803	pʔ õ s a	72	urucum (achiote)	-	*PT	-	-	-	-	-	*pʔõsa	TRUE	-	-	pʔ õ s a
+804	b o - d e k a -	73	aracu fish	bodeka	BAS	aracu fish	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bodeka	FALSE	*pʔotʔika	PWT	b o d e k a
+805	b o - d e k a -	73	aracu fish	bodeka	DES	aracu fish	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bodeka	FALSE	*pʔotʔika	PWT	b o d e k a
+806	b o - t e k a -	73	aracu fish	boteka	KAR	aracu fish	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	boteka	FALSE	*pʔotʔika	PWT	b o t e k a
+807	b o - d i k a -	73	aracu fish	bodika	KUB	aracu fish	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bodika	FALSE	*pʔotʔika	PWT	b o d i k a
+808	p o - l e ki a	73	aracu fish	polekia	KUE	aracu fish	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	polekia	FALSE	*pʔotʔika	PWT	p o l e ki a
+809	b o - t a k a -	73	aracu fish	botaka	TAN	aracu fish	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	botaka	FALSE	*pʔotʔika	PWT	b o t a k a
+810	b o ʔt e a	73	aracu fish	boʔtea	TUK	aracu fish	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	boʔtea	FALSE	*pʔotʔika	PWT	b o ʔt e a
+811	b o ʔt e a	73	aracu fish	boʔtea	WAN	aracu fish	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	boʔtea	FALSE	*pʔotʔika	PWT	b o ʔt e a
+812	pʔ o t ʔ i k a	73	aracu fish	-	*PT	-	-	-	-	-	*pʔotʔika	TRUE	-	-	pʔ o t ʔ i k a
+813	m ĩ h ĩ	74	swell	~bihi	BAS	inchação	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bihi	FALSE	PET	PWT	m ĩ h ĩ
+814	b i h i	74	swell	bihi	DES	inchação	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bihi	FALSE	PET	PWT	b i h i
+815	h u h u	74	swell	huhu	MAI	inchação	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	huhu	FALSE	PET	PWT	h u h u
+816	h u h u	74	swell	huhu	SIO	inchação	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	huhu	FALSE	PET	PWT	h u h u
+817	p ĩ p i	74	swell	pĩpi	TAN	inchação	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pĩpi	FALSE	PET	PWT	p ĩ p i
+818	b i p i	74	swell	bipi	TUK	inchação	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bipi	FALSE	PET	PWT	b i p i
+819	b i p i	74	swell	bipi	TUY	inchação	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bipi	FALSE	PET	PWT	b i p i
+820	w i p i	74	swell	wipi	WAN	inchação	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wipi	FALSE	PET	PWT	w i p i
+821	pʔ u p i	74	swell	-	*PT	-	-	-	-	-	*pʔupi	TRUE	-	-	pʔ u p i
+822	h a k ɨ	75	father	hakɨ	BAS	pai	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hakɨ	FALSE	PET	PWT	h a k ɨ
+823	p a g ɨ	75	father	pagɨ	DES	pai	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pagɨ	FALSE	PET	PWT	p a g ɨ
+824	p a k ɨ	75	father	pakɨ	KAR	pai	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pakɨ	FALSE	PET	PWT	p a k ɨ
+825	h a kh ɨ	75	father	hakhɨ	KOR	pai	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hakhɨ	FALSE	PET	PWT	h a kh ɨ
+826	p a k ɨ	75	father	pakɨ	KUB	pai	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pakɨ	FALSE	PET	PWT	p a k ɨ
+827	h a k ɨ	75	father	hakɨ	KUE	pai	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hakɨ	FALSE	PET	PWT	h a k ɨ
+828	h a k ɨ	75	father	hakɨ	MAI	pai	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hakɨ	FALSE	PET	PWT	h a k ɨ
+829	h a k ɨ	75	father	hakɨ	SEK	pai	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hakɨ	FALSE	PET	PWT	h a k ɨ
+830	h a k ɨ	75	father	hakɨ	SIO	pai	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hakɨ	FALSE	PET	PWT	h a k ɨ
+831	p a k i	75	father	paki	TAN	pai	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	paki	FALSE	PET	PWT	p a k i
+832	p a k ɨ	75	father	pakɨ	TUK	pai	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pakɨ	FALSE	PET	PWT	p a k ɨ
+833	p a k ɨ	75	father	pakɨ	TUY	pai	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pakɨ	FALSE	PET	PWT	p a k ɨ
+834	ph ɨ k ɨ	75	father	phɨkɨ	WAN	pai	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	phɨkɨ	FALSE	PET	PWT	ph ɨ k ɨ
+835	p a k ɨ	75	father	-	*PT	-	-	-	-	-	*pa-kɨ	FALSE	-	-	p a k ɨ
+836	h a - i	76	big	hai	BAS	grande	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hai	FALSE	PET	PWT	h a i
+837	p a - i	76	big	pai	KAR	grande	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pai	FALSE	PET	PWT	p a i
+838	h a - i	76	big	hai	MAI	grande	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hai	FALSE	PET	PWT	h a i
+839	p a h i	76	big	pahi	PIR	grande	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pahi	FALSE	PET	PWT	p a h i
+840	h a - i	76	big	hai	SEK	grande	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hai	FALSE	PET	PWT	h a i
+841	h a - i	76	big	hai	SIO	grande	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hai	FALSE	PET	PWT	h a i
+842	p a h i	76	big	pahi	TUK	grande	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pahi	FALSE	PET	PWT	p a h i
+843	p a - i	76	big	pai	TUY	grande	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pai	FALSE	PET	PWT	p a i
+844	p a h i	76	big	-	*PT	-	-	-	-	-	*pahi	FALSE	-	-	p a h i
+845	h ã m õ	77	armadillo	~habo	BAS	tatu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~habo	FALSE	PET	PWT	h ã m õ
+846	p ã m õ	77	armadillo	~pabo	DES	tatu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~pabo	FALSE	PET	PWT	p ã m õ
+847	p ã m õ	77	armadillo	~pabo	KAR	tatu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~pabo	FALSE	PET	PWT	p ã m õ
+848	h a m u	77	armadillo	hamu	KOR	tatu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hamu	FALSE	PET	PWT	h a m u
+849	p ã m ũ	77	armadillo	~pabu	KUB	tatu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~pabu	FALSE	PET	PWT	p ã m ũ
+850	h a m u	77	armadillo	hamu	KUE	tatu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hamu	FALSE	PET	PWT	h a m u
+851	p ã m õ	77	armadillo	~pabo	PIR	tatu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~pabo	FALSE	PET	PWT	p ã m õ
+852	h ã m o	77	armadillo	hãmo	SEK	tatu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hãmo	FALSE	PET	PWT	h ã m o
+853	h ã m u	77	armadillo	hãmu	SIO	tatu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hãmu	FALSE	PET	PWT	h ã m u
+854	p ã m ũ	77	armadillo	~pabu	TAN	tatu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~pabu	FALSE	PET	PWT	p ã m ũ
+855	p ã m õ	77	armadillo	~pabo	TUK	tatu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~pabo	FALSE	PET	PWT	p ã m õ
+856	p ã m õ	77	armadillo	~pabo	WAN	tatu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~pabo	FALSE	PET	PWT	p ã m õ
+857	p ã m u	77	armadillo	-	*PT	-	-	-	-	-	*pãmu	FALSE	-	-	p ã m u
+858	h a - j a	78	float	haja	BAS	flutuar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	haja	FALSE	PET	PWT	h a j a
+859	p á - j a	78	float	pája	DES	flutuar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pája	FALSE	PET	PWT	p á j a
+860	p a - s a	78	float	pasa	KAR	flutuar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pasa	FALSE	PET	PWT	p a s a
+861	p a ʔs a	78	float	paʔsa	TUK	flutuar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	paʔsa	FALSE	PET	PWT	p a ʔs a
+862	p a - s a	78	float	pasa	TUY	flutuar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pasa	FALSE	PET	PWT	p a s a
+863	p a ʔs a	78	float	paʔsa	WAN	flutuar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	paʔsa	FALSE	PET	PWT	p a ʔs a
+864	p a ʔj a	78	float	-	*PT	-	-	-	-	-	*paʔja	TRUE	-	-	p a ʔj a
+865	h e - a	79	fire	hea	BAS	fogo	firewood	lenha	GLOSA 3 PORT	GLOSS 3 ENGL	hea	FALSE	PET	PWT	h e a
+866	p e - a	79	fire	pea	DES	fogo	firewood	lenha	GLOSA 3 PORT	GLOSS 3 ENGL	pea	FALSE	PET	PWT	p e a
+867	p e - e	79	fire	pee	KAR	fogo	firewood	lenha	GLOSA 3 PORT	GLOSS 3 ENGL	pee	FALSE	PET	PWT	p e e
+868	h ẽ kh a	79	fire	hẽkha	KOR	fogo	firewood	lenha	GLOSA 3 PORT	GLOSS 3 ENGL	hẽkha	FALSE	PET	PWT	h ẽ kh a
+869	p e k a	79	fire	peka	KUB	fogo	firewood	lenha	GLOSA 3 PORT	GLOSS 3 ENGL	peka	FALSE	PET	PWT	p e k a
+870	h e ki a	79	fire	hekia	KUE	fogo	firewood	lenha	GLOSA 3 PORT	GLOSS 3 ENGL	hekia	FALSE	PET	PWT	h e ki a
+871	h e k a	79	fire	heka	MAI	fogo	firewood	lenha	GLOSA 3 PORT	GLOSS 3 ENGL	heka	FALSE	PET	PWT	h e k a
+872	h e k a	79	fire	heka	SEK	fogo	firewood	lenha	GLOSA 3 PORT	GLOSS 3 ENGL	heka	FALSE	PET	PWT	h e k a
+873	h ẽ k a	79	fire	hẽka	SIO	fogo	firewood	lenha	GLOSA 3 PORT	GLOSS 3 ENGL	hẽka	FALSE	PET	PWT	h ẽ k a
+874	p e k a	79	fire	peka	TAN	fogo	firewood	lenha	GLOSA 3 PORT	GLOSS 3 ENGL	peka	FALSE	PET	PWT	p e k a
+875	p e k a	79	fire	peka	TUK	fogo	firewood	lenha	GLOSA 3 PORT	GLOSS 3 ENGL	peka	FALSE	PET	PWT	p e k a
+876	p e k a	79	fire	peka	TUY	fogo	firewood	lenha	GLOSA 3 PORT	GLOSS 3 ENGL	peka	FALSE	PET	PWT	p e k a
+877	ph i t∫ a	79	fire	phit∫a	WAN	fogo	firewood	lenha	GLOSA 3 PORT	GLOSS 3 ENGL	phit∫a	FALSE	PET	PWT	ph i t∫ a
+878	p e k a	79	fire	-	*PT	-	-	-	-	-	*peka	FALSE	-	-	p e k a
+879	h e - d i -	80	end	hedi	BAS	terminar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hedi	FALSE	PET	PWT	h e d i
+880	p e ʔd e a	80	end	peʔdea	DES	terminar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	peʔdea	FALSE	PET	PWT	p e ʔd e a
+881	p e - t i -	80	end	peti	KUE	terminar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	peti	FALSE	PET	PWT	p e t i
+882	p e ʔt i	80	end	peʔti	TUK	terminar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	peʔti	FALSE	PET	PWT	p e ʔt i
+883	p i ʔt i	80	end	piʔti	WAN	terminar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	piʔti	FALSE	PET	PWT	p i ʔt i
+884	p e tʔ i	80	end	-	*PT	-	-	-	-	-	*petʔi	TRUE	-	-	p e tʔ i
+885	h - e t a - - -	81	tocandira ant	heta	BAS	tocandira	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	heta	FALSE	PET	PWT	h e t a
+886	p - e d a - - -	81	tocandira ant	peda	DES	tocandira	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	peda	FALSE	PET	PWT	p e d a
+887	p - e t a - - -	81	tocandira ant	peta	KAR	tocandira	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	peta	FALSE	PET	PWT	p e t a
+888	p i a d a - - -	81	tocandira ant	piada	KUB	tocandira	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	piada	FALSE	PET	PWT	p i a d a
+889	h - a t a - - -	81	tocandira ant	hata	KUE	tocandira	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hata	FALSE	PET	PWT	h a t a
+890	p - a t a	81	tocandira ant	patajah	TAN	tocandira	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	patajah	FALSE	PET	PWT	p a t a
+891	p - e t a - - -	81	tocandira ant	peta	TUK	tocandira	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	peta	FALSE	PET	PWT	p e t a
+892	ph - i t a - - -	81	tocandira ant	phita	WAN	tocandira	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	phita	FALSE	PET	PWT	ph i t a
+893	p i a t a	81	tocandira ant	-	*PT	-	-	-	-	-	*piata	TRUE	-	-	p i a t a
+894	h ĩ k õ	82	palm-weevil	~hiko	BAS	muxiva	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~hiko	FALSE	PET	PWT	h ĩ k õ
+895	- p ĩ - ŋ ũ	82	palm-weevil	~pigu	DES	muxiva	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~pigu	FALSE	PET	PWT	p ĩ ŋ ũ
+896	h ĩ ʔkh o	82	palm-weevil	hĩʔkho	KOR	muxiva	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hĩʔkho	FALSE	PET	PWT	h ĩ ʔkh o
+897	- p ĩ - k õ	82	palm-weevil	~piko	KUB	muxiva	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~piko	FALSE	PET	PWT	p ĩ k õ
+898	- h ɨ̃ - k o	82	palm-weevil	hɨ̃ko	MAI	muxiva	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hɨ̃ko	FALSE	PET	PWT	h ɨ̃ k o
+899	- h ĩ - k o	82	palm-weevil	hĩko	SEK	muxiva	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hĩko	FALSE	PET	PWT	h ĩ k o
+900	- h ĩ - k o	82	palm-weevil	hĩko	SIO	muxiva	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hĩko	FALSE	PET	PWT	h ĩ k o
+901	- p ĩ - k õ	82	palm-weevil	~piko	TAN	muxiva	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~piko	FALSE	PET	PWT	p ĩ k õ
+902	- p ĩ - k õ	82	palm-weevil	~piko	TUK	muxiva	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~piko	FALSE	PET	PWT	p ĩ k õ
+903	_ ph i - t∫ o	82	palm-weevil	~ phit∫o	WAN	muxiva	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~_phit∫o	FALSE	PET	PWT	_ ph i t∫ o
+904	p ĩ k o	82	palm-weevil	-	*PT	-	-	-	-	-	*pĩko	FALSE	-	-	p ĩ k o
+905	h ɨ̃ th ɨ	83	handpalm	hɨ̃thɨ	KOR	palma da mão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hɨ̃thɨ	FALSE	PET	PWT	h ɨ̃ th ɨ
+906	p ɨ d ɨ	83	handpalm	pɨdɨ	KUB	palma da mão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pɨdɨ	FALSE	PET	PWT	p ɨ d ɨ
+907	h ɨ̃ t ɨ	83	handpalm	hɨ̃tɨ	MAI	palma da mão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hɨ̃tɨ	FALSE	PET	PWT	h ɨ̃ t ɨ
+908	h ɨ̃ t ɨ	83	handpalm	hɨ̃tɨ	SEK	palma da mão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hɨ̃tɨ	FALSE	PET	PWT	h ɨ̃ t ɨ
+909	- ɨ̃ t ɨ	83	handpalm	ɨ̃tɨ	SIO	palma da mão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨ̃tɨ	FALSE	PET	PWT	ɨ̃ t ɨ
+910	p i t a	83	handpalm	pita	TAN	palma da mão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pita	FALSE	PET	PWT	p i t a
+911	p ɨ t ɨ	83	handpalm	-	*PT	-	-	-	-	-	*pɨtɨ	FALSE	-	-	p ɨ t ɨ
+912	h o t a	84	thorn	hota	BAS	espinho	fishhook (tan)	anzol (tan)	GLOSA 3 PORT	GLOSS 3 ENGL	hota	FALSE	*pota	PWT	h o t a
+913	p o d a	84	thorn	poda	DES	espinho	fishhook (tan)	anzol (tan)	GLOSA 3 PORT	GLOSS 3 ENGL	poda	FALSE	*pota	PWT	p o d a
+914	p o t a	84	thorn	pota	KAR	espinho	fishhook (tan)	anzol (tan)	GLOSA 3 PORT	GLOSS 3 ENGL	pota	FALSE	*pota	PWT	p o t a
+915	ɸ o t a	84	thorn	ɸota	TAN	espinho	fishhook (tan)	anzol (tan)	GLOSA 3 PORT	GLOSS 3 ENGL	ɸota	FALSE	*pota	PWT	ɸ o t a
+916	p o t a	84	thorn	pota	TUK	espinho	fishhook (tan)	anzol (tan)	GLOSA 3 PORT	GLOSS 3 ENGL	pota	FALSE	*pota	PWT	p o t a
+917	ph o t a	84	thorn	phota	WAN	espinho	fishhook (tan)	anzol (tan)	GLOSA 3 PORT	GLOSS 3 ENGL	phota	FALSE	*pota	PWT	ph o t a
+918	p o t a	84	thorn	-	*PT	-	-	-	-	-	*pota	FALSE	-	-	p o t a
+919	h u t i	85	blow	huti	BAS	assoprar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	huti	FALSE	PET	PWT	h u t i
+920	p u d i	85	blow	pudi	DES	assoprar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pudi	FALSE	PET	PWT	p u d i
+921	p u t i	85	blow	puti	KAR	assoprar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	puti	FALSE	PET	PWT	p u t i
+922	h u + i	85	blow	hu-i	KOR	assoprar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hu+i	FALSE	PET	PWT	h u + i
+923	p u - -	85	blow	pu	KUB	assoprar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	pu	FALSE	PET	PWT	p u
+924	h ú + i	85	blow	hú-i	MAI	assoprar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hú+i	FALSE	PET	PWT	h ú + i
+925	h u - -	85	blow	hu	SEK	assoprar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hu	FALSE	PET	PWT	h u
+926	h u + i	85	blow	hu-i	SIO	assoprar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hu+i	TRUE	PET	PWT	h u + i
+927	p u t i	85	blow	puti	TUK	assoprar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	puti	FALSE	PET	PWT	p u t i
+928	p u t i	85	blow	puti	WAN	assoprar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	puti	FALSE	PET	PWT	p u t i
+929	p u r i	85	blow	puri	YUP	assoprar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	puri	FALSE	PET	PWT	p u r i
+930	p u	85	blow	-	*PT	-	-	-	-	-	*pu-	FALSE	-	-	p u
+931	c ẽ m ẽ	86	paca	~cebe	BAS	paca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~cebe	FALSE	PET	PWT	c ẽ m ẽ
+932	s ẽ m ẽ	86	paca	~sebe	DES	paca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~sebe	FALSE	PET	PWT	s ẽ m ẽ
+933	h ẽ m ẽ	86	paca	~hebe	KAR	paca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~hebe	FALSE	PET	PWT	h ẽ m ẽ
+934	s e m e	86	paca	seme	KOR	paca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	seme	FALSE	PET	PWT	s e m e
+935	h ẽ m ẽ	86	paca	~hebe	KUB	paca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~hebe	FALSE	PET	PWT	h ẽ m ẽ
+936	s e m e	86	paca	seme	MAI	paca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	seme	FALSE	PET	PWT	s e m e
+937	s e m e	86	paca	seme	SEK	paca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	seme	FALSE	PET	PWT	s e m e
+938	s e m e	86	paca	seme	SIO	paca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	seme	FALSE	PET	PWT	s e m e
+939	h ẽ m ẽ	86	paca	~hebe	TAN	paca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~hebe	FALSE	PET	PWT	h ẽ m ẽ
+940	s ẽ m ẽ	86	paca	~sebe	TUK	paca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~sebe	FALSE	PET	PWT	s ẽ m ẽ
+941	s ã m ã	86	paca	~saba	WAN	paca	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~saba	FALSE	PET	PWT	s ã m ã
+942	e m e	86	paca	-	*PT	-	-	-	-	-	*seme	FALSE	-	-	e m e
+943	( - - - ) c ĩ - ŋ ẽ	87	rub	~cige	BAS	esfregar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~cige	FALSE	*sĩkʔe	PWT	c ĩ ŋ ẽ
+944	h ĩ k ẽ	87	rub	~hike	KAR	esfregar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~hike	FALSE	*sĩkʔe	PWT	h ĩ k ẽ
+945	( - - - ) h ĩ - h ũ	87	rub	hĩhũ	KUB	esfregar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hĩhũ	FALSE	*sĩkʔe	PWT	h ĩ h ũ
+946	s ã ʔk ẽ	87	rub	~saʔke	TUK	esfregar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~saʔke	FALSE	*sĩkʔe	PWT	s ã ʔk ẽ
+947	t u u _ s ã k ẽ	87	rub	tuu ~sake	TUY	esfregar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	tuu_~sake	FALSE	*sĩkʔe	PWT	t u u _ s ã k ẽ
+948	th u _ s a ʔk a	87	rub	thu saʔka	WAN	esfregar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	thu_saʔka	FALSE	*sĩkʔe	PWT	th u _ s a ʔk a
+949	ĩ kʔ e	87	rub	-	*PT	-	-	-	-	-	*sĩkʔe	TRUE	-	-	ĩ kʔ e
+950	( - - - - - ) - i c i ( k a m u - - )	88	monkey sp.	icikamu	BAS	macaco	coati (mai)	coati (mai)	GLOSA 3 PORT	GLOSS 3 ENGL	icikamu	FALSE	PET	PWT	i c i k a m u
+951	( - - - - - ) s i i - ( - - - - - - )	88	monkey sp.	~sii	KAR	macaco	coati (mai)	coati (mai)	GLOSA 3 PORT	GLOSS 3 ENGL	~sii	FALSE	PET	PWT	s i i
+952	( - - - - - ) s i s i ( k o ʔr o r o )	88	monkey sp.	sisikoʔroro	KOR	macaco	coati (mai)	coati (mai)	GLOSA 3 PORT	GLOSS 3 ENGL	sisikoʔroro	FALSE	PET	PWT	s i s i k o ʔr o r o
+953	( - - - - - ) h i h i ( j o - - - - )	88	monkey sp.	hihijo	KUB	macaco	coati (mai)	coati (mai)	GLOSA 3 PORT	GLOSS 3 ENGL	hihijo	FALSE	PET	PWT	h i h i j o
+954	( - - - - - ) t∫ i t∫ i ( - - - - - - )	88	monkey sp.	t∫it∫i	MAI	macaco	coati (mai)	coati (mai)	GLOSA 3 PORT	GLOSS 3 ENGL	t∫it∫i	FALSE	PET	PWT	t∫ i t∫ i
+955	( - - - - - ) s i - s i ( - - - - - - - )	88	monkey sp.	sisi	SIO	macaco	coati (mai)	coati (mai)	GLOSA 3 PORT	GLOSS 3 ENGL	sisi	FALSE	PET	PWT	s i s i
+956	( m ẽ n ẽ _ ) ĩ ʔs ĩ - ( - - - - - - )	88	monkey sp.	~bede- ~iʔsi	WAN	macaco	coati (mai)	coati (mai)	GLOSA 3 PORT	GLOSS 3 ENGL	~bede+_~iʔsi	FALSE	PET	PWT	m ẽ n ẽ + _ ĩ ʔs ĩ
+957	( - - - - - ) s i s i ( - - - - - - )	88	monkey sp.	-	*PT	-	-	-	-	-	*sisi	FALSE	-	-	i s i
+958	c e - c o - -	89	to smoke meat	ceco	BAS	moquear	to set a fire	fazer fogo	GLOSA 3 PORT	GLOSS 3 ENGL	ceco	FALSE	PET	PWT	c e c o
+959	s i - j u - -	89	to smoke meat	siju	DES	moquear	to set a fire	fazer fogo	GLOSA 3 PORT	GLOSS 3 ENGL	siju	FALSE	PET	PWT	s i j u
+960	s i - s o - -	89	to smoke meat	siso	KAR	moquear	to set a fire	fazer fogo	GLOSA 3 PORT	GLOSS 3 ENGL	siso	FALSE	PET	PWT	s i s o
+961	s ɨ - j o - -	89	to smoke meat	sɨjo	KOR	moquear	to set a fire	fazer fogo	GLOSA 3 PORT	GLOSS 3 ENGL	sɨjo	FALSE	PET	PWT	s ɨ j o
+962	h ɨ - j o w a	89	to smoke meat	hɨjowa	KUB	moquear	to set a fire	fazer fogo	GLOSA 3 PORT	GLOSS 3 ENGL	hɨjowa	FALSE	PET	PWT	h ɨ j o w a
+963	- ã - s ɨ - -	89	to smoke meat	ãsɨ	KUE	moquear	to set a fire	fazer fogo	GLOSA 3 PORT	GLOSS 3 ENGL	ãsɨ	FALSE	PET	PWT	ã s ɨ
+964	s ɨ - j o - -	89	to smoke meat	sɨjo	MAI	moquear	to set a fire	fazer fogo	GLOSA 3 PORT	GLOSS 3 ENGL	sɨjo	FALSE	PET	PWT	s ɨ j o
+965	s ɨ - j o - -	89	to smoke meat	sɨjo	SEK	moquear	to set a fire	fazer fogo	GLOSA 3 PORT	GLOSS 3 ENGL	sɨjo	FALSE	PET	PWT	s ɨ j o
+966	s ẽ - j o - -	89	to smoke meat	sẽjo	SIO	moquear	to set a fire	fazer fogo	GLOSA 3 PORT	GLOSS 3 ENGL	sẽjo	FALSE	PET	PWT	s ẽ j o
+967	s ɨ ʔs o	89	to smoke meat	sɨʔso	TUK	moquear	to set a fire	fazer fogo	GLOSA 3 PORT	GLOSS 3 ENGL	sɨʔso	FALSE	PET	PWT	s ɨ ʔs o
+968	s ɨ - s o - -	89	to smoke meat	sɨso	WAN	moquear	to set a fire	fazer fogo	GLOSA 3 PORT	GLOSS 3 ENGL	sɨso	FALSE	PET	PWT	s ɨ s o
+969	s i - j u - -	89	to smoke meat	siju	YUP	moquear	to set a fire	fazer fogo	GLOSA 3 PORT	GLOSS 3 ENGL	siju	FALSE	PET	PWT	s i j u
+970	ɨ ʔj o	89	to smoke meat	-	*PT	-	-	-	-	-	*sɨʔjo	TRUE	-	-	ɨ ʔj o
+971	s ũ ŋ ũ	90	back	~sugu	DES	costas	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~sugu	FALSE	PET	PWT	s ũ ŋ ũ
+972	h õ k ɨ̃	90	back	~hokɨ	KAR	costas	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~hokɨ	FALSE	PET	PWT	h õ k ɨ̃
+973	s õ kh ɨ	90	back	sõkhɨ	KOR	costas	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sõkhɨ	FALSE	PET	PWT	s õ kh ɨ
+974	s ũ k ũ	90	back	~suku	TUK	costas	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~suku	FALSE	PET	PWT	s ũ k ũ
+975	s u k u	90	back	suku	TUY	costas	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	suku	FALSE	PET	PWT	s u k u
+976	s ũ k ũ	90	back	~suku	WAN	costas	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~suku	FALSE	PET	PWT	s ũ k ũ
+977	õ k ɨ	90	back	-	*PT	-	-	-	-	-	*sõkɨ	FALSE	-	-	õ k ɨ
+978	c o t ɨ	91	pot	cotɨ	BAS	pote	clay	barro	cerâmica	clay	cotɨ	FALSE	PET	PWT	c o t ɨ
+979	s o d o	91	pot	sodo	DES	pote	clay	barro	cerâmica	clay	sodo	FALSE	PET	PWT	s o d o
+980	h o t ɨ	91	pot	hotɨ	KAR	pote	clay	barro	cerâmica	clay	hotɨ	FALSE	PET	PWT	h o t ɨ
+981	th o th o	91	pot	thotho	KOR	pote	clay	barro	cerâmica	clay	thotho	FALSE	PET	PWT	th o th o
+982	h o d o	91	pot	hodo	KUB	pote	clay	barro	cerâmica	clay	hodo	FALSE	PET	PWT	h o d o
+983	t o t o	91	pot	toto	MAI	pote	clay	barro	cerâmica	clay	toto	FALSE	PET	PWT	t o t o
+984	s o t o	91	pot	soto	SEK	pote	clay	barro	cerâmica	clay	soto	FALSE	PET	PWT	s o t o
+985	s o t o	91	pot	soto	SIO	pote	clay	barro	cerâmica	clay	soto	FALSE	PET	PWT	s o t o
+986	h o t o	91	pot	hoto	TAN	pote	clay	barro	cerâmica	clay	hoto	FALSE	PET	PWT	h o t o
+987	s ɨ t ɨ	91	pot	sɨtɨ	TUK	pote	clay	barro	cerâmica	clay	sɨtɨ	FALSE	PET	PWT	s ɨ t ɨ
+988	s o t ɨ	91	pot	sotɨ	TUY	pote	clay	barro	cerâmica	clay	sotɨ	FALSE	PET	PWT	s o t ɨ
+989	s i t u	91	pot	situ	WAN	pote	clay	barro	cerâmica	clay	situ	FALSE	PET	PWT	s i t u
+990	o t	91	pot	-	*PT	-	-	-	-	-	*sot-	FALSE	-	-	o t
+991	c ũ - ã	92	red	~cua	BAS	vermelho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~cua	FALSE	*sõʔa	PWT	c ũ ã
+992	h õ - a	92	red	hõa	KAR	vermelho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hõa	FALSE	*sõʔa	PWT	h õ a
+993	h ũ ã	92	red	~hua	KUB	vermelho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~hua	FALSE	*sõʔa	PWT	h ũ ã
+994	h ũ ã	92	red	~hua	TAN	vermelho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~hua	TRUE	*sõʔa	PWT	h ũ ã
+995	s õ ʔ ã	92	red	~soʔa	TUK	vermelho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~soʔa	FALSE	*sõʔa	PWT	s õ ʔ ã
+996	s õ - ã	92	red	~soa	TUY	vermelho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~soa	FALSE	*sõʔa	PWT	s õ ã
+997	s õ ʔ ã	92	red	~soʔa	WAN	vermelho	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~soʔa	FALSE	*sõʔa	PWT	s õ ʔ ã
+998	õ ʔ a	92	red	-	*PT	-	-	-	-	-	*sõʔa	FALSE	-	-	õ ʔ a
+999	n ũ - ŋ ũ	93	root	~dugu	DES	raiz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dugu	FALSE	*tʔɨ̃kʔo	PWT	n ũ ŋ ũ
+1000	n ɨ̃ ʔk õ	93	root	~dɨʔko	KAR	raiz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dɨʔko	FALSE	*tʔɨ̃kʔo	PWT	n ɨ̃ ʔk õ
+1001	n ɨ̃ - - õ	93	root	~dɨo	KUB	raiz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dɨo	FALSE	*tʔɨ̃kʔo	PWT	n ɨ̃ õ
+1002	r̃ ĩ - k õ	93	root	~riko	TAN	raiz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~riko	FALSE	*tʔɨ̃kʔo	PWT	r̃ ĩ k õ
+1003	n ɨ̃ ʔk õ	93	root	~dɨʔko	TUK	raiz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dɨʔko	FALSE	*tʔɨ̃kʔo	PWT	n ɨ̃ ʔk õ
+1004	n ɨ̃ - k õ	93	root	~dɨko	TUY	raiz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dɨko	FALSE	*tʔɨ̃kʔo	PWT	n ɨ̃ k õ
+1005	n ɨ̃ ʔk õ	93	root	~dɨʔko	WAN	raiz	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dɨʔko	FALSE	*tʔɨ̃kʔo	PWT	n ɨ̃ ʔk õ
+1006	tʔ ɨ̃ k ʔ o	93	root	-	*PT	-	-	-	-	-	*tʔɨ̃kʔo	TRUE	-	-	tʔ ɨ̃ k ʔ o
+1007	r̃ ɨ̃ k ɨ̃	94	heavy	~rɨkɨ	BAS	pesado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~rɨkɨ	FALSE	PET	PWT	r̃ ɨ̃ k ɨ̃
+1008	n ɨ̃ k ɨ̃	94	heavy	~nɨkɨ	DES	pesado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~nɨkɨ	FALSE	PET	PWT	n ɨ̃ k ɨ̃
+1009	n ɨ̃ k ɨ̃	94	heavy	~dɨkɨ	KAR	pesado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dɨkɨ	FALSE	PET	PWT	n ɨ̃ k ɨ̃
+1010	r ɨ kh ɨ	94	heavy	rɨkhɨ	KOR	pesado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	rɨkhɨ	FALSE	PET	PWT	r ɨ kh ɨ
+1011	d ɨ k ɨ	94	heavy	dɨkɨ	KUB	pesado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dɨkɨ	FALSE	PET	PWT	d ɨ k ɨ
+1012	d ɨ k ɨ	94	heavy	dɨkɨ	MAI	pesado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dɨkɨ	FALSE	PET	PWT	d ɨ k ɨ
+1013	d ɨ k ɨ	94	heavy	dɨkɨ	SEK	pesado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dɨkɨ	FALSE	PET	PWT	d ɨ k ɨ
+1014	d ɨ k ɨ	94	heavy	dɨkɨ	SIO	pesado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dɨkɨ	FALSE	PET	PWT	d ɨ k ɨ
+1015	r̃ ĩ k ĩ	94	heavy	~riki	TAN	pesado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~riki	FALSE	PET	PWT	r̃ ĩ k ĩ
+1016	n ɨ̃ k ɨ̃	94	heavy	~dɨkɨ	TUK	pesado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dɨkɨ	FALSE	PET	PWT	n ɨ̃ k ɨ̃
+1017	n ɨ̃ k ɨ̃	94	heavy	~dɨkɨ	TUY	pesado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dɨkɨ	FALSE	PET	PWT	n ɨ̃ k ɨ̃
+1018	n ɨ̃ k ɨ̃	94	heavy	~dɨkɨ	WAN	pesado	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dɨkɨ	FALSE	PET	PWT	n ɨ̃ k ɨ̃
+1019	tʔ ɨ k k ɨ	94	heavy	-	*PT	-	-	-	-	-	*tʔɨkkɨ	TRUE	-	-	tʔ ɨ k k ɨ
+1020	n ɨ̃ m õ	95	wife	~dɨbo	KAR	esposa	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dɨbo	FALSE	PET	PWT	n ɨ̃ m õ
+1021	r ɨ h o	95	wife	rɨho	KOR	esposa	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	rɨho	FALSE	PET	PWT	r ɨ h o
+1022	n ɨ h o	95	wife	nɨho	MAI	esposa	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	nɨho	FALSE	PET	PWT	n ɨ h o
+1023	d ɨ h o	95	wife	dɨho	SEK	esposa	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dɨho	FALSE	PET	PWT	d ɨ h o
+1024	d ɨ̃ h o	95	wife	dɨ̃ho	SIO	esposa	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dɨ̃ho	FALSE	PET	PWT	d ɨ̃ h o
+1025	r̃ ũ m ũ	95	wife	~rubu	TAN	esposa	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~rubu	FALSE	PET	PWT	r̃ ũ m ũ
+1026	n ɨ̃ m õ	95	wife	~dɨbo	TUK	esposa	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dɨbo	FALSE	PET	PWT	n ɨ̃ m õ
+1027	n ɨ̃ m õ	95	wife	~dɨbo	TUY	esposa	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dɨbo	FALSE	PET	PWT	n ɨ̃ m õ
+1028	n ã m õ	95	wife	~dabo	WAN	esposa	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dabo	FALSE	PET	PWT	n ã m õ
+1029	tʔ ɨ̃ p o	95	wife	-	*PT	-	-	-	-	-	*tʔɨ̃po	TRUE	-	-	tʔ ɨ̃ p o
+1030	r u - t e	96	cut	rute	BAS	cortar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	rute	FALSE	PET	PWT	r u t e
+1031	r u ʔth e	96	cut	ruʔthe	KOR	cortar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ruʔthe	FALSE	PET	PWT	r u ʔth e
+1032	j ɨ - - i	96	cut	jɨi	MAI	cortar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨi	FALSE	PET	PWT	j ɨ i
+1033	t ɨ̃ - t e	96	cut	tɨ̃te	SIO	cortar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	tɨ̃te	FALSE	PET	PWT	t ɨ̃ t e
+1034	d ɨ - t e	96	cut	dɨte	TUK	cortar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dɨte	FALSE	PET	PWT	d ɨ t e
+1035	d ɨ - t e	96	cut	dɨte	WAN	cortar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dɨte	FALSE	PET	PWT	d ɨ t e
+1036	tʔ ɨ t t e	96	cut	-	*PT	-	-	-	-	-	*tʔɨtte	TRUE	-	-	tʔ ɨ t t e
+1037	r o - e	97	traira fish	roe	BAS	traíra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	roe	FALSE	PET	PWT	r o e
+1038	d o - e	97	traira fish	doe	DES	traíra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	doe	FALSE	PET	PWT	d o e
+1039	r o s e	97	traira fish	rose	KAR	traíra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	rose	FALSE	PET	PWT	r o s e
+1040	r o j e	97	traira fish	roje	KOR	traíra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	roje	FALSE	PET	PWT	r o j e
+1041	d o j e	97	traira fish	doje	KUB	traíra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	doje	FALSE	PET	PWT	d o j e
+1042	d o j e	97	traira fish	doje	SEK	traíra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	doje	FALSE	PET	PWT	d o j e
+1043	r o j e	97	traira fish	roje	TAN	traíra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	roje	FALSE	PET	PWT	r o j e
+1044	d o - e	97	traira fish	doe	TUK	traíra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	doe	FALSE	PET	PWT	d o e
+1045	tʔ o j e	97	traira fish	-	*PT	-	-	-	-	-	*tʔoje	TRUE	-	-	tʔ o j e
+1046	r̃ õ m ĩ - õ	98	woman	~robio	BAS	mulher	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~robio	FALSE	PET	PWT	r̃ õ m ĩ õ
+1047	n õ m ẽ - õ	98	woman	~dobeo	DES	mulher	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dobeo	FALSE	PET	PWT	n õ m ẽ õ
+1048	r̃ õ m ĩ - õ	98	woman	~robio	KAR	mulher	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~robio	FALSE	PET	PWT	r̃ õ m ĩ õ
+1049	r o m i - o	98	woman	romio	KOR	mulher	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	romio	FALSE	PET	PWT	r o m i o
+1050	n õ m ĩ - -	98	woman	~dobi	KUB	mulher	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dobi	FALSE	PET	PWT	n õ m ĩ
+1051	n o m i - o	98	woman	nomio	MAI	mulher	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	nomio	FALSE	PET	PWT	n o m i o
+1052	d õ m i - o	98	woman	dõmio	SEK	mulher	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dõmio	FALSE	PET	PWT	d õ m i o
+1053	d o m i - -	98	woman	domi	SIO	mulher	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	domi	FALSE	PET	PWT	d o m i
+1054	r̃ õ m õ - -	98	woman	~robo	TAN	mulher	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~robo	FALSE	PET	PWT	r̃ õ m õ
+1055	n ũ m ĩ - õ	98	woman	~dubio	TUK	mulher	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dubio	FALSE	PET	PWT	n ũ m ĩ õ
+1056	n ũ m ĩ - õ	98	woman	~dubio	TUY	mulher	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dubio	FALSE	PET	PWT	n ũ m ĩ õ
+1057	n ũ m ĩ n õ	98	woman	~dubido	WAN	mulher	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dubido	FALSE	PET	PWT	n ũ m ĩ n õ
+1058	tʔ õ m i	98	woman	-	*PT	-	-	-	-	-	*tʔõmi-	TRUE	-	-	tʔ õ m i
+1059	c i o r - o - -	99	dove	cioro	BAS	pomba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	cioro	FALSE	PET	PWT	c i o r o
+1060	s i ʔw i	99	dove	siʔwi	KOR	pomba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	siʔwi	FALSE	PET	PWT	s i ʔw i
+1061	h u - d - e - -	99	dove	hude	KUB	pomba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hude	FALSE	PET	PWT	h u d e
+1062	s ɨ - n - i - -	99	dove	sɨni	MAI	pomba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sɨni	FALSE	PET	PWT	s ɨ n i
+1063	s ɨ - r - a - -	99	dove	sɨra	SEK	pomba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sɨra	FALSE	PET	PWT	s ɨ r a
+1064	t∫ i ʔw i	99	dove	t∫iʔwi	SIO	pomba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	t∫iʔwi	TRUE	PET	PWT	t∫ i ʔw i
+1065	s i - r - i - -	99	dove	siri	TUK	pomba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	siri	FALSE	PET	PWT	s i r i
+1066	s i - r - i p i	99	dove	siripi	WAN	pomba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	siripi	FALSE	PET	PWT	s i r i p i
+1067	t ∫̃ ɨ	99	dove	-	*PT	-	-	-	-	-	*t∫̃ɨ-	FALSE	-	-	t ∫̃ ɨ
+1068	c ã - a	100	gather	cãa	BAS	juntar	collect	coletar	GLOSA 3 PORT	GLOSS 3 ENGL	cãa	FALSE	PET	PWT	c ã a
+1069	h e e	100	gather	hee	KAR	juntar	collect	coletar	GLOSA 3 PORT	GLOSS 3 ENGL	hee	FALSE	PET	PWT	h e e
+1070	s i - a	100	gather	sia	KOR	juntar	collect	coletar	GLOSA 3 PORT	GLOSS 3 ENGL	sia	FALSE	PET	PWT	s i a
+1071	h e w a	100	gather	hewa	KUB	juntar	collect	coletar	GLOSA 3 PORT	GLOSS 3 ENGL	hewa	FALSE	PET	PWT	h e w a
+1072	t∫ i - a	100	gather	t∫ia	MAI	juntar	collect	coletar	GLOSA 3 PORT	GLOSS 3 ENGL	t∫ia	FALSE	PET	PWT	t∫ i a
+1073	s i - a	100	gather	sia	SEK	juntar	collect	coletar	GLOSA 3 PORT	GLOSS 3 ENGL	sia	FALSE	PET	PWT	s i a
+1074	t∫ i - a	100	gather	t∫ia	SIO	juntar	collect	coletar	GLOSA 3 PORT	GLOSS 3 ENGL	t∫ia	FALSE	PET	PWT	t∫ i a
+1075	s u - a	100	gather	sua	TUK	juntar	collect	coletar	GLOSA 3 PORT	GLOSS 3 ENGL	sua	FALSE	PET	PWT	s u a
+1076	s a a	100	gather	saa	WAN	juntar	collect	coletar	GLOSA 3 PORT	GLOSS 3 ENGL	saa	FALSE	PET	PWT	s a a
+1077	t ∫ ɨ a	100	gather	-	*PT	-	-	-	-	-	*t∫ɨ-a	FALSE	-	-	t ∫ ɨ a
+1078	c õ m ɨ̃ - -	101	navel	~cobɨ	BAS	umbigo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~cobɨ	FALSE	PET	PWT	c õ m ɨ̃
+1079	s ũ m ũ - -	101	navel	~subu	DES	umbigo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~subu	FALSE	PET	PWT	s ũ m ũ
+1080	h õ m ɨ̃	101	navel	~hobɨ	KAR	umbigo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~hobɨ	FALSE	PET	PWT	h õ m ɨ̃
+1081	s ũ h ũ - -	101	navel	sũhũ	KOR	umbigo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sũhũ	FALSE	PET	PWT	s ũ h ũ
+1082	h õ m ɨ̃	101	navel	~hobɨ	KUB	umbigo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~hobɨ	FALSE	PET	PWT	h õ m ɨ̃
+1083	t o - u - -	101	navel	tou	KUE	umbigo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	tou	FALSE	PET	PWT	t o u
+1084	s õ h õ - -	101	navel	sõhõ	MAI	umbigo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sõhõ	FALSE	PET	PWT	s õ h õ
+1085	s õ h õ - -	101	navel	sõhõ	SEK	umbigo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sõhõ	FALSE	PET	PWT	s õ h õ
+1086	t∫ õ h õ - -	101	navel	t∫õhõ	SIO	umbigo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	t∫õhõ	FALSE	PET	PWT	t∫ õ h õ
+1087	h ũ m ũ	101	navel	~hubu	TAN	umbigo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~hubu	FALSE	PET	PWT	h ũ m ũ
+1088	s ũ m ũ - -	101	navel	~subu	TUK	umbigo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~subu	FALSE	PET	PWT	s ũ m ũ
+1089	s ũ m ũ - ã	101	navel	~subua	TUY	umbigo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~subua	FALSE	PET	PWT	s ũ m ũ ã
+1090	s ɨ̃ m ɨ̃ k ã	101	navel	~sɨbɨka	WAN	umbigo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~sɨbɨka	FALSE	PET	PWT	s ɨ̃ m ɨ̃ k ã
+1091	t∫ ũ m ũ - -	101	navel	~t∫ubu	YUP	umbigo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~t∫ubu	FALSE	PET	PWT	t∫ ũ m ũ
+1092	t ∫ õ pʔ ɨ	101	navel	-	*PT	-	-	-	-	-	*t∫õpʔɨ	TRUE	-	-	t ∫ õ pʔ ɨ
+1093	t a - a	102	grass	taa	BAS	capim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	taa	FALSE	PET	PWT	t a a
+1094	t a - a	102	grass	taa	DES	capim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	taa	FALSE	PET	PWT	t a a
+1095	t a - a	102	grass	taa	KAR	capim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	taa	FALSE	PET	PWT	t a a
+1096	th a j a	102	grass	thaja	KOR	capim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	thaja	FALSE	PET	PWT	th a j a
+1097	d á - -	102	grass	dá	KUB	capim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dá	FALSE	PET	PWT	d á
+1098	t a j a	102	grass	taja	KUE	capim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	taja	FALSE	PET	PWT	t a j a
+1099	t a j a	102	grass	taja	MAI	capim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	taja	FALSE	PET	PWT	t a j a
+1100	t a j a	102	grass	taja	SEK	capim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	taja	FALSE	PET	PWT	t a j a
+1101	t a j a	102	grass	taja	SIO	capim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	taja	FALSE	PET	PWT	t a j a
+1102	t a j a	102	grass	taja	TAN	capim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	taja	FALSE	PET	PWT	t a j a
+1103	t a - a	102	grass	taa	TUK	capim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	taa	FALSE	PET	PWT	t a a
+1104	t a - a	102	grass	taa	TUY	capim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	taa	FALSE	PET	PWT	t a a
+1105	th a - a	102	grass	thaa	WAN	capim	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	thaa	FALSE	PET	PWT	th a a
+1106	t a j a	102	grass	-	*PT	-	-	-	-	-	*taja	FALSE	-	-	t a j a
+1107	g a k e	103	monkey	gake	BAS	macaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	gake	FALSE	PET	PWT	g a k e
+1108	g a k i	103	monkey	gaki	DES	macaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	gaki	FALSE	PET	PWT	g a k i
+1109	- a k e	103	monkey	ake	KAR	macaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ake	FALSE	PET	PWT	a k e
+1110	t ã kh e	103	monkey	tãkhe	KOR	macaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	tãkhe	FALSE	PET	PWT	t ã kh e
+1111	t a k e	103	monkey	take	KUB	macaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	take	FALSE	PET	PWT	t a k e
+1112	t ã k e	103	monkey	tãke	MAI	macaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	tãke	FALSE	PET	PWT	t ã k e
+1113	t ã k e	103	monkey	tãke	SEK	macaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	tãke	FALSE	PET	PWT	t ã k e
+1114	t ã k e	103	monkey	tãke	SIO	macaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	tãke	FALSE	PET	PWT	t ã k e
+1115	t a k e	103	monkey	take	TAN	macaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	take	FALSE	PET	PWT	t a k e
+1116	- a k e	103	monkey	ake	TUK	macaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ake	FALSE	PET	PWT	a k e
+1117	- a k e	103	monkey	ake	TUY	macaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ake	FALSE	PET	PWT	a k e
+1118	- - k a	103	monkey	ka	WAN	macaco	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ka	FALSE	PET	PWT	k a
+1119	t a kk e	103	monkey	-	*PT	-	-	-	-	-	*takke	TRUE	-	-	t a k k e
+1120	j a k i	104	chew	jaki	KOR	mastigar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jaki	FALSE	PET	PWT	j a k i
+1121	h ã h ɨ̃	104	chew	~hahɨ	KUB	mastigar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~hahɨ	FALSE	PET	PWT	h ã h ɨ̃
+1122	n a k i	104	chew	naki	MAI	mastigar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	naki	FALSE	PET	PWT	n a k i
+1123	sʔ ã k i	104	chew	sʔãki	SEK	mastigar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sʔãki	TRUE	PET	PWT	sʔ ã k i
+1124	j a ʔg e	104	chew	jaʔge	TUK	mastigar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jaʔge	FALSE	PET	PWT	j a ʔg e
+1125	y a g e	104	chew	yage	TUY	mastigar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	yage	FALSE	PET	PWT	y a g e
+1126	j a ʔk a	104	chew	jaʔka	WAN	mastigar	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jaʔka	FALSE	PET	PWT	j a ʔk a
+1127	tjʔ ã kʔ ɨ	104	chew	-	*PT	-	-	-	-	-	*tjʔãkʔɨ	TRUE	-	-	t jʔ ã k ʔ ɨ
+1128	n - ã s ĩ	105	toucan	~dasi	DES	tucano	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dasi	FALSE	PET	PWT	n ã s ĩ
+1129	d - a s a	105	toucan	dasa	KAR	tucano	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dasa	FALSE	PET	PWT	d a s a
+1130	j - ã s e	105	toucan	jãse	KOR	tucano	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jãse	FALSE	PET	PWT	j ã s e
+1131	h o e w e	105	toucan	hoewe	KUB	tucano	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hoewe	? Is this word really cognate ?	PET	PWT	h o e w e
+1132	r - a s e	105	toucan	rase	KUE	tucano	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	rase	FALSE	PET	PWT	r a s e
+1133	j - ã s e	105	toucan	jãse	SEK	tucano	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jãse	FALSE	PET	PWT	j ã s e
+1134	j - ã s e	105	toucan	jãse	SIO	tucano	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jãse	FALSE	PET	PWT	j ã s e
+1135	n - ã h ẽ	105	toucan	~dahe	TAN	tucano	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~dahe	FALSE	PET	PWT	n ã h ẽ
+1136	r - a c e	105	toucan	race	TUK	tucano	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	race	FALSE	PET	PWT	r a c e
+1137	d - a s e	105	toucan	dase	WAN	tucano	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dase	FALSE	PET	PWT	d a s e
+1138	tjʔ - a s e	105	toucan	-	*PT	-	-	-	-	-	*tjʔase(?)	TRUE	-	-	t jʔ a s e
+1139	ɲ ẽ m ẽ	106	tongue	~jebe	BAS	língua	liver	fígado	GLOSA 3 PORT	GLOSS 3 ENGL	~jebe	FALSE	PET	PWT	ɲ ẽ m ẽ
+1140	ɲ ẽ m ẽ	106	tongue	~jebe	KAR	língua	liver	fígado	GLOSA 3 PORT	GLOSS 3 ENGL	~jebe	FALSE	PET	PWT	ɲ ẽ m ẽ
+1141	j e m e	106	tongue	jeme	KOR	língua	liver	fígado	GLOSA 3 PORT	GLOSS 3 ENGL	jeme	FALSE	PET	PWT	j e m e
+1142	h ẽ m ẽ	106	tongue	~hebe	KUB	língua	liver	fígado	GLOSA 3 PORT	GLOSS 3 ENGL	~hebe	FALSE	PET	PWT	h ẽ m ẽ
+1143	j a m e	106	tongue	jame	KUE	língua	liver	fígado	GLOSA 3 PORT	GLOSS 3 ENGL	jame	FALSE	PET	PWT	j a m e
+1144	n e m e	106	tongue	neme	MAI	língua	liver	fígado	GLOSA 3 PORT	GLOSS 3 ENGL	neme	FALSE	PET	PWT	n e m e
+1145	sʔ e m e	106	tongue	sʔeme	SEK	língua	liver	fígado	GLOSA 3 PORT	GLOSS 3 ENGL	sʔeme	FALSE	PET	PWT	sʔ e m e
+1146	sʔ e m e	106	tongue	sʔeme	SIO	língua	liver	fígado	GLOSA 3 PORT	GLOSS 3 ENGL	sʔeme	TRUE	PET	PWT	sʔ e m e
+1147	ɲ ẽ m ẽ	106	tongue	~jebe	TUK	língua	liver	fígado	GLOSA 3 PORT	GLOSS 3 ENGL	~jebe	FALSE	PET	PWT	ɲ ẽ m ẽ
+1148	ɲ ẽ m ẽ	106	tongue	~jebe	TUY	língua	liver	fígado	GLOSA 3 PORT	GLOSS 3 ENGL	~jebe	FALSE	PET	PWT	ɲ ẽ m ẽ
+1149	ɲ ã m ã	106	tongue	~jaba	WAN	língua	liver	fígado	GLOSA 3 PORT	GLOSS 3 ENGL	~jaba	FALSE	PET	PWT	ɲ ã m ã
+1150	tjʔ e m e	106	tongue	-	*PT	-	-	-	-	-	*tjʔeme	TRUE	-	-	t jʔ e m e
+1151	ɲ ĩ ( - ĩ )	107	black	~jii	BAS	preto	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jii	FALSE	PET	PWT	ɲ ĩ ĩ
+1152	ɲ ĩ ( - ĩ )	107	black	~jii	DES	preto	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jii	FALSE	PET	PWT	ɲ ĩ ĩ
+1153	ɲ ĩ ( - ĩ )	107	black	~jii	KAR	preto	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jii	FALSE	PET	PWT	ɲ ĩ ĩ
+1154	j i ( - - )	107	black	ji	KOR	preto	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ji	FALSE	PET	PWT	j i
+1155	ɲ ẽ ( m ĩ )	107	black	~jebi	KUB	preto	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jebi	FALSE	PET	PWT	ɲ ẽ m ĩ
+1156	k ũ ( - i )	107	black	kũi	MAI	preto	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kũi	FALSE	PET	PWT	k ũ i
+1157	sʔ i	107	black	sʔi	SIO	preto	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sʔi	TRUE	PET	PWT	sʔ i
+1158	n ẽ ( ʔ ĩ )	107	black	~deʔi	TAN	preto	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~deʔi	FALSE	PET	PWT	n ẽ ʔ ĩ
+1159	ɲ ĩ ( - ĩ )	107	black	~jii	TUK	preto	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jii	FALSE	PET	PWT	ɲ ĩ ĩ
+1160	ɲ ĩ ( - ĩ )	107	black	~jii	TUY	preto	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jii	FALSE	PET	PWT	ɲ ĩ ĩ
+1161	ɲ ĩ ( - ĩ )	107	black	~jii	WAN	preto	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jii	FALSE	PET	PWT	ɲ ĩ ĩ
+1162	tjʔ ĩ ( - - )	107	black	-	*PT	-	-	-	-	-	*tjʔĩ	TRUE	-	-	t jʔ ĩ
+1163	r i - a	108	egg	ria	BAS	ovo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ria	FALSE	PET	PWT	r i a
+1164	r i - a	108	egg	ria	KAR	ovo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ria	FALSE	PET	PWT	r i a
+1165	j i - a	108	egg	jia	KOR	ovo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jia	FALSE	PET	PWT	j i a
+1166	h ĩ d ɨ	108	egg	hĩdɨ	KUB	ovo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hĩdɨ	FALSE	PET	PWT	h ĩ d ɨ
+1167	j i - a	108	egg	jia	MAI	ovo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jia	FALSE	PET	PWT	j i a
+1168	sʔ i - a	108	egg	sʔia	SEK	ovo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sʔia	FALSE	PET	PWT	sʔ i a
+1169	sʔ i a	108	egg	sʔia	SIO	ovo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sʔia	TRUE	PET	PWT	sʔ i a
+1170	r i - a	108	egg	ria	TAN	ovo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ria	FALSE	PET	PWT	r i a
+1171	d i - e	108	egg	die	TUK	ovo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	die	FALSE	PET	PWT	d i e
+1172	d i y e	108	egg	diye	TUY	ovo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	diye	FALSE	PET	PWT	d i y e
+1173	d i - e	108	egg	die	WAN	ovo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	die	FALSE	PET	PWT	d i e
+1174	tjʔ i - a	108	egg	-	*PT	-	-	-	-	-	*tjʔia	TRUE	-	-	t jʔ i a
+1175	r i - a ( - - - - )	109	face	ria	BAS	face	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ria	FALSE	PET	PWT	r i a
+1176	d i - a ( - - - - )	109	face	dia	DES	face	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dia	FALSE	PET	PWT	d i a
+1177	r i - a ( - - - - )	109	face	ria	KAR	face	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ria	FALSE	PET	PWT	r i a
+1178	j i - a ( - - - - )	109	face	jia	KOR	face	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jia	FALSE	PET	PWT	j i a
+1179	h i w a ( - - - - )	109	face	hiwa	KUB	face	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hiwa	FALSE	PET	PWT	h i w a
+1180	j i - a ( - - - - )	109	face	jia	MAI	face	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jia	FALSE	PET	PWT	j i a
+1181	sʔ i a	109	face	sʔia	SEK	face	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sʔia	TRUE	PET	PWT	sʔ i a
+1182	d i - a ( - - - - )	109	face	dia	TUK	face	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dia	FALSE	PET	PWT	d i a
+1183	d i - a ( _ p o a )	109	face	dia poa	TUY	face	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dia_poa	FALSE	PET	PWT	d i a _ p o a
+1184	tjʔ i - a ( - - - - )	109	face	-	*PT	-	-	-	-	-	*tjʔia	TRUE	-	-	t jʔ i a
+1185	r i a	110	river	ria	BAS	rio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ria	FALSE	PET	PWT	r i a
+1186	d i a	110	river	dia	DES	rio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dia	FALSE	PET	PWT	d i a
+1187	r i a	110	river	ria	KAR	rio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ria	FALSE	PET	PWT	r i a
+1188	j i a	110	river	jia	KOR	rio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jia	FALSE	PET	PWT	j i a
+1189	h i a	110	river	hia	KUB	rio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hia	FALSE	PET	PWT	h i a
+1190	l - a	110	river	la	KUE	rio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	la	FALSE	PET	PWT	l a
+1191	j i a	110	river	jia	MAI	rio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jia	FALSE	PET	PWT	j i a
+1192	sʔ i a	110	river	sʔia	SEK	rio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sʔia	FALSE	PET	PWT	sʔ i a
+1193	sʔ i a	110	river	sʔia	SIO	rio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sʔia	TRUE	PET	PWT	sʔ i a
+1194	r i a	110	river	ria	TAN	rio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ria	FALSE	PET	PWT	r i a
+1195	d i a	110	river	dia	TUK	rio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dia	FALSE	PET	PWT	d i a
+1196	d i a	110	river	dia	TUY	rio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dia	FALSE	PET	PWT	d i a
+1197	d i a	110	river	dia	WAN	rio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dia	FALSE	PET	PWT	d i a
+1198	tjʔ i a	110	river	-	*PT	-	-	-	-	-	*tjʔia	TRUE	-	-	t jʔ i a
+1199	r i - i ( - - )	111	blood	rii	BAS	sangue	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	rii	FALSE	PET	PWT	r i i
+1200	d i - i ( - - )	111	blood	dii	DES	sangue	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dii	FALSE	PET	PWT	d i i
+1201	r i - i ( - - )	111	blood	rii	KAR	sangue	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	rii	FALSE	PET	PWT	r i i
+1202	j i - e ( - - )	111	blood	jie	KOR	sangue	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jie	FALSE	PET	PWT	j i e
+1203	h i w e ( - - )	111	blood	hiwe	KUB	sangue	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hiwe	FALSE	PET	PWT	h i w e
+1204	l i - e ( r i )	111	blood	lieri	KUE	sangue	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	lieri	FALSE	PET	PWT	l i e r i
+1205	sʔ i - e ( - - )	111	blood	sʔie	SEK	sangue	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sʔie	FALSE	PET	PWT	sʔ i e
+1206	sʔ i e	111	blood	sʔie	SIO	sangue	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sʔie	TRUE	PET	PWT	sʔ i e
+1207	r i b e ( - - )	111	blood	ribe	TAN	sangue	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ribe	FALSE	PET	PWT	r i b e
+1208	d i - i ( - - )	111	blood	dii	TUK	sangue	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dii	FALSE	PET	PWT	d i i
+1209	d i - i ( - - )	111	blood	dii	TUY	sangue	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dii	FALSE	PET	PWT	d i i
+1210	d i - - ( - - )	111	blood	di	WAN	sangue	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	di	FALSE	PET	PWT	d i
+1211	tjʔ i - e ( - - )	111	blood	-	*PT	-	-	-	-	-	*tjʔie	TRUE	-	-	t jʔ i e
+1212	d i t a ( - - )	112	lake	dita	DES	lago	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dita	FALSE	PET	PWT	d i t a
+1213	h i t a ( - - )	112	lake	hita	KUB	lago	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hita	FALSE	PET	PWT	h i t a
+1214	r i t a ( - - )	112	lake	rita	KUE	lago	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	rita	FALSE	PET	PWT	r i t a
+1215	t∫ i t a ( - - )	112	lake	t∫ita	MAI	lago	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	t∫ita	FALSE	PET	PWT	t∫ i t a
+1216	sʔ i t a d a	112	lake	sʔitada	SIO	lago	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sʔitada	TRUE	PET	PWT	sʔ i t a d a
+1217	d i t a ( - - )	112	lake	dita	TUK	lago	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dita	FALSE	PET	PWT	d i t a
+1218	- - t a ( r o )	112	lake	taro	TUY	lago	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	-taro	FALSE	PET	PWT	t a r o
+1219	t i t a ( - - )	112	lake	tita	YUP	lago	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	tita	FALSE	PET	PWT	t i t a
+1220	tjʔ i tt a ( - - )	112	lake	-	*PT	-	-	-	-	-	*tjʔitta	TRUE	-	-	t jʔ i t t a
+1221	r i h o	113	head	riho	BAS	cabeça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	riho	FALSE	PET	PWT	r i h o
+1222	d i p u	113	head	dipu	DES	cabeça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dipu	FALSE	PET	PWT	d i p u
+1223	r ɨ p o	113	head	rɨpo	KAR	cabeça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	rɨpo	FALSE	PET	PWT	r ɨ p o
+1224	s ĩ h õ	113	head	~siho	KOR	cabeça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~siho	FALSE	PET	PWT	s ĩ h õ
+1225	h i p o	113	head	hipo	KUB	cabeça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hipo	FALSE	PET	PWT	h i p o
+1226	t∫ i - o	113	head	t∫io	MAI	cabeça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	t∫io	FALSE	PET	PWT	t∫ i o
+1227	s ĩ - õ	113	head	~sio	SEK	cabeça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~sio	FALSE	PET	PWT	s ĩ õ
+1228	sʔ ĩ h õ	113	head	~sʔiho	SIO	cabeça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~sʔiho	TRUE	PET	PWT	sʔ ĩ h õ
+1229	r u p u	113	head	rupu	TAN	cabeça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	rupu	FALSE	PET	PWT	r u p u
+1230	d ɨ p o	113	head	dɨpo	TUK	cabeça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dɨpo	FALSE	PET	PWT	d ɨ p o
+1231	d u p u	113	head	dupu	TUY	cabeça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dupu	FALSE	PET	PWT	d u p u
+1232	d a p u	113	head	dapu	WAN	cabeça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dapu	FALSE	PET	PWT	d a p u
+1233	d ɨ p ɨ	113	head	dɨpɨ	YUP	cabeça	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dɨpɨ	FALSE	PET	PWT	d ɨ p ɨ
+1234	tjʔ ɨ p o	113	head	-	*PT	-	-	-	-	-	*tjʔɨpo	TRUE	-	-	t jʔ ɨ p o
+1235	r i c e -	114	mouth1	rice	BAS	boca1	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	rice	FALSE	*tjʔɨseo	PWT	r i c e
+1236	d i s i -	114	mouth1	disi	DES	boca1	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	disi	FALSE	*tjʔɨseo	PWT	d i s i
+1237	r i s e -	114	mouth1	rise, jise	KAR	boca1	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	rise	FALSE	*tjʔɨseo	PWT	r i s e
+1238	h i h e -	114	mouth1	hihe	KUB	boca1	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hihe	FALSE	*tjʔɨseo	PWT	h i h e
+1239	r i - s e p u	114	mouth1	risepu	KUE	boca1	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	risepu	FALSE	*tjʔɨseo	PWT	r i s e p u
+1240	r i h o -	114	mouth1	riho	TAN	boca1	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	riho	FALSE	*tjʔɨseo	PWT	r i h o
+1241	- ɨ ʔs e -	114	mouth1	ɨʔse	TUK	boca1	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨʔse	FALSE	*tjʔɨseo	PWT	ɨ ʔs e
+1242	- ɨ s e -	114	mouth1	ɨse	TUY	boca1	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨse	FALSE	*tjʔɨseo	PWT	ɨ s e
+1243	d ɨ s e -	114	mouth1	dɨse	WAN	boca1	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	dɨse	FALSE	*tjʔɨseo	PWT	d ɨ s e
+1244	d i ts i -	114	mouth1	ditsi	YUP	boca1	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ditsi	TRUE	*tjʔɨseo	PWT	d i ts i
+1245	tjʔ ɨ s e o	114	mouth1	-	*PT	-	-	-	-	-	*tjʔɨseo	TRUE	-	-	t jʔ ɨ s e o
+1246	j o - a	115	distant	joa	BAS	longe	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	joa	FALSE	PET	PWT	j o a
+1247	j o - a	115	distant	joa	DES	longe	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	joa	FALSE	PET	PWT	j o a
+1248	j o - a	115	distant	joa	KAR	longe	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	joa	FALSE	PET	PWT	j o a
+1249	h o - a	115	distant	hoa	KUB	longe	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hoa	FALSE	PET	PWT	h o a
+1250	j o - e	115	distant	joe	KUE	longe	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	joe	FALSE	PET	PWT	j o e
+1251	j ã m a	115	distant	jãma	MAI	longe	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jãma	FALSE	PET	PWT	j ã m a
+1252	s o ʔ o	115	distant	soʔo	SEK	longe	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	soʔo	FALSE	PET	PWT	s o ʔ o
+1253	sʔ o a	115	distant	sʔoa	SIO	longe	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sʔoa	TRUE	PET	PWT	sʔ o a
+1254	j o - e	115	distant	joe	TAN	longe	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	joe	FALSE	PET	PWT	j o e
+1255	j o - a	115	distant	joa	TUK	longe	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	joa	FALSE	PET	PWT	j o a
+1256	j o - a	115	distant	joa	TUY	longe	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	joa	FALSE	PET	PWT	j o a
+1257	j o - a	115	distant	joa	WAN	longe	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	joa	FALSE	PET	PWT	j o a
+1258	tjʔ o - a	115	distant	-	*PT	-	-	-	-	-	*tjʔoa	TRUE	-	-	t jʔ o a
+1259	ɲ ã s ã	116	king-fisher	~jasa	BAS	martim pescador	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jasa	FALSE	PET	PWT	ɲ ã s ã
+1260	s ã n ã	116	king-fisher	~sada	DES	martim pescador	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~sada	FALSE	PET	PWT	s ã n ã
+1261	ɲ ã s ã	116	king-fisher	~jasa	KAR	martim pescador	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jasa	FALSE	PET	PWT	ɲ ã s ã
+1262	s ã sʔ a	116	king-fisher	sãsʔa	KOR	martim pescador	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sãsʔa	FALSE	PET	PWT	s ã sʔ a
+1263	h ã h ã	116	king-fisher	~haha	KUB	martim pescador	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~haha	FALSE	PET	PWT	h ã h ã
+1264	sʔ ã ʔ s a	116	king-fisher	sʔãʔsa	SEK	martim pescador	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sʔãʔsa	TRUE	PET	PWT	sʔ ã ʔ s a
+1265	h ã h ã	116	king-fisher	~haha	TAN	martim pescador	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~haha	FALSE	PET	PWT	h ã h ã
+1266	s ã n ã	116	king-fisher	~sada	TUK	martim pescador	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~sada	FALSE	PET	PWT	s ã n ã
+1267	s ã n ã	116	king-fisher	~sada	WAN	martim pescador	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~sada	FALSE	PET	PWT	s ã n ã
+1268	s ã s ã	116	king-fisher	~sasa	YUP	martim pescador	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~sasa	FALSE	PET	PWT	s ã s ã
+1269	tj ã s a	116	king-fisher	-	*PT	-	-	-	-	-	*tjãsa	FALSE	-	-	t j ã s a
+1270	j e c e	117	peccary	jece	BAS	porco do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jece	FALSE	PET	PWT	j e c e
+1271	j e s e	117	peccary	jese	DES	porco do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jese	FALSE	PET	PWT	j e s e
+1272	s ẽ s e	117	peccary	sẽse	KOR	porco do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sẽse	FALSE	PET	PWT	s ẽ s e
+1273	h ẽ h ẽ	117	peccary	~hehe	KUB	porco do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~hehe	FALSE	PET	PWT	h ẽ h ẽ
+1274	j e s e	117	peccary	jese	KUE	porco do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jese	FALSE	PET	PWT	j e s e
+1275	s ẽ s e	117	peccary	sẽse	MAI	porco do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sẽse	FALSE	PET	PWT	s ẽ s e
+1276	s ẽ s e	117	peccary	sẽse	SEK	porco do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sẽse	FALSE	PET	PWT	s ẽ s e
+1277	- s ẽ - s e	117	peccary	sẽse	SIO	porco do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sẽse	FALSE	PET	PWT	s ẽ s e
+1278	h ẽ h ẽ	117	peccary	~hehe	TAN	porco do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~hehe	FALSE	PET	PWT	h ẽ h ẽ
+1279	j e s e	117	peccary	jese	TUK	porco do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jese	FALSE	PET	PWT	j e s e
+1280	j e s e	117	peccary	jese	TUY	porco do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jese	FALSE	PET	PWT	j e s e
+1281	j e s e	117	peccary	jese	WAN	porco do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jese	FALSE	PET	PWT	j e s e
+1282	ts e ts e	117	peccary	tsetse	YUP	porco do mato	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	tsetse	TRUE	PET	PWT	ts e ts e
+1283	tj ẽ s e	117	peccary	-	*PT	-	-	-	-	-	*tjẽse	FALSE	-	-	t j ẽ s e
+1284	n ĩ m ã	118	poison	~diba	DES	veneno	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~diba	FALSE	PET	PWT	n ĩ m ã
+1285	n ĩ m ã	118	poison	~diba	KAR	veneno	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~diba	FALSE	PET	PWT	n ĩ m ã
+1286	j i m a	118	poison	jima	KOR	veneno	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jima	FALSE	PET	PWT	j i m a
+1287	h ĩ m ã	118	poison	~hima	KUB	veneno	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~hima	FALSE	PET	PWT	h ĩ m ã
+1288	sʔ ĩ m a	118	poison	sʔĩma	SEK	veneno	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sʔĩma	TRUE	PET	PWT	sʔ ĩ m a
+1289	n ĩ m ã	118	poison	~diba	TUK	veneno	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~diba	FALSE	PET	PWT	n ĩ m ã
+1290	n ĩ m ã	118	poison	~diba	TUY	veneno	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~diba	FALSE	PET	PWT	n ĩ m ã
+1291	ɲ ĩ m ã	118	poison	~jiba	WAN	veneno	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~jiba	FALSE	PET	PWT	ɲ ĩ m ã
+1292	tj i m a	118	poison	-	*PT	-	-	-	-	-	*tjima	FALSE	-	-	t j i m a
+1293	c ɨ̃ m ẽ ( - - )	119	green	~cɨbe	BAS	verde	blue	azul	não maduro	unripe	~cɨbe	FALSE	PET	PWT	c ɨ̃ m ẽ
+1294	h ɨ̃ m ẽ ( - - )	119	green	~hɨbe	KAR	verde	blue	azul	não maduro	unripe	~hɨbe	FALSE	PET	PWT	h ɨ̃ m ẽ
+1295	h ɨ̃ m ẽ ( - - )	119	green	~hɨbe	KUB	verde	blue	azul	não maduro	unripe	~hɨbe	FALSE	PET	PWT	h ɨ̃ m ẽ
+1296	t ɨ m ɨ ( - - )	119	green	tɨmɨ	KUE	verde	blue	azul	não maduro	unripe	tɨmɨ	FALSE	PET	PWT	t ɨ m ɨ
+1297	- s ɨ h - o - -	119	green	sɨho	SIO	verde	blue	azul	não maduro	unripe	sɨho	FALSE	PET	PWT	s ɨ h o
+1298	h ĩ ʔb ĩ ( - - )	119	green	~hiʔbi	TAN	verde	blue	azul	não maduro	unripe	~hiʔbi	FALSE	PET	PWT	h ĩ ʔb ĩ
+1299	s ɨ ʔm e ( - - )	119	green	sɨʔme	TUK	verde	blue	azul	não maduro	unripe	sɨʔme	FALSE	PET	PWT	s ɨ ʔm e
+1300	s ɨ̃ m ẽ ( r̃ ẽ )	119	green	~sɨbere	TUY	verde	blue	azul	não maduro	unripe	~sɨbere	FALSE	PET	PWT	s ɨ̃ m ẽ r̃ ẽ
+1301	ts ɨ m ɨ ( - - )	119	green	tsɨmɨ	YUP	verde	blue	azul	não maduro	unripe	tsɨmɨ	TRUE	PET	PWT	ts ɨ m ɨ
+1302	tj ɨ̃ pʔ e ( - - )	119	green	-	*PT	-	-	-	-	-	*tjɨ̃pʔe	TRUE	-	-	t j ɨ̃ pʔ e
+1303	- ɨ c a ( - )	120	cold	ɨca, jɨcɨ	BAS	frio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ɨca	FALSE	PET	PWT	ɨ c a
+1304	j ɨ s a ( - )	120	cold	jɨsa	DES	frio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨsa	FALSE	PET	PWT	j ɨ s a
+1305	s ɨ s ɨ ( - )	120	cold	sɨsɨ	KOR	frio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sɨsɨ	FALSE	PET	PWT	s ɨ s ɨ
+1306	h ɨ h ɨ ( - )	120	cold	hɨhɨ	KUB	frio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hɨhɨ	FALSE	PET	PWT	h ɨ h ɨ
+1307	j ɨ s ɨ ( a )	120	cold	jɨsɨa	KUE	frio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨsɨa	FALSE	PET	PWT	j ɨ s ɨ a
+1308	s ɨ s ɨ ( - )	120	cold	sɨsɨ	MAI	frio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sɨsɨ	FALSE	PET	PWT	s ɨ s ɨ
+1309	s ɨ s ɨ ( - )	120	cold	sɨsɨ	SEK	frio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sɨsɨ	FALSE	PET	PWT	s ɨ s ɨ
+1310	- s ɨ s ɨ -	120	cold	sɨsɨ	SIO	frio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sɨsɨ	FALSE	PET	PWT	s ɨ s ɨ
+1311	h i ʔh i ( a )	120	cold	hiʔhia	TAN	frio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hiʔhia	FALSE	PET	PWT	h i ʔh i a
+1312	j ɨ s ɨ ( a )	120	cold	jɨsɨa	TUK	frio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨsɨa	FALSE	PET	PWT	j ɨ s ɨ a
+1313	j ɨ s ɨ ( a )	120	cold	jɨsɨa	TUY	frio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨsɨa	FALSE	PET	PWT	j ɨ s ɨ a
+1314	j ɨ s ɨ ( - )	120	cold	jɨsɨ	WAN	frio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jɨsɨ	FALSE	PET	PWT	j ɨ s ɨ
+1315	ts e s ɨ ( - )	120	cold	tsesɨ, tsitsi	YUP	frio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	tsesɨ	TRUE	PET	PWT	ts e s ɨ
+1316	tj ɨ s i ( - )	120	cold	-	*PT	-	-	-	-	-	*tjɨsi	FALSE	-	-	t j ɨ s i
+1317	j u k ɨ ( - - )	121	tree	jukɨ	BAS	árvore	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jukɨ	FALSE	PET	PWT	j u k ɨ
+1318	j u k ɨ ( - - )	121	tree	jukɨ	DES	árvore	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jukɨ	FALSE	PET	PWT	j u k ɨ
+1319	j u k ɨ ( - - )	121	tree	jukɨ	KAR	árvore	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jukɨ	FALSE	PET	PWT	j u k ɨ
+1320	s ũ k i ( j̃ ɨ )	121	tree	sũkij̃ɨ	KOR	árvore	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sũkij̃ɨ	FALSE	PET	PWT	s ũ k i j̃ ɨ
+1321	h o k ɨ ( - - )	121	tree	hokɨ	KUB	árvore	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hokɨ	FALSE	PET	PWT	h o k ɨ
+1322	t o k ɨ ( - - )	121	tree	tokɨ	KUE	árvore	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	tokɨ	FALSE	PET	PWT	t o k ɨ
+1323	s ũ k i ( j̃ i )	121	tree	sũkij̃i	MAI	árvore	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sũkij̃i	FALSE	PET	PWT	s ũ k i j̃ i
+1324	s õ k ɨ ( - - )	121	tree	sõkɨ	SEK	árvore	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sõkɨ	FALSE	PET	PWT	s õ k ɨ
+1325	s ũ k i - -	121	tree	sũki	SIO	árvore	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sũki	FALSE	PET	PWT	s ũ k i
+1326	h ũ k ĩ ( - - )	121	tree	~huki	TAN	árvore	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~huki	FALSE	PET	PWT	h ũ k ĩ
+1327	j u k ɨ ( - - )	121	tree	jukɨ	TUK	árvore	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jukɨ	FALSE	PET	PWT	j u k ɨ
+1328	j u k ɨ ( - - )	121	tree	jukɨ	TUY	árvore	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jukɨ	FALSE	PET	PWT	j u k ɨ
+1329	j u k ɨ ( - - )	121	tree	jukɨ	WAN	árvore	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jukɨ	FALSE	PET	PWT	j u k ɨ
+1330	tj ũ kk ɨ ( - - )	121	tree	-	*PT	-	-	-	-	-	*tjũkkɨ	TRUE	-	-	t j ũ k k ɨ
+1331	- u s i ( - - )	122	insect sp.	usi	BAS	inseto sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	usi	FALSE	PET	PWT	u s i
+1332	s ũ s i ( - - )	122	insect sp.	sũsi	KOR	inseto sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	sũsi	FALSE	PET	PWT	s ũ s i
+1333	h u h i ( - - )	122	insect sp.	huhi	KUB	inseto sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	huhi	FALSE	PET	PWT	h u h i
+1334	t o s i ( - - )	122	insect sp.	to(o)si	KUE	inseto sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	tosi	FALSE	PET	PWT	t o s i
+1335	- s u - s i - -	122	insect sp.	susi	SIO	inseto sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	susi	FALSE	PET	PWT	s u s i
+1336	- - j ĩ ( - - )	122	insect sp.	jĩ	WAN	inseto sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	jĩ	FALSE	PET	PWT	j ĩ
+1337	ts u ts i ( g a )	122	insect sp.	tsutsiga	YUP	inseto sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	tsutsiga	TRUE	PET	PWT	ts u ts i g a
+1338	tj u s i ( - - )	122	insect sp.	-	*PT	-	-	-	-	-	*tjusi	FALSE	-	-	t j u s i
+1339	t o a	123	fruit sp.	toa	BAS	fruta sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	toa	FALSE	PET	PWT	t o a
+1340	th o a	123	fruit sp.	thoa	KOR	fruta sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	thoa	FALSE	PET	PWT	th o a
+1341	t o a	123	fruit sp.	toa	KUB	fruta sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	toa	FALSE	PET	PWT	t o a
+1342	t o a	123	fruit sp.	toa	MAI	fruta sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	toa	FALSE	PET	PWT	t o a
+1343	t o a	123	fruit sp.	toa	SEK	fruta sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	toa	FALSE	PET	PWT	t o a
+1344	t o a	123	fruit sp.	toa	SIO	fruta sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	toa	FALSE	PET	PWT	t o a
+1345	t o a	123	fruit sp.	toa	TUK	fruta sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	toa	FALSE	PET	PWT	t o a
+1346	th o a	123	fruit sp.	thoa	WAN	fruta sp.	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	thoa	FALSE	PET	PWT	th o a
+1347	t o a	123	fruit sp.	-	*PT	-	-	-	-	-	*toa	TRUE	-	-	t o a
+1348	t u t u ( - - )	124	stump	tutu	BAS	toco	stick, club (sio, sek, mai, Kub)	pau, porrete (sio, sek, mai, Kub)	GLOSA 3 PORT	GLOSS 3 ENGL	tutu	FALSE	PET	PWT	t u t u
+1349	t u d u ( - - )	124	stump	tudu	DES	toco	stick, club (sio, sek, mai, Kub)	pau, porrete (sio, sek, mai, Kub)	GLOSA 3 PORT	GLOSS 3 ENGL	tudu	FALSE	PET	PWT	t u d u
+1350	t u t u ( - - )	124	stump	tutu	KAR	toco	stick, club (sio, sek, mai, Kub)	pau, porrete (sio, sek, mai, Kub)	GLOSA 3 PORT	GLOSS 3 ENGL	tutu	FALSE	PET	PWT	t u t u
+1351	th u - u ( - - )	124	stump	thuu	KOR	toco	stick, club (sio, sek, mai, Kub)	pau, porrete (sio, sek, mai, Kub)	GLOSA 3 PORT	GLOSS 3 ENGL	thuu	FALSE	PET	PWT	th u u
+1352	t u t u ( d i )	124	stump	tutudi	KUB	toco	stick, club (sio, sek, mai, Kub)	pau, porrete (sio, sek, mai, Kub)	GLOSA 3 PORT	GLOSS 3 ENGL	tutudi	FALSE	PET	PWT	t u t u d i
+1353	t u - - ( - - )	124	stump	tu	MAI	toco	stick, club (sio, sek, mai, Kub)	pau, porrete (sio, sek, mai, Kub)	GLOSA 3 PORT	GLOSS 3 ENGL	tu	FALSE	PET	PWT	t u
+1354	t u - - ( - - )	124	stump	tu-	SEK	toco	stick, club (sio, sek, mai, Kub)	pau, porrete (sio, sek, mai, Kub)	GLOSA 3 PORT	GLOSS 3 ENGL	tu	FALSE	PET	PWT	t u
+1355	t u - - - -	124	stump	tu	SIO	toco	stick, club (sio, sek, mai, Kub)	pau, porrete (sio, sek, mai, Kub)	GLOSA 3 PORT	GLOSS 3 ENGL	tu	FALSE	PET	PWT	t u
+1356	t u t u ( - - )	124	stump	tutu	TUK	toco	stick, club (sio, sek, mai, Kub)	pau, porrete (sio, sek, mai, Kub)	GLOSA 3 PORT	GLOSS 3 ENGL	tutu	FALSE	PET	PWT	t u t u
+1357	th u t u ( - - )	124	stump	thutu	WAN	toco	stick, club (sio, sek, mai, Kub)	pau, porrete (sio, sek, mai, Kub)	GLOSA 3 PORT	GLOSS 3 ENGL	thutu	FALSE	PET	PWT	th u t u
+1358	t u - - ( - - )	124	stump	-	*PT	-	-	-	-	-	*tu-	FALSE	-	-	t u
+1359	u h u	125	pacu fish	uhu	BAS	pacu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	uhu	FALSE	*uhu	PWT	u h u
+1360	u h u	125	pacu fish	uhu	DES	pacu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	uhu	FALSE	*uhu	PWT	u h u
+1361	h o h u	125	pacu fish	hohu	KUE	pacu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	hohu	FALSE	*uhu	PWT	h o h u
+1362	u h u	125	pacu fish	uhu	TUK	pacu	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	uhu	FALSE	*uhu	PWT	u h u
+1363	u h u	125	pacu fish	-	*PT	-	-	-	-	-	*uhu	FALSE	-	-	u h u
+1364	- õ h ẽ ( - - )	126	breast	~ohe	BAS	peito	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ohe	FALSE	PET	PWT	õ h ẽ
+1365	- ã p ĩ ( - - )	126	breast	~api	DES	peito	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~api	FALSE	PET	PWT	ã p ĩ
+1366	- ũ p ẽ ( - - )	126	breast	~upe	KAR	peito	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~upe	FALSE	PET	PWT	ũ p ẽ
+1367	- o h e ( - - )	126	breast	ohe	KOR	peito	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ohe	FALSE	PET	PWT	o h e
+1368	- o p e ( - - )	126	breast	ope	KUB	peito	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ope	FALSE	PET	PWT	o p e
+1369	h u h e ( r i )	126	breast	huheri	KUE	peito	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	huheri	FALSE	PET	PWT	h u h e r i
+1370	- o h e ( - - )	126	breast	ohe	MAI	peito	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ohe	FALSE	PET	PWT	o h e
+1371	- o h e ( - - )	126	breast	ohe	SEK	peito	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ohe	FALSE	PET	PWT	o h e
+1372	- o - h e - -	126	breast	ohe	SIO	peito	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ohe	FALSE	PET	PWT	o h e
+1373	- ũ ʔp e ( - - )	126	breast	ũʔpe	TAN	peito	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ũʔpe	FALSE	PET	PWT	ũ ʔp e
+1374	- õ p ẽ ( - - )	126	breast	~ope	TUK	peito	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ope	FALSE	PET	PWT	õ p ẽ
+1375	- õ p ẽ ( - ã )	126	breast	~opea	TUY	peito	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~opea	FALSE	PET	PWT	õ p ẽ ã
+1376	- - p ẽ ( n õ )	126	breast	~pedo	WAN	peito	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~pedo	FALSE	PET	PWT	p ẽ n õ
+1377	- u p e ( - - )	126	breast	-	*PT	-	-	-	-	-	*upe	FALSE	-	-	u p e
+1378	- u t i -	127	wasp	uti	BAS	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	uti	FALSE	PET	PWT	u t i
+1379	- u t i -	127	wasp	uti	DES	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	uti	FALSE	PET	PWT	u t i
+1380	- u t i -	127	wasp	uti	KAR	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	uti	FALSE	PET	PWT	u t i
+1381	- u th i -	127	wasp	uthi	KOR	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	uthi	FALSE	PET	PWT	u th i
+1382	- u t∫ i -	127	wasp	ut∫i	KUB	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ut∫i	FALSE	PET	PWT	u t∫ i
+1383	h u t i -	127	wasp	huti	KUE	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	huti	FALSE	PET	PWT	h u t i
+1384	- u t i -	127	wasp	uti	MAI	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	uti	FALSE	PET	PWT	u t i
+1385	- u t i -	127	wasp	uti	SEK	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	uti	FALSE	PET	PWT	u t i
+1386	- u t i -	127	wasp	uti	SIO	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	uti	FALSE	PET	PWT	u t i
+1387	- u t i -	127	wasp	uti	TAN	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	uti	FALSE	PET	PWT	u t i
+1388	- u t i -	127	wasp	uti	TUK	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	uti	FALSE	PET	PWT	u t i
+1389	- u t i a	127	wasp	utia	TUY	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	utia	FALSE	PET	PWT	u t i a
+1390	- - t i -	127	wasp	ti	WAN	caba	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ti	FALSE	PET	PWT	t i
+1391	- u tt i -	127	wasp	-	*PT	-	-	-	-	-	*utti	TRUE	-	-	u t t i
+1392	w a j a	128	fish with a net	waja	BAS	pescar com rede	strain	GLOSA 2 PORT	GLOSA 3 PORT	remove	waja	FALSE	PET	PWT	w a j a
+1393	w a j a	128	fish with a net	waja	DES	pescar com rede	strain	GLOSA 2 PORT	GLOSA 3 PORT	remove	waja	FALSE	PET	PWT	w a j a
+1394	w a j - o	128	fish with a net	wajo	KOR	pescar com rede	strain	GLOSA 2 PORT	GLOSA 3 PORT	remove	wajo	FALSE	PET	PWT	w a j o
+1395	b e j o	128	fish with a net	bejo	MAI	pescar com rede	strain	GLOSA 2 PORT	GLOSA 3 PORT	remove	bejo	FALSE	PET	PWT	b e j o
+1396	w a ʔs a	128	fish with a net	waʔsa	TUK	pescar com rede	strain	GLOSA 2 PORT	GLOSA 3 PORT	remove	waʔsa	FALSE	PET	PWT	w a ʔs a
+1397	w a ʔs a	128	fish with a net	waʔsa	WAN	pescar com rede	strain	GLOSA 2 PORT	GLOSA 3 PORT	remove	waʔsa	FALSE	PET	PWT	w a ʔs a
+1398	w a j a	128	fish with a net	-	*PT	-	-	-	-	-	*waja	FALSE	-	-	w a j a
+1399	w a j u ( - - )	129	cheek	waju	BAS	bochecha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	waju	FALSE	PET	PWT	w a j u
+1400	w a ʔj u ( - - )	129	cheek	waʔju	DES	bochecha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	waʔju	FALSE	PET	PWT	w a ʔj u
+1401	w a s o ( - - )	129	cheek	waso	KAR	bochecha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	waso	FALSE	PET	PWT	w a s o
+1402	w a j o ( - - )	129	cheek	wajo	KOR	bochecha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wajo	FALSE	PET	PWT	w a j o
+1403	w ɨ - o ( - - )	129	cheek	wɨo	KUB	bochecha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wɨo	FALSE	PET	PWT	w ɨ o
+1404	b a j o ( - - )	129	cheek	bajo	MAI	bochecha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bajo	FALSE	PET	PWT	b a j o
+1405	w a j o ( - - )	129	cheek	wajo	SEK	bochecha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wajo	FALSE	PET	PWT	w a j o
+1406	w a j - o - -	129	cheek	wajo	SIO	bochecha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wajo	FALSE	PET	PWT	w a j o
+1407	w a ʔs u ( - - )	129	cheek	waʔsu	TUK	bochecha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	waʔsu	FALSE	PET	PWT	w a ʔs u
+1408	w a s o ( p u )	129	cheek	wasopu	TUY	bochecha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wasopu	FALSE	PET	PWT	w a s o p u
+1409	w a ʔs u ( - - )	129	cheek	waʔsu	WAN	bochecha	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	waʔsu	FALSE	PET	PWT	w a ʔs u
+1410	w a j o ( - - )	129	cheek	-	*PT	-	-	-	-	-	*wajo	FALSE	-	-	w a j o
+1411	w̃ ã m ẽ	130	name	~wabe	BAS	nome	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~wabe	FALSE	PET	PWT	w̃ ã m ẽ
+1412	w̃ ã - ĩ	130	name	~wai	DES	nome	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~wai	FALSE	PET	PWT	w̃ ã ĩ
+1413	w̃ ã m ẽ	130	name	~wabe	KAR	nome	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~wabe	FALSE	PET	PWT	w̃ ã m ẽ
+1414	m a m i	130	name	mami	KOR	nome	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mami	FALSE	PET	PWT	m a m i
+1415	- ã m ĩ	130	name	~abi	KUB	nome	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~abi	FALSE	PET	PWT	ã m ĩ
+1416	m a m i	130	name	mami	MAI	nome	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mami	FALSE	PET	PWT	m a m i
+1417	m a m i	130	name	mami	SEK	nome	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mami	FALSE	PET	PWT	m a m i
+1418	m a m i	130	name	mami	SIO	nome	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mami	FALSE	PET	PWT	m a m i
+1419	w̃ ã m ẽ	130	name	~wabe	TAN	nome	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~wabe	FALSE	PET	PWT	w̃ ã m ẽ
+1420	w̃ ã m ẽ	130	name	~wabe	TUK	nome	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~wabe	FALSE	PET	PWT	w̃ ã m ẽ
+1421	w̃ ã m ẽ	130	name	~wabe	TUY	nome	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~wabe	FALSE	PET	PWT	w̃ ã m ẽ
+1422	w̃ ã m ã	130	name	~waba	WAN	nome	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~waba	FALSE	PET	PWT	w̃ ã m ã
+1423	w ã m i	130	name	-	*PT	-	-	-	-	-	*wãmi	FALSE	-	-	w ã m i
+1424	w ã t i	131	mythical being	wãti	BAS	ser mítico do mato	ancestral (kub)	ancestral (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	wãti	FALSE	PET	PWT	w ã t i
+1425	w ã t i	131	mythical being	wãti	DES	ser mítico do mato	ancestral (kub)	ancestral (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	wãti	FALSE	PET	PWT	w ã t i
+1426	w ã t i	131	mythical being	wãti	KAR	ser mítico do mato	ancestral (kub)	ancestral (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	wãti	FALSE	PET	PWT	w ã t i
+1427	v a th i	131	mythical being	vathi	KOR	ser mítico do mato	ancestral (kub)	ancestral (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	vathi	FALSE	PET	PWT	v a th i
+1428	- ã t∫ ĩ	131	mythical being	~at∫i	KUB	ser mítico do mato	ancestral (kub)	ancestral (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	~at∫i	FALSE	PET	PWT	ã t∫ ĩ
+1429	- ã - i	131	mythical being	ãi	MAI	ser mítico do mato	ancestral (kub)	ancestral (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	ãi	FALSE	PET	PWT	ã i
+1430	w a t i	131	mythical being	wati	SEK	ser mítico do mato	ancestral (kub)	ancestral (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	wati	FALSE	PET	PWT	w a t i
+1431	w a t i	131	mythical being	wati	SIO	ser mítico do mato	ancestral (kub)	ancestral (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	wati	FALSE	PET	PWT	w a t i
+1432	w ã t i	131	mythical being	wãti	TAN	ser mítico do mato	ancestral (kub)	ancestral (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	wãti	FALSE	PET	PWT	w ã t i
+1433	w ã t i	131	mythical being	wãti	TUK	ser mítico do mato	ancestral (kub)	ancestral (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	wãti	FALSE	PET	PWT	w ã t i
+1434	w ã t i	131	mythical being	wãti	WAN	ser mítico do mato	ancestral (kub)	ancestral (kub)	GLOSA 3 PORT	GLOSS 3 ENGL	wãti	FALSE	PET	PWT	w ã t i
+1435	w ã tt i	131	mythical being	-	*PT	-	-	-	-	-	*wãtti	TRUE	-	-	w ã t t i
+1436	w a - i	132	fish	wai	BAS	peixe	GLOSA 2 ENGL	fish sp. (kub?)	GLOSA 3 PORT	GLOSS 3 ENGL	wai	FALSE	PET	PWT	w a i
+1437	w a ʔ i	132	fish	waʔi	DES	peixe	GLOSA 2 ENGL	fish sp. (kub?)	GLOSA 3 PORT	GLOSS 3 ENGL	waʔi	FALSE	PET	PWT	w a ʔ i
+1438	β a ʔ i	132	fish	βaʔi	KOR	peixe	GLOSA 2 ENGL	fish sp. (kub?)	GLOSA 3 PORT	GLOSS 3 ENGL	βaʔi	FALSE	PET	PWT	β a ʔ i
+1439	w á w i	132	fish	wáwi	KUB	peixe	GLOSA 2 ENGL	fish sp. (kub?)	GLOSA 3 PORT	GLOSS 3 ENGL	wáwi	FALSE	PET	PWT	w á w i
+1440	u a - i	132	fish	uai	KUE	peixe	GLOSA 2 ENGL	fish sp. (kub?)	GLOSA 3 PORT	GLOSS 3 ENGL	uai	FALSE	PET	PWT	u a i
+1441	b a - i	132	fish	bai	MAI	peixe	GLOSA 2 ENGL	fish sp. (kub?)	GLOSA 3 PORT	GLOSS 3 ENGL	bai	FALSE	PET	PWT	b a i
+1442	w a ʔ i	132	fish	waʔi	SEK	peixe	GLOSA 2 ENGL	fish sp. (kub?)	GLOSA 3 PORT	GLOSS 3 ENGL	waʔi	FALSE	PET	PWT	w a ʔ i
+1443	w - a ʔ i	132	fish	waʔi	SIO	peixe	GLOSA 2 ENGL	fish sp. (kub?)	GLOSA 3 PORT	GLOSS 3 ENGL	waʔi	FALSE	PET	PWT	w a ʔ i
+1444	w a ʔ i	132	fish	waʔi	TAN	peixe	GLOSA 2 ENGL	fish sp. (kub?)	GLOSA 3 PORT	GLOSS 3 ENGL	waʔi	FALSE	PET	PWT	w a ʔ i
+1445	w a ʔ i	132	fish	waʔi	TUK	peixe	GLOSA 2 ENGL	fish sp. (kub?)	GLOSA 3 PORT	GLOSS 3 ENGL	waʔi	FALSE	PET	PWT	w a ʔ i
+1446	w a - i	132	fish	wai	TUY	peixe	GLOSA 2 ENGL	fish sp. (kub?)	GLOSA 3 PORT	GLOSS 3 ENGL	wai	FALSE	PET	PWT	w a i
+1447	w a ʔ i	132	fish	waʔi	WAN	peixe	GLOSA 2 ENGL	fish sp. (kub?)	GLOSA 3 PORT	GLOSS 3 ENGL	waʔi	FALSE	PET	PWT	w a ʔ i
+1448	w a ʔ i	132	fish	-	*PT	-	-	-	-	-	*waʔi	FALSE	-	-	w a ʔ i
+1449	w e k ɨ	133	tapir	wekɨ	BAS	anta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wekɨ	FALSE	PET	PWT	w e k ɨ
+1450	w e k ɨ	133	tapir	wekɨ	DES	anta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wekɨ	FALSE	PET	PWT	w e k ɨ
+1451	β e kh ɨ	133	tapir	βekhɨ	KOR	anta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	βekhɨ	FALSE	PET	PWT	β e kh ɨ
+1452	w e k ɨ	133	tapir	wekɨ	KUB	anta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wekɨ	FALSE	PET	PWT	w e k ɨ
+1453	u e k ɨ	133	tapir	uekɨ	KUE	anta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	uekɨ	FALSE	PET	PWT	u e k ɨ
+1454	b e k ɨ	133	tapir	bekɨ	MAI	anta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bekɨ	FALSE	PET	PWT	b e k ɨ
+1455	w ẽ k ɨ	133	tapir	wẽkɨ	SEK	anta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wẽkɨ	FALSE	PET	PWT	w ẽ k ɨ
+1456	w - e k ɨ	133	tapir	wekɨ	SIO	anta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wekɨ	FALSE	PET	PWT	w e k ɨ
+1457	w e k ɨ	133	tapir	wekɨ	TUK	anta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wekɨ	FALSE	PET	PWT	w e k ɨ
+1458	w e k ɨ	133	tapir	wekɨ	TUY	anta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wekɨ	FALSE	PET	PWT	w e k ɨ
+1459	w a t∫ ɨ	133	tapir	wat∫ɨ	WAN	anta	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wat∫ɨ	FALSE	PET	PWT	w a t∫ ɨ
+1460	w e kk ɨ	133	tapir	-	*PT	-	-	-	-	-	*wekkɨ	TRUE	-	-	w e k k ɨ
+1461	w e k o	134	parrot	weko	BAS	papagaio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	weko	FALSE	PET	PWT	w e k o
+1462	w e k o	134	parrot	weko	DES	papagaio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	weko	FALSE	PET	PWT	w e k o
+1463	w e k o	134	parrot	weko	KAR	papagaio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	weko	FALSE	PET	PWT	w e k o
+1464	w e k o	134	parrot	weko	KOR	papagaio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	weko	FALSE	PET	PWT	w e k o
+1465	w e k o	134	parrot	weko	KUB	papagaio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	weko	FALSE	PET	PWT	w e k o
+1466	b e k o	134	parrot	beko	MAI	papagaio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	beko	FALSE	PET	PWT	b e k o
+1467	w e k o	134	parrot	weko	SEK	papagaio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	weko	FALSE	PET	PWT	w e k o
+1468	w e k o	134	parrot	weko	SIO	papagaio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	weko	FALSE	PET	PWT	w e k o
+1469	w e k o	134	parrot	weko	TUK	papagaio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	weko	FALSE	PET	PWT	w e k o
+1470	w e k o	134	parrot	weko	TUY	papagaio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	weko	FALSE	PET	PWT	w e k o
+1471	w a t∫ o	134	parrot	wat∫o	WAN	papagaio	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wat∫o	FALSE	PET	PWT	w a t∫ o
+1472	w e kk o	134	parrot	-	*PT	-	-	-	-	-	*wekko	TRUE	-	-	w e k k o
+1473	w e c e	135	garden	wece	BAS	roça	village	aldeia	fora	outside	wece	FALSE	PET	PWT	w e c e
+1474	w e s e	135	garden	wese	DES	roça	village	aldeia	fora	outside	wese	FALSE	PET	PWT	w e s e
+1475	w e ʔs e	135	garden	weʔse	KOR	roça	village	aldeia	fora	outside	weʔse	FALSE	PET	PWT	w e ʔs e
+1476	b e s e	135	garden	bese	MAI	roça	village	aldeia	fora	outside	bese	FALSE	PET	PWT	b e s e
+1477	β e ʔs e	135	garden	βeʔse	SEK	roça	village	aldeia	fora	outside	βeʔse	TRUE	PET	PWT	β e ʔs e
+1478	w e s e	135	garden	wese	TUK	roça	village	aldeia	fora	outside	wese	FALSE	PET	PWT	w e s e
+1479	w e s e	135	garden	wese	TUY	roça	village	aldeia	fora	outside	wese	FALSE	PET	PWT	w e s e
+1480	w e s e	135	garden	wese	WAN	roça	village	aldeia	fora	outside	wese	FALSE	PET	PWT	w e s e
+1481	w e s e	135	garden	-	*PT	-	-	-	-	-	*wese	FALSE	-	-	w e s e
+1482	w e - i	136	black_ink	wei	BAS	jenipapo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wei	FALSE	PET	PWT	w e i
+1483	w e ʔ e	136	̃̃	weʔe	KOR	jenipapo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	weʔe	FALSE	PET	PWT	w e ʔ e
+1484	w e - i	136	black_ink	wei	KUB	jenipapo	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wei	FALSE	PET	PWT	w e i
+1485	w e ʔ e	136	black_ink	-	*PT	-	-	-	-	-	*weʔe	FALSE	-	-	w e ʔ e
+1486	m ĩ n õ	137	wind	~bido	BAS	vento	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bido	FALSE	*wĩno	PWT	m ĩ n õ
+1487	m ĩ n ũ	137	wind	~bidu	DES	vento	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~bidu	FALSE	*wĩno	PWT	m ĩ n ũ
+1488	w̃ ĩ n õ	137	wind	~wido	KAR	vento	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~wido	FALSE	*wĩno	PWT	w̃ ĩ n õ
+1489	w̃ - ĩ r̃ õ	137	wind	~wiro	TAN	vento	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~wiro	FALSE	*wĩno	PWT	w̃ ĩ r̃ õ
+1490	w̃ ĩ n õ	137	wind	~wido	TUK	vento	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~wido	FALSE	*wĩno	PWT	w̃ ĩ n õ
+1491	w̃ ĩ n õ	137	wind	~wido	TUY	vento	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~wido	FALSE	*wĩno	PWT	w̃ ĩ n õ
+1492	w̃ ĩ n õ	137	wind	~wido	WAN	vento	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~wido	FALSE	*wĩno	PWT	w̃ ĩ n õ
+1493	u í n e	137	wind	uíne	YUP	vento	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	uíne	FALSE	*wĩno	PWT	u í n e
+1494	w ĩ n o	137	wind	-	*PT	-	-	-	-	-	*wĩno	FALSE	-	-	w ĩ n o
+1495	w i - -	138	house	wi	BAS	casa	anthill	formigueiro	GLOSA 3 PORT	GLOSS 3 ENGL	wi	FALSE	PET	PWT	w i
+1496	w i ʔ i	138	house	wiʔi	DES	casa	anthill	formigueiro	GLOSA 3 PORT	GLOSS 3 ENGL	wiʔi	FALSE	PET	PWT	w i ʔ i
+1497	w i - i	138	house	wii	KAR	casa	anthill	formigueiro	GLOSA 3 PORT	GLOSS 3 ENGL	wii	FALSE	PET	PWT	w i i
+1498	β ɨ ʔ e	138	house	βɨʔe	KOR	casa	anthill	formigueiro	GLOSA 3 PORT	GLOSS 3 ENGL	βɨʔe	FALSE	PET	PWT	β ɨ ʔ e
+1499	w ɨ - e	138	house	wɨe	KUB	casa	anthill	formigueiro	GLOSA 3 PORT	GLOSS 3 ENGL	wɨe	FALSE	PET	PWT	w ɨ e
+1500	w ɨ r i	138	house	wɨri	KUE	casa	anthill	formigueiro	GLOSA 3 PORT	GLOSS 3 ENGL	wɨri	FALSE	PET	PWT	w ɨ r i
+1501	u e - -	138	house	ue	MAI	casa	anthill	formigueiro	GLOSA 3 PORT	GLOSS 3 ENGL	ue	? is this alignment right ?	PET	PWT	u e
+1502	w ɨ ʔ e	138	house	wɨʔe	SEK	casa	anthill	formigueiro	GLOSA 3 PORT	GLOSS 3 ENGL	wɨʔe	FALSE	PET	PWT	w ɨ ʔ e
+1503	w ɨ ʔ e	138	house	wɨʔe	SIO	casa	anthill	formigueiro	GLOSA 3 PORT	GLOSS 3 ENGL	wɨʔe	FALSE	PET	PWT	w ɨ ʔ e
+1504	w i ʔ i	138	house	wiʔi	TAN	casa	anthill	formigueiro	GLOSA 3 PORT	GLOSS 3 ENGL	wiʔi	FALSE	PET	PWT	w i ʔ i
+1505	w i ʔ i	138	house	wiʔi	TUK	casa	anthill	formigueiro	GLOSA 3 PORT	GLOSS 3 ENGL	wiʔi	FALSE	PET	PWT	w i ʔ i
+1506	w i - i	138	house	wii	TUY	casa	anthill	formigueiro	GLOSA 3 PORT	GLOSS 3 ENGL	wii	FALSE	PET	PWT	w i i
+1507	w ɨ ʔ ɨ	138	house	wɨʔɨ	WAN	casa	anthill	formigueiro	GLOSA 3 PORT	GLOSS 3 ENGL	wɨʔɨ	FALSE	PET	PWT	w ɨ ʔ ɨ
+1508	w ɨ ʔ e	138	house	-	*PT	-	-	-	-	-	*wɨʔe	FALSE	-	-	w ɨ ʔ e
+1509	( - ) b ɨ h o	139	thunder	bɨho	BAS	trovão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨho	FALSE	PET	PWT	b ɨ h o
+1510	( - ) b u p u	139	thunder	bupu	DES	trovão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bupu	FALSE	PET	PWT	b u p u
+1511	( - ) - õ p õ	139	thunder	õpõ	KUB	trovão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	õpõ	FALSE	PET	PWT	õ p õ
+1512	( - ) m ɨ ʔh o	139	thunder	mɨʔho	KUE	trovão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mɨʔho	FALSE	PET	PWT	m ɨ ʔh o
+1513	( - ) m ɨ h a	139	thunder	mɨha	MAI	trovão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mɨha	FALSE	PET	PWT	m ɨ h a
+1514	( - ) m o h o	139	thunder	moho	SEK	trovão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	moho	FALSE	PET	PWT	m o h o
+1515	- m ɨ h o	139	thunder	mɨho	SIO	trovão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	mɨho	FALSE	PET	PWT	m ɨ h o
+1516	( a ) w ĩ p o	139	thunder	awĩpo	TAN	trovão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	awĩpo	FALSE	PET	PWT	a w ĩ p o
+1517	( - ) b ɨ p o	139	thunder	bɨpo	TUK	trovão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨpo	FALSE	PET	PWT	b ɨ p o
+1518	( - ) b ɨ p o	139	thunder	bɨpo	TUY	trovão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bɨpo	FALSE	PET	PWT	b ɨ p o
+1519	( - ) w ɨ p o	139	thunder	wɨpo	WAN	trovão	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wɨpo	FALSE	PET	PWT	w ɨ p o
+1520	( - ) w ɨ̃ p o	139	thunder	-	*PT	-	-	-	-	-	*wɨ̃po	FALSE	-	-	w ɨ̃ p o
+1521	b u u	140	agouti	buu	BAS	cutia	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	buu	FALSE	PET	PWT	b u u
+1522	b u i	140	agouti	bui	DES	cutia	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bui	FALSE	PET	PWT	b u i
+1523	b u u	140	agouti	buu	KAR	cutia	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	buu	FALSE	PET	PWT	b u u
+1524	β ɨ ɨ	140	agouti	βɨɨ	KOR	cutia	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	βɨɨ	FALSE	PET	PWT	β ɨ ɨ
+1525	b u ɨ	140	agouti	buɨ	KUB	cutia	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	buɨ	FALSE	PET	PWT	b u ɨ
+1526	w - ɨ	140	agouti	wɨ	SEK	cutia	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wɨ	FALSE	PET	PWT	w ɨ
+1527	w ɨ -	140	agouti	wɨ	SIO	cutia	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	wɨ	FALSE	PET	PWT	w ɨ
+1528	b u i	140	agouti	bui	TAN	cutia	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	bui	FALSE	PET	PWT	b u i
+1529	b u u	140	agouti	buu	TUK	cutia	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	buu	FALSE	PET	PWT	b u u
+1530	b u u	140	agouti	buu	WAN	cutia	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	buu	FALSE	PET	PWT	b u u
+1531	w u ɨ	140	agouti	-	*PT	-	-	-	-	-	*wuɨ	TRUE	-	-	w u ɨ
+1532	ŋ ɨ̃ t ã	141	stone	~gɨta	BAS	pedra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~gɨta	FALSE	PET	PWT	ŋ ɨ̃ t ã
+1533	- ɨ̃ t ã	141	stone	~ɨta	DES	pedra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨta	FALSE	PET	PWT	ɨ̃ t ã
+1534	- ɨ̃ t ã	141	stone	~ɨta	KAR	pedra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨta	FALSE	PET	PWT	ɨ̃ t ã
+1535	k a th a	141	stone	katha	KOR	pedra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	katha	FALSE	PET	PWT	k a th a
+1536	k ɨ̃ t ã	141	stone	~kɨta	PIR	pedra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~kɨta	FALSE	PET	PWT	k ɨ̃ t ã
+1537	k ɨ n a	141	stone	kɨna	SEK	pedra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kɨna	FALSE	PET	PWT	k ɨ n a
+1538	kʔ a t a	141	stone	kʔata	SIO	pedra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	kʔata	TRUE	PET	PWT	kʔ a t a
+1539	- ã t a	141	stone	ãta	TAN	pedra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	ãta	FALSE	PET	PWT	ã t a
+1540	- ɨ̃ t ã	141	stone	~ɨta	TUK	pedra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨta	FALSE	PET	PWT	ɨ̃ t ã
+1541	- ɨ̃ t ã	141	stone	~ɨta	TUY	pedra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	~ɨta	FALSE	PET	PWT	ɨ̃ t ã
+1542	g ɨ l ɨ	141	stone	gɨlɨ	YUP	pedra	GLOSA 2 ENGL	GLOSA 2 PORT	GLOSA 3 PORT	GLOSS 3 ENGL	gɨlɨ	FALSE	PET	PWT	g ɨ l ɨ
+1543	kʔ ɨ̃ t a	141	stone	-	*PT	-	-	-	-	-	*kʔɨ̃ta	TRUE	-	-	kʔ ɨ̃ t a
